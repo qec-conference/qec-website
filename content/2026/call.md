@@ -1,11 +1,10 @@
-{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Call for papers
-year: {{ $year }}
+year: 2026
 draft: false
 type: text_page
 menu:
-    {{ $year }}:
+    2026:
         weight: 15
         identifier: call
         parent: technical-program
@@ -13,17 +12,17 @@ menu:
 
 The call for papers will be published soon here...
 
-<!-- ## Key Dates TQC {{ $year }}
+<!-- ## Key Dates TQC 2026
 <strong>(all times 23:59 AoE)</strong>
 
 |Date |Event|
 |:----|:----|
-| 20 February {{ $year }} | Opening of submission server |
-| Sat, 1 March {{ $year }} |  Talk/Poster submission deadline |
-| Fri, 25 April {{ $year }} | Talk acceptance notification |
-| Wed, 30 April {{ $year }} | Poster-only submission deadline |
-| Mon, 5 May {{ $year }} | Poster-only acceptance notification |
-| Mon, 15 - Fri, 19 Sept {{ $year }} | TQC {{ $year }} |
+| 20 February 2026 | Opening of submission server |
+| Sat, 1 March 2026 |  Talk/Poster submission deadline |
+| Fri, 25 April 2026 | Talk acceptance notification |
+| Wed, 30 April 2026 | Poster-only submission deadline |
+| Mon, 5 May 2026 | Poster-only acceptance notification |
+| Mon, 15 - Fri, 19 Sept 2026 | TQC 2026 |
 
 
 **Note:** Talk submissions that are not retained will automatically be considered for the poster session.
@@ -88,7 +87,7 @@ All submissions should include *both* an extended abstract and a technical versi
 The Program Committee reserves the right to decide how to treat submissions that deviate from the above format, including rejection of submissions solely on the basis of their format.
 
 ### Proceedings
-Accepted manuscripts in the With Proceedings track will be published in late {{ $year }} in the TQC {{ $year }} proceedings, as part of the well-known open-access LIPIcs–Leibniz International Proceedings in Informatics series.  Only the first 15 pages of the technical version of the manuscript will be published, due to LIPIcs-Leibniz formatting requirements (references are not included in this page limit).  If available, a link to a longer version of the paper in an on-line repository can be included as a footnote or a reference within these 15 pages.  While technical manuscripts need not use the LIPIcs-Leibniz template for the submission, the Program Committee will make their decisions based on the first 15 pages of the technical manuscript and  authors are strongly encouraged to make these first 15 pages self-contained.
+Accepted manuscripts in the With Proceedings track will be published in late 2026 in the TQC 2026 proceedings, as part of the well-known open-access LIPIcs–Leibniz International Proceedings in Informatics series.  Only the first 15 pages of the technical version of the manuscript will be published, due to LIPIcs-Leibniz formatting requirements (references are not included in this page limit).  If available, a link to a longer version of the paper in an on-line repository can be included as a footnote or a reference within these 15 pages.  While technical manuscripts need not use the LIPIcs-Leibniz template for the submission, the Program Committee will make their decisions based on the first 15 pages of the technical manuscript and  authors are strongly encouraged to make these first 15 pages self-contained.
 
 ### Final version
 If your manuscript is accepted for publication in the proceedings, you will receive instructions on how to prepare the final revised version together with the notification.
@@ -106,4 +105,4 @@ On the first page of your submission, indicate if your work is currently under s
 ## Program Committee
 The program committee list can be found <a href="/team/#program-committee">here</a>.
 
-Please direct any questions or comments to the PC chairs via email to {{< button-link label="pcchairs{{ $year }}@tqc-conference.org" url="mailto:pcchairs{{ $year }}@tqc-conference.org" icon="email" >}}. -->
+Please direct any questions or comments to the PC chairs via email to {{< button-link label="pcchairs2026@tqc-conference.org" url="mailto:pcchairs2026@tqc-conference.org" icon="email" >}}. -->

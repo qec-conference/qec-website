@@ -1,12 +1,11 @@
-{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: Speakers
-year: {{ $year }}
+year: 2026
 draft: true
 type: speakers
 layout: list_with_header
 menu:
-    {{ $year }}:
+    2026:
         weight: 40
         identifier: speakers
         parent: technical-program
@@ -14,11 +13,11 @@ menu:
 ---
 
 
-{{< speakers types="tutorial=Tutorial Speakers" year={{ $year }} >}}
+{{< speakers types="tutorial=Tutorial Speakers" year=2026 >}}
 
-{{< speakers types="invited=Invited Speakers" year={{ $year }} >}}
+{{< speakers types="invited=Invited Speakers" year=2026 >}}
 
-{{< speakers types="industry=Industry Panel" year={{ $year }} >}}
+{{< speakers types="industry=Industry Panel" year=2026 >}}
 
-{{< speakers types="lecture=Public Lecture" year={{ $year }} >}}
+{{< speakers types="lecture=Public Lecture" year=2026 >}}
 

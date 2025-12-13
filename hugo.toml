@@ -3,6 +3,7 @@
 baseURL = "https://tqc-website.netlify.app/"
 languageCode = "en"
 title = "TQC Conference Website"
+ignoreFiles = ["archetypes/.*"]
 
 # Theme
 theme = "devfest-theme-hugo"
