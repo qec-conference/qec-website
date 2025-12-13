@@ -24,59 +24,40 @@ enableMissingTranslationPlaceholders = true
 [params]
     title = "TQC Conference Website"
     date = "2025-09-15"
-    currentYear = 2025
-    description = "International Conference on Theory of Quantum Computation, Communication and Cryptography (TQC)"
-    images = ["/images/social-share.jpg"]
-    email = "webmaster@tqc-conference.org"
-    keywords = "event, quantum computation, communication, cryptography, TQC"
-    copyright = "We :heart: quantum"
-    copyright_link = "https://github.com/IAQI/tqc-website"
-    # cfpUrl = "/2024/call"
-    # subscriptionUrl = ""
-    appleTouchIcon = "/apple-touch-icon.png"
-    favicon32 = "/favicon-32x32.png"
-    favicon16 = "/favicon-16x16.png"
-    manifest = "/site.webmanifest"
-    # safariPinnedTab = "/safari-pinned-tab.svg"
-
-[params.2024]
-  city = "Okinawa, Japan"
-  timeanddate_cityid = 775
-  themeColor = "#f3a31b"
-  [params.2024.logos]
-    jumbo = "/images/2024/background-2024.png"
-    header = "/images/2024/tqc2024-logo.jpg"
-    banner = "/images/2024/banner-2024.jpg"
-
-[params.2025]
-  city = "Bengaluru, India"
-  timeanddate_cityid = 775
-  themeColor = "#4e8803"
-  [params.2025.logos]
-    jumbo = "/images/2025/background-2025.png"
-    header = "/images/2025/tqc-logo-2025.png"
-    banner = "/images/2025/banner-2025.jpg"
-
-[params.2026]
-  city = "Sherbrooke, Canada"
-  timeanddate_cityid = 1221
-  themeColor = "#1e88e5"
-  [params.2026.logos]
-    jumbo = "/images/2026/background-2026.jpg"
-    header = "/images/2026/logo-2026.png"
-    banner = "/images/2026/banner-2026.png"
-
-
-[params.logos]
-    footer = "/images/logos/netlify-color-accent.svg"
-    footer_link = "https://www.netlify.com"
-
-[server]
-  [[server.redirects]]
-      from = "/"
-      to = "/2025/"
-      status = 302
-      force = true 
+        currentYear = 2026
+        description = "International Conference on Theory of Quantum Computation, Communication and Cryptography (TQC)"
+        images = ["/images/social-share.jpg"]
+        email = "webmaster@tqc-conference.org"
+        keywords = "event, quantum computation, communication, cryptography, TQC"
+        copyright = "We :heart: quantum"
+        copyright_link = "https://github.com/IAQI/tqc-website"
+        # cfpUrl = "/2024/call"
+        # subscriptionUrl = ""
+        appleTouchIcon = "/apple-touch-icon.png"
+        favicon32 = "/favicon-32x32.png"
+        favicon16 = "/favicon-16x16.png"
+        manifest = "/site.webmanifest"
+        # safariPinnedTab = "/safari-pinned-tab.svg"
+    
+    [params.2026]
+      city = "TBD"
+      timeanddate_cityid = 775 ## Placeholder ID, update as needed!
+      themeColor = "#1e88e5"
+      [params.2026.logos]
+        jumbo = "/images/2026/background-2026.png"
+        header = "/images/2026/tqc-logo-2026.png"
+        banner = "/images/2026/banner-2026.jpg"    
+    
+    [params.logos]
+        footer = "/images/logos/netlify-color-accent.svg"
+        footer_link = "https://www.netlify.com"
+    
+    [server]
+      [[server.redirects]]
+          from = "/"
+          to = "/2026/"
+          status = 302
+          force = true 
 
 
 [languages]
@@ -115,53 +96,7 @@ unsafe = true
         privacyEnhanced = true
 
 
-[[menu.2024]]
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  pageRef = '/2024'
-[[menu.2024]]
-  name = "Technical Program"
-  weight = 20
-  identifier = "technical-program"
-[[menu.2024]]
-  name = "Attend"
-  weight = 30
-  identifier = "attend"
-[[menu.2024]]
-  name = "Sponsors"
-  weight = 40
-  identifier = "sponsors"
-  pageRef = "/2024/partners"
-[[menu.2024]]
-  name = "Committees"
-  weight = 50
-  identifier = "committees"
-  pageRef = "/2024/team"
 
-[[menu.2025]]
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  pageRef = '/2025'
-[[menu.2025]]
-  name = "Technical Program"
-  weight = 20
-  identifier = "technical-program"
-[[menu.2025]]
-  name = "Attend"
-  weight = 30
-  identifier = "attend"
-[[menu.2025]]
-  name = "Sponsors"
-  weight = 40
-  identifier = "sponsors"
-  pageRef = "/2025/partners"
-[[menu.2025]]
-  name = "Committees"
-  weight = 50
-  identifier = "committees"
-  pageRef = "/2025/team"
 
 
 

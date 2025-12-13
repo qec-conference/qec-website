@@ -1,9 +1,10 @@
+{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 key: industry
 title: "Industry Dinner & Networking"
 format: industry
 type: sessions
-year: 2026
+year: {{ $year }}
 id: industry
 speakers:
 videoId: null

@@ -1,17 +1,18 @@
+{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Presentations
-year: 2026
+year: {{ $year }}
 type: text_page
 draft: true
 menu:
-    2026:
+    {{ $year }}:
         weight: 10
         parent: technical-program
 
 ---
  
 ## Presentation Instructions
- TQC 2026 is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
+ TQC {{ $year }} is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
 
 <!-- 
 

@@ -1,12 +1,13 @@
+{{- $year := path.Base (path.Dir (path.Dir (path.Dir .File.Path))) -}}
 ---
 key: khurana 
 name: Dakshita Khurana
 surname: Khurana
-year: 2026
+year: {{ $year }}
 company: University of Illinois Urbana-Champaign
-photoURL: /2026/speakers/images/khurana.png
+photoURL: /{{ $year }}/speakers/images/khurana.png
 type: invited
-website: '/2026/sessions/invited_khurana'
+website: '/{{ $year }}/sessions/invited_khurana'
 socials:
   - link: https://cs.illinois.edu/about/people/faculty/dakshita
     name: Website

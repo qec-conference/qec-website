@@ -1,8 +1,9 @@
+{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: "Invited Talk: ''Adventures in Quantum Wonderland: Understanding Cryptographic Hardness in a Quantum World''"
 format: invited
 type: sessions
-year: 2026
+year: {{ $year }}
 tags:
 - crypto
 speakers:

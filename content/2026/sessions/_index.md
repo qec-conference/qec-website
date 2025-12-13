@@ -1,17 +1,18 @@
+{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: Sessions
-year: 2026
+year: {{ $year }}
 draft: true
 type: sessions
 menu:
-    2026:
+    {{ $year }}:
         weight: 50
         identifier: sessions
         parent: technical-program
 
 ---
 
-This page gives an overview of the sessions. The {{< button-link label="schedule" url="/2026/schedule" icon="cfp">}} is now available.
+This page gives an overview of the sessions. The {{< button-link label="schedule" url="/{{ $year }}/schedule" icon="cfp">}} is now available.
 
 <!-- ##  Google Calendar
 In the meanwhile, subscribe to this calendar to stay updated about the official dates and events.

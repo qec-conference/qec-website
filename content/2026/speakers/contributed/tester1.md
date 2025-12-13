@@ -1,3 +1,4 @@
+{{- $year := path.Base (path.Dir (path.Dir (path.Dir .File.Path))) -}}
 ---
 key: tester
 name: David Tester

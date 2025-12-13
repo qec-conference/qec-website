@@ -1,6 +1,7 @@
+{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: Committees
-year: 2026
+year: {{ $year }}
 type: team
 layout: list_with_header
 draft: False
@@ -9,11 +10,11 @@ draft: False
 <!-- We have to include the section titles here, rather than generating them in the teams shortcode, because otherwise the .TableOfContent is incorrect. -->
 
 ## Local Organizer
-{{< teams types="core" year=2026 >}}
+{{< teams types="core" year={{ $year }} >}}
 
-You can contact the Organizing Committee via email to {{< button-link label="2026@tqc-conference.org" url="mailto:2026@tqc-conference.org" icon="email" >}}
+You can contact the Organizing Committee via email to {{< button-link label="{{ $year }}@tqc-conference.org" url="mailto:{{ $year }}@tqc-conference.org" icon="email" >}}
 
-{{< teams types="org" year=2026 >}}
+{{< teams types="org" year={{ $year }} >}}
 
 ### Local Organizers
 * XXX
@@ -25,11 +26,11 @@ You can contact the Organizing Committee via email to {{< button-link label="202
 * XXX
 
 ## Steering Committee
-{{< teams types="steering" year=2026 >}}
+{{< teams types="steering" year={{ $year }} >}}
 
 ## Program Committee
-{{< teams types="pcchairs=PC chair" year=2026 >}}
-You can contact the PC chair via email to {{< button-link label="pcchairs2026@tqc-conference.org" url="mailto:pcchairs2026@tqc-conference.org" icon="email" >}}<br>
+{{< teams types="pcchairs=PC chair" year={{ $year }} >}}
+You can contact the PC chair via email to {{< button-link label="pcchairs{{ $year }}@tqc-conference.org" url="mailto:pcchairs{{ $year }}@tqc-conference.org" icon="email" >}}<br>
 
 ### PC members
 * XXX

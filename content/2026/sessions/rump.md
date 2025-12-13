@@ -1,3 +1,4 @@
+{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: 'Rump Session'
 type: sessions

@@ -1,20 +1,21 @@
+{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Registration
-year: 2026
+year: {{ $year }}
 
 draft: true
 type: text_page
 menu:
-    2026:
+    {{ $year }}:
         weight: 2
         parent: attend
 
 ---
 
 ## TODO
-Update from https://tqc-conference.org/registration2026/
+Update from https://tqc-conference.org/registration{{ $year }}/
 
-In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="2026@tqc-conference.org" url="mailto:2026@tqc-conference.org" icon="email" >}}
+In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="{{ $year }}@tqc-conference.org" url="mailto:{{ $year }}@tqc-conference.org" icon="email" >}}
 
 
 ### General Information

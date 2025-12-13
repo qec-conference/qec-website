@@ -1,9 +1,11 @@
+{{- $year := path.Base (path.Dir (path.Dir (path.Dir .File.Path))) -}}
+
 ---
-year: 2026
+year: {{ $year }}
 title: University of Amsterdam
 type: partner
 draft: false
 category: community
-logo: /2026/partners/logos/uva.png
+logo: /{{ $year }}/partners/logos/uva.png
 website: https://www.uva.nl
 ---

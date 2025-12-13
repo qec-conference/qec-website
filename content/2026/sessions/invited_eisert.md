@@ -1,8 +1,9 @@
+{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: "Invited Talk: ''Potential and Limitations of Near-Term Quantum Computing''"
 format: invited
 type: sessions
-year: 2026
+year: {{ $year }}
 speakers:
   - eisert
 presentation: null

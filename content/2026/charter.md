@@ -1,6 +1,7 @@
+{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: TQC Charter
-year: 2026
+year: {{ $year }}
 draft: false
 type: text_page
 # no menu entry necessary, as the charter, history and code of conduct are accessible from the links in the footer
