@@ -1,9 +1,8 @@
-{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Code of Conduct
-year: {{ $year }}
+year: 2026
 menu:
-    {{ $year }}:
+    2026:
         weight: 40
         identifier: code-of-conduct
         parent: attend

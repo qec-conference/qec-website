@@ -1,4 +1,3 @@
-{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: Poster Session Monday (Click to see the list of posters)
 type: sessions
