@@ -9,9 +9,10 @@ type: home
 layout: home
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/2026/background-2026.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
+{{% jumbo img="/images/2026/hilton-beachfront.png" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
 
-## June 7th-12th, 2026
+## <span style="color: white;">June 7th-12th, 2026</span>
+
 
 {{< button-link label="Call For Papers"
                 url="call"
@@ -50,11 +51,11 @@ QEC 2026 is the 8th edition of the International Quantum Error Correction confer
 
 <!-- THE MAP -->
 {{% home-location
-    image="/images/2026/venue-2026.jpg"
+    image="/images/2026/hilton-beachfront.png"
     address="633 E Cabrillo Blvd, Santa Barbara, CA 93103"
     %}}
 
-## The 2026 venue
+## Hilton Beachfront Santa Barbara
 {{% /home-location %}}
 
 
