@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QEC Conference Website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on QEC Conference Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Meeting</title>
+      <link>http://localhost:1313/2026/sessions/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/business/</guid>
+      <description>&lt;p&gt;We will discuss any pressing business for the conference, cover the financials and operations of QEC26, and announce the hosts for QEC27. All are welcome to attend!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call for papers</title>
+      <link>http://localhost:1313/2026/call/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/call/</guid>
+      <description>&lt;p&gt;The call for papers will be published soon here&amp;hellip;&lt;/p&gt;&#xA;&lt;!-- ## Key Dates QEC 2026&#xA;&lt;strong&gt;(all times 23:59 AoE)&lt;/strong&gt;&#xA;&#xA;|Date |Event|&#xA;|:----|:----|&#xA;| 20 February 2026 | Opening of submission server |&#xA;| Sat, 1 March 2026 |  Talk/Poster submission deadline |&#xA;| Fri, 25 April 2026 | Talk acceptance notification |&#xA;| Wed, 30 April 2026 | Poster-only submission deadline |&#xA;| Mon, 5 May 2026 | Poster-only acceptance notification |&#xA;| Mon, 15 - Fri, 19 Sept 2026 | QEC 2026 |&#xA;&#xA;&#xA;**Note:** Talk submissions that are not retained will automatically be considered for the poster session.&#xA;&#xA;## Topics&#xA;The Theory of Quantum Computation, Communication and Cryptography (QEC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. The scientific objective of QEC is to bring together the theoretical quantum information science community to present and discuss the latest advances in the field.&#xA;&#xA;Areas of interest for QEC include, but are not restricted to:&#xA;- quantum algorithms&#xA;- models of quantum computation&#xA;- quantum complexity theory&#xA;- simulation of quantum systems&#xA;- quantum cryptography&#xA;- quantum communication&#xA;- quantum information theory&#xA;- quantum estimation and measurement&#xA;- quantum error correction and fault-tolerant quantum computing&#xA;- intersection of quantum information and condensed-matter theory&#xA;- intersection of quantum information and machine learning&#xA;&#xA;&#xA;## Submission Guidelines&#xA;&#xA;As the goal of QEC is to bring together researchers on all aspects of quantum information, submissions are solicited for two tracks.&#xA;&#xA;### With Proceedings Track&#xA;Submissions to this track must be original manuscripts that **have not previously appeared in published form and are not simultaneously submitted to another publishing venue**. Accepted papers will be presented orally at the conference and will be published in the conference proceedings.&#xA;&#xA;### Without Proceedings Track (Talk Only) &#xA;Accepted submissions will be presented orally at the conference but will not appear in the proceedings. This track allows authors to publish their work elsewhere and accepts already published material. Previously published submissions must still be current to be competitive for acceptance.&#xA;&#xA;It is possible to present a poster if a submission is not accepted for a talk in either track, and poster-only submissions are also possible.&#xA;&#xA;In recent years, the overall **acceptance rate** for all papers submitted to QEC has been approximately 25%. The Program Committee will target a minimum of 10 articles to be published in the proceedings; therefore, the acceptance rates could differ between the two tracks.&#xA;&#xA;### Best Paper Prize&#xA;The Best Paper prize will be awarded to the best paper accepted to the conference (both tracks combined). The Program Committee may decide to split the prize between multiple papers or to decline to make an award.&#xA;&#xA;### Best Student Paper Prize&#xA;The Best Student Paper prize will be awarded to the best student paper accepted at the conference (both tracks combined). The Program Committee may decide to split the prize between multiple papers or to decline to make an award.&#xA;&#xA;A submission is eligible for the Best Student Paper prize if and only if the main author(s) is/are a student(s) at the time of submission and will present the work at QEC. Additionally, a significant portion of the work (at least 60%) must have been done by the student(s), including contributing the majority of the key ideas. Eligibility can only be indicated at the time of submission. The Program Committee Chair may request clarifications regarding the students&#39; contributions at any time. If a paper qualifies for both the Best Student Paper prize and the Best Paper prize, it should be considered for both; a paper meriting both prizes should receive both.&#xA;&#xA;### Submission Format (applies to both With and Without Proceedings tracks)&#xA;&#xA;All submissions should include *both* an extended abstract and a technical version, submitted as two separate PDF files.&#xA;&#xA;#### Extended Abstract&#xA;- At most 3 pages (excluding references), containing a non-technical, clear, and insightful description of the main ideas, results, their impact, and relationship with concurrent and prior work.&#xA;- This extended abstract will be used to evaluate the originality and importance of the results.&#xA;- The submission should begin with a title and a list of authors.&#xA;- The text must be in a single-column format, use at least 11-point fonts, and have reasonable margins.&#xA;- If the work is currently under submission to, has been accepted at, or has been presented at any other conference(s) or workshop(s) (without proceedings), this should be indicated on the first page of the submission.&#xA;&#xA;#### Technical Manuscript&#xA;- No page limit. Authors are encouraged to use the &#34;full version&#34; of their paper.&#xA;- The submission should begin with a title, a list of authors, and a short abstract.&#xA;- This manuscript will be used to verify the correctness of the submission if necessary.&#xA;- Even if the manuscript is available in an online repository, a PDF copy must be uploaded. If the submission consists of multiple papers, they should be merged into a single file.&#xA;- See the Proceedings section below for further instructions that apply to the With Proceedings track.&#xA;&#xA;The Program Committee reserves the right to decide how to treat submissions that deviate from the above format, including rejection of submissions solely on the basis of their format.&#xA;&#xA;### Proceedings&#xA;Accepted manuscripts in the With Proceedings track will be published in late 2026 in the QEC 2026 proceedings, as part of the well-known open-access LIPIcs–Leibniz International Proceedings in Informatics series.  Only the first 15 pages of the technical version of the manuscript will be published, due to LIPIcs-Leibniz formatting requirements (references are not included in this page limit).  If available, a link to a longer version of the paper in an on-line repository can be included as a footnote or a reference within these 15 pages.  While technical manuscripts need not use the LIPIcs-Leibniz template for the submission, the Program Committee will make their decisions based on the first 15 pages of the technical manuscript and  authors are strongly encouraged to make these first 15 pages self-contained.&#xA;&#xA;### Final version&#xA;If your manuscript is accepted for publication in the proceedings, you will receive instructions on how to prepare the final revised version together with the notification.&#xA;&#xA;### Poster submissions&#xA;Talk submissions that are not retained will automatically be considered for the poster session (in both tracks). In addition, you can submit your work for a poster-only presentation.&#xA;&#xA;Poster-only submissions must either consist of a short summary (2 pages) of the work, or follow the guidelines from either of the tracks above.&#xA;&#xA;### Important note: talk submission to multiple conferences&#xA;As a research community, our goal is that contributed talks at quantum information conferences reflect the breadth of our field. We therefore discourage the parallel submission of works that were previously accepted or presented as talks at a conference with a similar scope, such as [QIP](https://qipconference.org/).&#xA;&#xA;On the first page of your submission, indicate if your work is currently under submission to, has been accepted at, or has been presented at any other conference or workshop, as a talk. If that is the case, quickly discuss the reason for the multiple submissions as well as significant differences relative to these submissions or venues.  The assessment of this information is at the Program Committee’s discretion.&#xA;&#xA;## Program Committee&#xA;The program committee list can be found &lt;a href=&#34;http://localhost:1313/team/#program-committee&#34;&gt;here&lt;/a&gt;.&#xA;&#xA;Please direct any questions or comments to the PC chairs via email to &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;mailto:pcchairs2026@qec-conference.org&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-email&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;pcchairs2026@qec-conference.org&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+    </item>
+    <item>
+      <title>Closing Remarks</title>
+      <link>http://localhost:1313/2026/sessions/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/close/</guid>
+      <description>&lt;p&gt;See you next year!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://localhost:1313/2026/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/code-of-conduct/</guid>
+      <description>&lt;h1 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h1&gt;&#xA;&lt;p&gt;The open exchange of ideas and the freedom of thought and expression are central to the aims and&#xA;goals of the Quantum Error Correction conference. These require an environment that recognizes the&#xA;inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and&#xA;that embraces diversity. For these reasons, the QEC Steering Committee and Local Organising&#xA;Committee are committed to providing an inclusive and harassment-free conference experience. We&#xA;ask that all participants follow these guidelines:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coffee &amp; Snacks</title>
+      <link>http://localhost:1313/2026/sessions/__coffeesnacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__coffeesnacks/</guid>
+      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:1313/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+    </item>
+    <item>
+      <title>Coffee Break</title>
+      <link>http://localhost:1313/2026/sessions/__break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__break/</guid>
+      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:1313/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+    </item>
+    <item>
+      <title>Conference Dinner</title>
+      <link>http://localhost:1313/2026/sessions/__dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__dinner/</guid>
+      <description>&lt;p&gt;The Conference Dinner this year will take place in the Plaza del Sol at the Hilton Beachfront Santa Barbara after the Business Meeting. We will also have a speaker for the dinner, more information coming soon!&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/2026/picture-of-plaza.jpg&#34; alt=&#34;drawing&#34; style=&#34;width:400px;&#34;/&gt;</description>
+    </item>
+    <item>
+      <title>Google Quantum AI</title>
+      <link>http://localhost:1313/2026/partners/community/uva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/partners/community/uva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch break</title>
+      <link>http://localhost:1313/2026/sessions/__lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__lunch/</guid>
+      <description>&lt;p&gt;Lunch will be provided at the Hilton during the break.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poster Session 1 (Click to see the list of posters)</title>
+      <link>http://localhost:1313/2026/sessions/poster_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/poster_1/</guid>
+      <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: &#xA;Data key: posters-&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Poster Session 2 (Click to see the list of posters)</title>
+      <link>http://localhost:1313/2026/sessions/poster_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/poster_2/</guid>
+      <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: &#xA;Data key: posters-&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>QEC Charter</title>
+      <link>http://localhost:1313/2026/charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/charter/</guid>
+      <description>&lt;h2 id=&#34;goal-of-the-conference&#34;&gt;Goal of the conference&lt;/h2&gt;&#xA;&lt;p&gt;QEC is a conference on Quantum Error Correction and includes both theoretical and experimental research and advances.  The conference is held every year or every other year at the discretion of the steering committee. Its goal is to represent the best research in the area, in the form of both invited and contributed talks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;format-of-the-conference&#34;&gt;Format of the conference&lt;/h2&gt;&#xA;&lt;p&gt;The conference features both invited and contributed talks, with the steering committee selecting the invited talks and a program committee selecting contributed talks. The conference has no published proceedings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QEC History</title>
+      <link>http://localhost:1313/2026/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/history/</guid>
+      <description>&lt;h2 id=&#34;previous-editions&#34;&gt;Previous Editions&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Year &amp;amp; Websites&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Hosting Organization&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Local organizer chair&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Program committee chair&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2025&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yale University&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Steve Girvin&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Steve Flammia&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2023&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;University of Sydney&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Stephen Bartlett&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Andrew Doherty&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/2026/sessions/__registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__registration/</guid>
+      <description>&lt;p&gt;Registration will be at the Hilton, near the entrance to the Grand Ballroom.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcoming Remarks</title>
+      <link>http://localhost:1313/2026/sessions/__welcomingremarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__welcomingremarks/</guid>
+      <description>&lt;p&gt;Welcome everybody!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
