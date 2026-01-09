@@ -2,7 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3d3b6d5c-0a7d-4fea-a32e-9a1f7cbaa79a/deploy-status)](https://app.netlify.com/sites/qec-website/deploys)
 
-Hugo-powered QEC website for 2025 edition and later, live at at https://qec-website.netlify.app. The Theory of Quantum Computation, Communication and Cryptography (QEC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. 
+Hugo-powered QEC website for 2025 edition and later, live at at https://qec-website.netlify.app. 
+The International QEC Conference (QEC) is a leading annual international conference for students and researchers working on theory and experiment in quantum error correction. 
 
  [Hugo](https://gohugo.io/) is a fast static website generator. https://qec-website.netlify.app is generously hosted by [netlify](https://www.netlify.com/) under a [Open Source Plan](https://www.netlify.com/legal/open-source-policy/) :heart:!
 
