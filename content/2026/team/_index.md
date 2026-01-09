@@ -26,7 +26,7 @@ You can contact the Organizing Committee via email to {{< button-link label="adm
 
 ## Program Committee
 * Matt McEwen (Chair)
-* Aleks Kubica (Co-Chair)
+* Aleksander Kubica (Co-Chair)
 * Natalie C. Brown (Co-Chair)
 
 ### PC members

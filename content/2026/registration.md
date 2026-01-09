@@ -44,4 +44,3 @@ People who register agree to abide by the <a href="/code-of-conduct">conference 
 
 ### VISA
 A visa letter can be requested during the registration process. Completion of the registration is required to issue a VISA letter. Visa letter requests can be made directly at the email address {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
-s

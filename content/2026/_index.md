@@ -11,7 +11,7 @@ layout: home
 <!-- JUMBO -->
 {{% jumbo img="/images/2026/background-2026.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
 
-## 15-19 September 2026
+## June 7th-12th, 2026
 
 {{< button-link label="Call For Papers"
                 url="call"
@@ -20,10 +20,10 @@ layout: home
 {{% /jumbo %}}
 
 
-{{% home-info what="Participants:>200,Days:5,Invited Talks:4" class="primary" %}}
+{{% home-info what="Participants:>500,Days:5,Invited Talks:5" class="primary" %}}
 ## What is QEC 2026?
 
-QEC 2026 is the 20th [ADJUST!] edition of the yearly international scientific conference on the Theory of Quantum Computation, Communication and Cryptography. See the list of previous conferences <a style="color: yellow" href="/2026/charter/#history-of-qec">here</a>.
+QEC 2026 is the 8th edition of the International Quantum Error Correction conference. See the list of previous conferences <a style="color: yellow" href="/2026/charter/#history-of-qec">here</a>.
 {{% /home-info %}}
 
 {{% home-keydates %}}
@@ -33,18 +33,16 @@ QEC 2026 is the 20th [ADJUST!] edition of the yearly international scientific co
 
 |Date |Event|
 |:----|:----|
-| 20 February 2026 | Opening of submission server |
+| Coming Soon | Opening of submission server |
 | Sat, 1 March 2026 |  Talk/Poster submission deadline |
 | Fri, 25 April 2026 | Talk acceptance notification |
-| Wed, 30 April 2026 | Poster-only submission deadline |
-| Mon, 5 May 2026 | Poster-only acceptance notification |
-| Mon, 15 - Fri, 19 Sept 2026 | QEC 2026 |
+| Sunday, 15 - Fri, 19 Sept 2026 | QEC 2026 |
 {{% /home-keydate-table %}}
 
 {{% home-keydate-table title="Website Updates" %}}
 |Date |Event|
 |:----|:----|
-|1 Feb 2026 | New website created|
+|Jan 13th, 2026 | Website put online|
 {{% /home-keydate-table %}}
 
 {{% /home-keydates %}}
@@ -53,25 +51,17 @@ QEC 2026 is the 20th [ADJUST!] edition of the yearly international scientific co
 <!-- THE MAP -->
 {{% home-location
     image="/images/2026/venue-2026.jpg"
-    address="TBD"
+    address="633 E Cabrillo Blvd, Santa Barbara, CA 93103"
     %}}
 
 ## The 2026 venue
 {{% /home-location %}}
 
-<!-- 
-{{% home-speakers year=2026 %}}
-## Featured Speakers
-{{< button-link label="All Speakers"
-                url="/2026/speakers"
-                icon="cfp" >}}
-{{% /home-speakers %}}
--->
 
 {{% partners categories="community" year=2026 %}}
 ## Sponsors
 
-QEC 2026 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="2026@qec-conference.org" url="mailto:2026@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}} 
+QEC 2026 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}} 
 
 {{% /partners %}}
 
