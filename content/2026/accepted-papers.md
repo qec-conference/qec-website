@@ -28,8 +28,6 @@ menu:
 {{< /posters-accepted >}}
 
 
-{{/* 
-
 ## Best Student Paper Awards
 
 

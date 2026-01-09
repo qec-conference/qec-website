@@ -6,31 +6,28 @@ layout: list_with_header
 draft: False
 ---
 
-<!-- We have to include the section titles here, rather than generating them in the teams shortcode, because otherwise the .TableOfContent is incorrect. -->
+## Local Organizers
+* Dripto M. Debroy (Chair)
+* Matt McEwen
+* Gina Bortoli
 
-## Local Organizer
-{{< teams types="core" year=2026 >}}
-
-You can contact the Organizing Committee via email to {{< button-link label="2026@qec-conference.org" url="mailto:2026@qec-conference.org" icon="email" >}}
-
-{{< teams types="org" year=2026 >}}
-
-### Local Organizers
-* XXX
-
-### National organisers:
-* XXX
-
-### International organisers:
-* XXX
+You can contact the Organizing Committee via email to {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
 
 ## Steering Committee
-{{< teams types="steering" year=2026 >}}
+* Earl Campbell (Chair)
+* Jeff Thompson
+* Naomi Nickerson
+* Maika Takita
+* Stephen Bartlett
+* Keisuke Fujii
+* Shruti Puri
+* Dripto M. Debroy
+* Andreas Wallraff
 
 ## Program Committee
-{{< teams types="pcchairs=PC chair" year=2026 >}}
-You can contact the PC chair via email to {{< button-link label="pcchairs2026@qec-conference.org" url="mailto:pcchairs2026@qec-conference.org" icon="email" >}}<br>
+* Matt McEwen (Chair)
+* Aleks Kubica (Co-Chair)
+* Natalie C. Brown (Co-Chair)
 
 ### PC members
-* XXX
-* YYY
+* coming soon!
