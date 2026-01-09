@@ -9,7 +9,7 @@ type: home
 layout: home
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/2026/hilton-beachfront.png" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
+{{% jumbo img="/images/2026/sb.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
 
 ## <span style="color: white;">June 7th-12th, 2026</span>
 
@@ -24,20 +24,21 @@ layout: home
 {{% home-info what="Participants:>500,Days:5,Invited Talks:5" class="primary" %}}
 ## What is QEC 2026?
 
-QEC 2026 is the 8th edition of the International Quantum Error Correction conference. See the list of previous conferences <a style="color: yellow" href="/2026/charter/#history-of-qec">here</a>.
+QEC 2026 is the 8th edition of the International Quantum Error Correction conference. See the list of previous conferences <a style="color: yellow" href="/2026/history">here</a>.
 {{% /home-info %}}
 
 {{% home-keydates %}}
 
 {{% home-keydate-table title="Key Dates QEC 2026" %}}
-(all times 23:59 AoE)
 
 |Date |Event|
 |:----|:----|
 | Coming Soon | Opening of submission server |
-| Sat, 1 March 2026 |  Talk/Poster submission deadline |
-| Fri, 25 April 2026 | Talk acceptance notification |
-| Sunday, 15 - Fri, 19 Sept 2026 | QEC 2026 |
+| Fri, Feb 27th, 2026 |  Talk/Poster submission deadline |
+| Coming Soon | Talk acceptance notification |
+| Sunday, June 7th - 12th 2026 | QEC 2026 |
+
+All deadlines are 23:59 Anywhere on Earth.
 {{% /home-keydate-table %}}
 
 {{% home-keydate-table title="Website Updates" %}}

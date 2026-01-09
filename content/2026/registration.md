@@ -36,7 +36,7 @@ The registration fees include:
 
 •  Banquet Dinner.
 
-•  Daily refreshment breaks.
+•  Daily refreshment breaks and lunches.
 
 
 ### Code of Conduct

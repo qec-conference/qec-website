@@ -8,8 +8,6 @@ menu:
         weight: 20
         identifier: accepted-papers
         parent: technical-program
-
-
 ---
 
 
