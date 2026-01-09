@@ -10,4 +10,4 @@ videoTime: null
 presentation: null
 draft: false
 ---
-Goodbye, folks! See you next year!
+See you next year!

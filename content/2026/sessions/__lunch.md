@@ -7,3 +7,5 @@ videoId: null
 presentation: null
 draft: false
 ---
+
+Lunch will be provided at the Hilton during the break.
