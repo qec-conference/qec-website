@@ -1,6 +1,6 @@
 {{- $year := path.Base (path.Dir .File.Path) -}}
 ---
-title: TQC History
+title: QEC History
 year: {{ $year }}
 draft: false
 type: text_page

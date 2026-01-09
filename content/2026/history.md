@@ -1,5 +1,5 @@
 ---
-title: TQC History
+title: QEC History
 year: 2026
 draft: false
 type: text_page

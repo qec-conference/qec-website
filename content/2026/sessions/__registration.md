@@ -6,8 +6,6 @@ tags:
 videoId: null
 presentation: null
 draft: false
-type: sessions
-
 ---
 Registration & Coffee in the OIST conference center, entrance hall.
 

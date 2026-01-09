@@ -1,7 +1,6 @@
-{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Poster, Logos and Templates
-year: {{ $year }}
+year: 2026
 
 draft: true
 type: text_page

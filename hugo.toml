@@ -1,8 +1,8 @@
 # publishDir = "docs"
 
-baseURL = "https://tqc-website.netlify.app/"
+baseURL = "https://qec-website.netlify.app/"
 languageCode = "en"
-title = "TQC Conference Website"
+title = "QEC Conference Website"
 ignoreFiles = ["archetypes/.*"]
 
 # Theme
@@ -23,15 +23,15 @@ enableMissingTranslationPlaceholders = true
 #     id = "G-221GMGECQ6"
 
 [params]
-    title = "TQC Conference Website"
+    title = "QEC Conference Website"
     date = "2025-09-15"
         currentYear = 2026
-        description = "International Conference on Theory of Quantum Computation, Communication and Cryptography (TQC)"
+        description = "International Conference on Theory of Quantum Computation, Communication and Cryptography (QEC)"
         images = ["/images/social-share.jpg"]
-        email = "webmaster@tqc-conference.org"
-        keywords = "event, quantum computation, communication, cryptography, TQC"
+        email = "webmaster@qec-conference.org"
+        keywords = "event, quantum computation, communication, cryptography, QEC"
         copyright = "We :heart: quantum"
-        copyright_link = "https://github.com/IAQI/tqc-website"
+        copyright_link = "https://github.com/qec-conference/qec-website"
         # cfpUrl = "/2024/call"
         # subscriptionUrl = ""
         appleTouchIcon = "/apple-touch-icon.png"
@@ -46,7 +46,7 @@ enableMissingTranslationPlaceholders = true
       themeColor = "#1e88e5"
       [params.2026.logos]
         jumbo = "/images/2026/background-2026.png"
-        header = "/images/2026/tqc-logo-2026.png"
+        header = "/images/2026/logo-2026.png"
         banner = "/images/2026/banner-2026.jpg"    
     
     [params.logos]

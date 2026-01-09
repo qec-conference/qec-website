@@ -6,7 +6,6 @@ tags:
 videoId: null
 presentation: null
 draft: false
-type: sessions
 ---
 
 The afternoon of wednesday will consist of two possible afternoon activities.

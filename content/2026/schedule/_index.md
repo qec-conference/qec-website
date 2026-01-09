@@ -1,12 +1,11 @@
-{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: Schedule
-year: {{ $year }}
+year: 2026
 type: schedule
 draft: true
 horizontal: false
 menu:
-    {{ $year }}:
+    2026:
         weight: 10
         identifier: schedule
         parent: technical-program

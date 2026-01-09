@@ -1,10 +1,10 @@
-# TQC 2025+ website
+# QEC 2025+ website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d3b6d5c-0a7d-4fea-a32e-9a1f7cbaa79a/deploy-status)](https://app.netlify.com/sites/tqc-website/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d3b6d5c-0a7d-4fea-a32e-9a1f7cbaa79a/deploy-status)](https://app.netlify.com/sites/qec-website/deploys)
 
-Hugo-powered TQC website for 2025 edition and later, live at at https://tqc-website.netlify.app. The Theory of Quantum Computation, Communication and Cryptography (TQC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. 
+Hugo-powered QEC website for 2025 edition and later, live at at https://qec-website.netlify.app. The Theory of Quantum Computation, Communication and Cryptography (QEC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. 
 
- [Hugo](https://gohugo.io/) is a fast static website generator. https://tqc-website.netlify.app is generously hosted by [netlify](https://www.netlify.com/) under a [Open Source Plan](https://www.netlify.com/legal/open-source-policy/) :heart:!
+ [Hugo](https://gohugo.io/) is a fast static website generator. https://qec-website.netlify.app is generously hosted by [netlify](https://www.netlify.com/) under a [Open Source Plan](https://www.netlify.com/legal/open-source-policy/) :heart:!
 
 This project branched off from https://github.com/QCrypt/qcrypt-website in 2025 which is maintained since 2020 by [Christian Schaffner](https://github.com/cschaffner).
 
@@ -30,13 +30,13 @@ In preparation of the 2025 edition, a more permanent solution is envisioned with
 2. Clone this repo:
 
 ```bash
-$ git clone https://github.com/IAQI/tqc-website.git
+$ git clone https://github.com/qec-conference/qec-website.git
 ```
 
 3. It's done. Just start Hugo server to see the site live!
 
 ```bash
-$ cd tqc-website
+$ cd qec-website
 $ hugo server
 ``` 
 
@@ -44,7 +44,7 @@ $ hugo server
 
 6. Using a suitable editor like [Visual Studio Code](https://code.visualstudio.com/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
 
-7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://tqc-website.netlify.com/ and accessible under https://tqc-website.netlify.app. If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/tqc-website/deploys).
+7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qec-website.netlify.com/ and accessible under https://qec-website.netlify.app. If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/qec-website/deploys).
 
 
 ## Customizing the theme

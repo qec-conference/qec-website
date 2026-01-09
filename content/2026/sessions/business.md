@@ -1,4 +1,3 @@
-{{- $year := path.Base (path.Dir (path.Dir .File.Path)) -}}
 ---
 title: 'Awards and Business Meeting'
 type: sessions

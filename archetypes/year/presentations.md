@@ -12,7 +12,7 @@ menu:
 ---
  
 ## Presentation Instructions
- TQC {{ $year }} is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
+ QEC {{ $year }} is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
 
 <!-- 
 

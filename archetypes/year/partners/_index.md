@@ -16,4 +16,4 @@ draft: false
 
 ## Call for Sponsors
 
-If you would like to sponsor TQC {{ $year }}, please contact the organizers at {{< button-link label="{{ $year }}@tqc-conference.org" url="mailto:{{ $year }}@tqc-conference.org?subject=Sponsorship Enquiry" icon="email" >}} for more information. 
+If you would like to sponsor QEC {{ $year }}, please contact the organizers at {{< button-link label="{{ $year }}@qec-conference.org" url="mailto:{{ $year }}@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}} for more information. 

@@ -1,18 +1,17 @@
-{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Presentations
-year: {{ $year }}
+year: 2026
 type: text_page
 draft: true
 menu:
-    {{ $year }}:
+    2026:
         weight: 10
         parent: technical-program
 
 ---
  
 ## Presentation Instructions
- TQC {{ $year }} is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
+ QEC 2026 is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
 
 <!-- 
 
@@ -30,12 +29,12 @@ menu:
 There are two main options to load slides prior to the presentation:
 <ol>	
 <li>Preload slides onto the main auditorium computer. This is the preferred option.
-<ol type="A"><li>Email slides to {{< button-link label="2024@QCRYPT.NET" url="mailto:2024@QCRYPT.NET" icon="email" >}} no less than two hours before the session, labeled in the following format: <strong>lastname_day_title.ppt.</strong> If you do not receive a confirmation, please contact the local organizers.</li>
+<ol type="A"><li>Email slides to {{< button-link label="2026@QEC-CONFERENCE.ORG" url="mailto:2026@QEC-CONFERENCE.ORG" icon="email" >}} no less than two hours before the session, labeled in the following format: <strong>lastname_day_title.ppt.</strong> If you do not receive a confirmation, please contact the local organizers.</li>
 <li>Bring slides on a USB stick and provide it to the local organizers no less than two hours before the session begins. Please note that you cannot run the presentation from a USB drive, it must be loaded onto the main computer.</ol>
 <li>Connect your own laptop. We can accept standard connections from Windows and Apple laptops.</li>
 </ol>
  
-If you have other requirements, please contact the local organizers in advance {{< button-link label="2024@QCRYPT.NET" url="mailto:2024@QCRYPT.NET" icon="email" >}}
+If you have other requirements, please contact the local organizers in advance {{< button-link label="2026@QEC-CONFERENCE.ORG" url="mailto:2026@QEC-CONFERENCE.ORG" icon="email" >}}
 
 ## Poster Presentations
  
@@ -45,8 +44,8 @@ Poster boards will be identified by <strong>lastname_day_title. </strong>
 
 Poster sessions will be 90 minutes from 4:30 p.m. to 6 p.m. on Monday and Tuesday.
 <br><br>
-{{< button-link label="Monday's Schedule" url="/2024/sessions/poster1/" icon="" >}}
-{{< button-link label="Tuesday's Schedule" url="/2024/sessions/poster2/" icon="" >}}
+{{< button-link label="Monday's Schedule" url="/2026/sessions/poster1/" icon="" >}}
+{{< button-link label="Tuesday's Schedule" url="/2026/sessions/poster2/" icon="" >}}
 <br>
 
 -->

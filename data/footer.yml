@@ -14,15 +14,15 @@ content:
   - title: footer_about
     links:
       - nameKey: footer_charter
-        name: TQC Charter
+        name: QEC Charter
         url: /charter/
         newTab: false
       - nameKey: footer_history
-        name: TQC History
+        name: QEC History
         url: /history/
         newTab: false
       - nameKey: footer_coc
-        name: TQC Code of Conduct
+        name: QEC Code of Conduct
         url: /code-of-conduct/
         newTab: false
 

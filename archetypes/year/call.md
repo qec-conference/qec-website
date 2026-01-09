@@ -13,7 +13,7 @@ menu:
 
 The call for papers will be published soon here...
 
-<!-- ## Key Dates TQC {{ $year }}
+<!-- ## Key Dates QEC {{ $year }}
 <strong>(all times 23:59 AoE)</strong>
 
 |Date |Event|
@@ -23,15 +23,15 @@ The call for papers will be published soon here...
 | Fri, 25 April {{ $year }} | Talk acceptance notification |
 | Wed, 30 April {{ $year }} | Poster-only submission deadline |
 | Mon, 5 May {{ $year }} | Poster-only acceptance notification |
-| Mon, 15 - Fri, 19 Sept {{ $year }} | TQC {{ $year }} |
+| Mon, 15 - Fri, 19 Sept {{ $year }} | QEC {{ $year }} |
 
 
 **Note:** Talk submissions that are not retained will automatically be considered for the poster session.
 
 ## Topics
-The Theory of Quantum Computation, Communication and Cryptography (TQC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. The scientific objective of TQC is to bring together the theoretical quantum information science community to present and discuss the latest advances in the field.
+The Theory of Quantum Computation, Communication and Cryptography (QEC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. The scientific objective of QEC is to bring together the theoretical quantum information science community to present and discuss the latest advances in the field.
 
-Areas of interest for TQC include, but are not restricted to:
+Areas of interest for QEC include, but are not restricted to:
 - quantum algorithms
 - models of quantum computation
 - quantum complexity theory
@@ -47,7 +47,7 @@ Areas of interest for TQC include, but are not restricted to:
 
 ## Submission Guidelines
 
-As the goal of TQC is to bring together researchers on all aspects of quantum information, submissions are solicited for two tracks.
+As the goal of QEC is to bring together researchers on all aspects of quantum information, submissions are solicited for two tracks.
 
 ### With Proceedings Track
 Submissions to this track must be original manuscripts that **have not previously appeared in published form and are not simultaneously submitted to another publishing venue**. Accepted papers will be presented orally at the conference and will be published in the conference proceedings.
@@ -57,7 +57,7 @@ Accepted submissions will be presented orally at the conference but will not app
 
 It is possible to present a poster if a submission is not accepted for a talk in either track, and poster-only submissions are also possible.
 
-In recent years, the overall **acceptance rate** for all papers submitted to TQC has been approximately 25%. The Program Committee will target a minimum of 10 articles to be published in the proceedings; therefore, the acceptance rates could differ between the two tracks.
+In recent years, the overall **acceptance rate** for all papers submitted to QEC has been approximately 25%. The Program Committee will target a minimum of 10 articles to be published in the proceedings; therefore, the acceptance rates could differ between the two tracks.
 
 ### Best Paper Prize
 The Best Paper prize will be awarded to the best paper accepted to the conference (both tracks combined). The Program Committee may decide to split the prize between multiple papers or to decline to make an award.
@@ -65,7 +65,7 @@ The Best Paper prize will be awarded to the best paper accepted to the conferenc
 ### Best Student Paper Prize
 The Best Student Paper prize will be awarded to the best student paper accepted at the conference (both tracks combined). The Program Committee may decide to split the prize between multiple papers or to decline to make an award.
 
-A submission is eligible for the Best Student Paper prize if and only if the main author(s) is/are a student(s) at the time of submission and will present the work at TQC. Additionally, a significant portion of the work (at least 60%) must have been done by the student(s), including contributing the majority of the key ideas. Eligibility can only be indicated at the time of submission. The Program Committee Chair may request clarifications regarding the students' contributions at any time. If a paper qualifies for both the Best Student Paper prize and the Best Paper prize, it should be considered for both; a paper meriting both prizes should receive both.
+A submission is eligible for the Best Student Paper prize if and only if the main author(s) is/are a student(s) at the time of submission and will present the work at QEC. Additionally, a significant portion of the work (at least 60%) must have been done by the student(s), including contributing the majority of the key ideas. Eligibility can only be indicated at the time of submission. The Program Committee Chair may request clarifications regarding the students' contributions at any time. If a paper qualifies for both the Best Student Paper prize and the Best Paper prize, it should be considered for both; a paper meriting both prizes should receive both.
 
 ### Submission Format (applies to both With and Without Proceedings tracks)
 
@@ -88,7 +88,7 @@ All submissions should include *both* an extended abstract and a technical versi
 The Program Committee reserves the right to decide how to treat submissions that deviate from the above format, including rejection of submissions solely on the basis of their format.
 
 ### Proceedings
-Accepted manuscripts in the With Proceedings track will be published in late {{ $year }} in the TQC {{ $year }} proceedings, as part of the well-known open-access LIPIcs–Leibniz International Proceedings in Informatics series.  Only the first 15 pages of the technical version of the manuscript will be published, due to LIPIcs-Leibniz formatting requirements (references are not included in this page limit).  If available, a link to a longer version of the paper in an on-line repository can be included as a footnote or a reference within these 15 pages.  While technical manuscripts need not use the LIPIcs-Leibniz template for the submission, the Program Committee will make their decisions based on the first 15 pages of the technical manuscript and  authors are strongly encouraged to make these first 15 pages self-contained.
+Accepted manuscripts in the With Proceedings track will be published in late {{ $year }} in the QEC {{ $year }} proceedings, as part of the well-known open-access LIPIcs–Leibniz International Proceedings in Informatics series.  Only the first 15 pages of the technical version of the manuscript will be published, due to LIPIcs-Leibniz formatting requirements (references are not included in this page limit).  If available, a link to a longer version of the paper in an on-line repository can be included as a footnote or a reference within these 15 pages.  While technical manuscripts need not use the LIPIcs-Leibniz template for the submission, the Program Committee will make their decisions based on the first 15 pages of the technical manuscript and  authors are strongly encouraged to make these first 15 pages self-contained.
 
 ### Final version
 If your manuscript is accepted for publication in the proceedings, you will receive instructions on how to prepare the final revised version together with the notification.
@@ -106,4 +106,4 @@ On the first page of your submission, indicate if your work is currently under s
 ## Program Committee
 The program committee list can be found <a href="/team/#program-committee">here</a>.
 
-Please direct any questions or comments to the PC chairs via email to {{< button-link label="pcchairs{{ $year }}@tqc-conference.org" url="mailto:pcchairs{{ $year }}@tqc-conference.org" icon="email" >}}. -->
+Please direct any questions or comments to the PC chairs via email to {{< button-link label="pcchairs{{ $year }}@qec-conference.org" url="mailto:pcchairs{{ $year }}@qec-conference.org" icon="email" >}}. -->

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Create a complete new year structure for the TQC website
+# Create a complete new year structure for the QEC website
 
 YEAR=$1
 
@@ -195,7 +195,7 @@ EOF
 
 # Create assets/styles file if needed
 cat > themes/devfest-theme-hugo/assets/style/theme-${YEAR}.scss << EOF
-// Custom styles for TQC ${YEAR}
+// Custom styles for QEC ${YEAR}
 @use "root";
 @use "variables";
 
@@ -275,7 +275,7 @@ else
   themeColor = "${THEME_COLOR}"
   [params.${YEAR}.logos]
     jumbo = "/images/${YEAR}/background-${YEAR}.png"
-    header = "/images/${YEAR}/tqc-logo-${YEAR}.png"
+    header = "/images/${YEAR}/qec-logo-${YEAR}.png"
     banner = "/images/${YEAR}/banner-${YEAR}.jpg"
 EOF
 fi

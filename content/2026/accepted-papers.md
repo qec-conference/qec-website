@@ -1,11 +1,10 @@
-{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Accepted Papers
-year: {{ $year }}
+year: 2026
 type: text_page
 draft: true
 menu:
-    {{ $year }}:
+    2026:
         weight: 20
         identifier: accepted-papers
         parent: technical-program
@@ -18,14 +17,14 @@ menu:
 
 (in order of submission)
 
-{{< papers-accepted year={{ $year }} >}}{{< /papers-accepted >}}
+{{< papers-accepted year=2026 >}}{{< /papers-accepted >}}
 
 
 ## List of Accepted Posters
 
 (in order of submission)
 
-{{< posters-accepted year={{ $year }} >}}
+{{< posters-accepted year=2026 >}}
 {{< /posters-accepted >}}
 
 

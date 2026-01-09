@@ -6,7 +6,6 @@ tags:
 videoId: null
 presentation: null
 draft: false
-type: sessions
 ---
 
 The Gala Dinner this year will take place at <a href = "https://pazolosescudos.com/">Pazo Los Escudos</a>.

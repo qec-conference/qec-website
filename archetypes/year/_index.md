@@ -9,7 +9,7 @@ type: home
 layout: home
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/{{ .Name }}/background-{{ .Name }}.jpg" imgLabel="TQC {{ .Name }} background" logo="/images/{{ .Name }}/logo-{{ .Name }}.png" %}}
+{{% jumbo img="/images/{{ .Name }}/background-{{ .Name }}.jpg" imgLabel="QEC {{ .Name }} background" logo="/images/{{ .Name }}/logo-{{ .Name }}.png" %}}
 
 ## 15-19 September {{ .Name }}
 
@@ -21,14 +21,14 @@ layout: home
 
 
 {{% home-info what="Participants:>200,Days:5,Invited Talks:4" class="primary" %}}
-## What is TQC {{ .Name }}?
+## What is QEC {{ .Name }}?
 
-TQC {{ .Name }} is the 20th [ADJUST!] edition of the yearly international scientific conference on the Theory of Quantum Computation, Communication and Cryptography. See the list of previous conferences <a style="color: yellow" href="/{{ .Name }}/charter/#history-of-tqc">here</a>.
+QEC {{ .Name }} is the 20th [ADJUST!] edition of the yearly international scientific conference on the Theory of Quantum Computation, Communication and Cryptography. See the list of previous conferences <a style="color: yellow" href="/{{ .Name }}/charter/#history-of-qec">here</a>.
 {{% /home-info %}}
 
 {{% home-keydates %}}
 
-{{% home-keydate-table title="Key Dates TQC {{ .Name }}" %}}
+{{% home-keydate-table title="Key Dates QEC {{ .Name }}" %}}
 (all times 23:59 AoE)
 
 |Date |Event|
@@ -38,7 +38,7 @@ TQC {{ .Name }} is the 20th [ADJUST!] edition of the yearly international scient
 | Fri, 25 April {{ .Name }} | Talk acceptance notification |
 | Wed, 30 April {{ .Name }} | Poster-only submission deadline |
 | Mon, 5 May {{ .Name }} | Poster-only acceptance notification |
-| Mon, 15 - Fri, 19 Sept {{ .Name }} | TQC {{ .Name }} |
+| Mon, 15 - Fri, 19 Sept {{ .Name }} | QEC {{ .Name }} |
 {{% /home-keydate-table %}}
 
 {{% home-keydate-table title="Website Updates" %}}
@@ -71,7 +71,7 @@ TQC {{ .Name }} is the 20th [ADJUST!] edition of the yearly international scient
 {{% partners categories="community" year={{ .Name }} %}}
 ## Sponsors
 
-TQC {{ .Name }} is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="{{ .Name }}@tqc-conference.org" url="mailto:{{ .Name }}@tqc-conference.org?subject=Sponsorship Enquiry" icon="email" >}} 
+QEC {{ .Name }} is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="{{ .Name }}@qec-conference.org" url="mailto:{{ .Name }}@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}} 
 
 {{% /partners %}}
 

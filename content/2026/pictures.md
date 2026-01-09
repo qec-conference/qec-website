@@ -1,11 +1,10 @@
-{{- $year := path.Base (path.Dir .File.Path) -}}
 ---
 title: Pictures
-year: {{ $year }}
+year: 2026
 draft: true
 type: no_toc
 menu:
-    {{ $year }}:
+    2026:
         weight: 50
         parent: attend
 

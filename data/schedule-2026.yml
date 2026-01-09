@@ -8,31 +8,31 @@
     - session: __welcomingremarks
       time: '10:15'
       location: auditorium
-    - session: invited_morimae
+    - session: session1
       time: '10:30'
       location: auditorium
     - session: __lunch
       time: '11:30'
       location: entrance_hall
-    - session: contributed11a
+    - session: session2a
       time: '13:30'
       location: auditorium
-    - session: contributed11b
+    - session: session2b
       time: '13:30'
       location: room1
-    - session: contributed11c
+    - session: session2c
       time: '13:30'
       location: room2 
     - session: __break
       time: '14:30'
       location: entrance_hall
-    - session: contributed12a
+    - session: session3a
       time: '15:00'
       location: auditorium
-    - session: contributed12b
+    - session: session3b
       time: '15:00'
       location: room1
-    - session: contributed12c
+    - session: session3c
       time: '15:00'
       location: room2
     - session: light_dinner
@@ -46,7 +46,7 @@
 
 - day: '2026-09-10'
   sessions:
-    - session: invited_khurana
+    - session: session4
       time: '09:00'
       location: auditorium
     - session: __break
@@ -68,15 +68,15 @@
   sessions:
     - session: __updates&announcements
       time: '09:00'
-    - session: tutorial_brown
+    - session: session5
       time: '09:15'
-    - session: invited_ananth
+    - session: session6
       time: '10:30'
     - session: __break
       time: '11:15'
-    - session: invited_may
+    - session: session7
       time: '11:45'
-    - session: contributed3
+    - session: session8
       time: '12:30'
     - session: __lunch
       time: '12:00'
@@ -113,7 +113,7 @@
   sessions:
     - session: __updates&announcements
       time: '09:00'
-    - session: contributed5a
+    - session: session9
       time: '09:10'
     - session: __break
       time: '10:50'
