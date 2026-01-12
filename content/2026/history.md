@@ -12,6 +12,6 @@ type: text_page
 |2023 | University of Sydney | Stephen Bartlett (LOC Chair), Andrew Doherty (PC Chair) |
 |2019 | University College, London | Dan Browne (LOC Chair), Earl Campbell (PC Chair) |
 |2017 | University of Maryland | Ken Brown, Jake Taylor |
-|2014 | ETH Zurich | Joe Renes |
+|2014 | ETH Zurich | Joe Renes, Volkher Scholz |
 |2011 | University of Southern California | Daniel Lidar (Chair), Mark Byrd |
 |2007 | University of Southern California | Daniel Lidar (Chair), Todd Brun, Paolo Zanardi |
