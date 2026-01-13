@@ -26,14 +26,12 @@ enableMissingTranslationPlaceholders = true
     title = "QEC Conference Website"
     date = "2025-09-15"
         currentYear = 2026
-        description = "International Conference on Theory of Quantum Computation, Communication and Cryptography (QEC)"
+        description = "International Conference on Quantum Error Correction (QEC)"
         images = ["/images/social-share.jpg"]
-        email = "webmaster@qec-conference.org"
-        keywords = "event, quantum computation, communication, cryptography, QEC"
+        email = "admin@qec-conference.org"
+        keywords = "event, quantum computation, quantum error correction, QEC"
         copyright = "We :heart: quantum"
         copyright_link = "https://github.com/qec-conference/qec-website"
-        # cfpUrl = "/2024/call"
-        # subscriptionUrl = ""
         appleTouchIcon = "/apple-touch-icon.png"
         favicon32 = "/favicon-32x32.png"
         favicon16 = "/favicon-16x16.png"
@@ -41,7 +39,7 @@ enableMissingTranslationPlaceholders = true
         # safariPinnedTab = "/safari-pinned-tab.svg"
     
     [params.2026]
-      city = "TBD"
+      city = "Santa Barbara, CA"
       timeanddate_cityid = 775 ## Placeholder ID, update as needed!
       themeColor = "#1e88e5"
       [params.2026.logos]
