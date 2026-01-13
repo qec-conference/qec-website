@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sessions on QEC Conference Website</title>
-    <link>http://localhost:1313/2026/sessions/</link>
+    <link>http://localhost:56121/2026/sessions/</link>
     <description>Recent content in Sessions on QEC Conference Website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/2026/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56121/2026/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business Meeting</title>
-      <link>http://localhost:1313/2026/sessions/business/</link>
+      <link>http://localhost:56121/2026/sessions/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/business/</guid>
+      <guid>http://localhost:56121/2026/sessions/business/</guid>
       <description>&lt;p&gt;We will discuss any pressing business for the conference, cover the financials and operations of QEC26, and announce the hosts for QEC27. All are welcome to attend!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Closing Remarks</title>
-      <link>http://localhost:1313/2026/sessions/close/</link>
+      <link>http://localhost:56121/2026/sessions/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/close/</guid>
+      <guid>http://localhost:56121/2026/sessions/close/</guid>
       <description>&lt;p&gt;See you next year!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coffee &amp; Snacks</title>
-      <link>http://localhost:1313/2026/sessions/__coffeesnacks/</link>
+      <link>http://localhost:56121/2026/sessions/__coffeesnacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__coffeesnacks/</guid>
-      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:1313/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+      <guid>http://localhost:56121/2026/sessions/__coffeesnacks/</guid>
+      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:56121/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
     </item>
     <item>
       <title>Coffee Break</title>
-      <link>http://localhost:1313/2026/sessions/__break/</link>
+      <link>http://localhost:56121/2026/sessions/__break/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__break/</guid>
-      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:1313/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+      <guid>http://localhost:56121/2026/sessions/__break/</guid>
+      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:56121/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
     </item>
     <item>
       <title>Conference Dinner</title>
-      <link>http://localhost:1313/2026/sessions/__dinner/</link>
+      <link>http://localhost:56121/2026/sessions/__dinner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__dinner/</guid>
-      <description>&lt;p&gt;The Conference Dinner this year will take place in the Plaza del Sol at the Hilton Beachfront Santa Barbara after the Business Meeting. We will also have a speaker for the dinner, more information coming soon!&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/2026/picture-of-plaza.jpg&#34; alt=&#34;drawing&#34; style=&#34;width:400px;&#34;/&gt;</description>
+      <guid>http://localhost:56121/2026/sessions/__dinner/</guid>
+      <description>&lt;p&gt;The Conference Dinner this year will take place in the Plaza del Sol at the Hilton Beachfront Santa Barbara after the Business Meeting. We will also have a speaker for the dinner, more information coming soon!&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:56121/images/2026/picture-of-plaza.jpg&#34; alt=&#34;drawing&#34; style=&#34;width:400px;&#34;/&gt;</description>
     </item>
     <item>
       <title>Lunch break</title>
-      <link>http://localhost:1313/2026/sessions/__lunch/</link>
+      <link>http://localhost:56121/2026/sessions/__lunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__lunch/</guid>
+      <guid>http://localhost:56121/2026/sessions/__lunch/</guid>
       <description>&lt;p&gt;Lunch will be provided at the Hilton during the break.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poster Session 1 (Click to see the list of posters)</title>
-      <link>http://localhost:1313/2026/sessions/poster_1/</link>
+      <link>http://localhost:56121/2026/sessions/poster_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/poster_1/</guid>
+      <guid>http://localhost:56121/2026/sessions/poster_1/</guid>
       <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: &#xA;Data key: posters-&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Poster Session 2 (Click to see the list of posters)</title>
-      <link>http://localhost:1313/2026/sessions/poster_2/</link>
+      <link>http://localhost:56121/2026/sessions/poster_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/poster_2/</guid>
+      <guid>http://localhost:56121/2026/sessions/poster_2/</guid>
       <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: &#xA;Data key: posters-&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/2026/sessions/__registration/</link>
+      <link>http://localhost:56121/2026/sessions/__registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__registration/</guid>
+      <guid>http://localhost:56121/2026/sessions/__registration/</guid>
       <description>&lt;p&gt;Registration will be at the Hilton, near the entrance to the Grand Ballroom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcoming Remarks</title>
-      <link>http://localhost:1313/2026/sessions/__welcomingremarks/</link>
+      <link>http://localhost:56121/2026/sessions/__welcomingremarks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__welcomingremarks/</guid>
+      <guid>http://localhost:56121/2026/sessions/__welcomingremarks/</guid>
       <description>&lt;p&gt;Welcome everybody!&lt;/p&gt;</description>
     </item>
   </channel>

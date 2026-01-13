@@ -3,15 +3,11 @@ title: Accepted Papers
 year: 2026
 type: text_page
 showTOC: false
-draft: true
-menu:
-    2026:
-        weight: 20
-        identifier: accepted-papers
-        parent: technical-program
+draft: false
 ---
 
-
+Check back later!
+<!--
 ## List of Accepted Contributed Talks
 
 (in order of submission)
@@ -29,5 +25,5 @@ menu:
 
 ## Best Student Paper Awards
 
-
+-->
 

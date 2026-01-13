@@ -109,9 +109,39 @@ unsafe = true
     weight = 20
     identifier = "technical-program"
   [[menu.2026]]
+    name = "Call for papers"
+    weight = 21
+    identifier = "call-for-papers"
+    parent = "technical-program"
+    pageRef = "/2026/call"
+  [[menu.2026]]
+    name = "Accepted Papers"
+    weight = 22
+    identifier = "accepted-papers"
+    parent = "technical-program"
+    pageRef = "/2026/accepted-papers"
+  [[menu.2026]]
     name = "Attend"
     weight = 30
     identifier = "attend"
+  [[menu.2026]]
+    name = "Registration"
+    weight = 31
+    identifier = "registration"
+    parent = "attend"
+    pageRef = "/2026/registration"
+  [[menu.2026]]
+    name = "Code of Conduct"
+    weight = 32
+    identifier = "code-of-conduct"
+    parent = "attend"
+    pageRef = "/2026/code-of-conduct"
+  [[menu.2026]]
+    name = "Travel"
+    weight = 33
+    identifier = "travel"
+    parent = "attend"
+    pageRef = "/2026/travel"
   [[menu.2026]]
     name = "Sponsors"
     weight = 40

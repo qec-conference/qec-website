@@ -121,6 +121,8 @@ body > header {
       list-style: none;
       padding: 0;
       margin: 0;
+      min-width: 200px;
+      white-space: nowrap;
 
       li {
         // padding: 8px 16px;
