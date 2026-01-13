@@ -2,6 +2,7 @@
 title: Accepted Papers
 year: 2026
 type: text_page
+showTOC: false
 draft: true
 menu:
     2026:

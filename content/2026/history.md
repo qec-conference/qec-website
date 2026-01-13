@@ -3,6 +3,7 @@ title: QEC History
 year: 2026
 draft: false
 type: text_page
+showTOC: false
 # no menu entry necessary, as the charter, history and code of conduct are accessible from the links in the footer
 ---
 

@@ -2471,6 +2471,22 @@ main > .kids .content ul li {
     padding: 0 0.5em;
   }
 }
+.page.code-of-conduct .content p {
+  margin-left: 0;
+  text-align: justify;
+}
+.page.code-of-conduct .content ul {
+  margin-left: 2rem;
+}
+.page.code-of-conduct .content ul li {
+  line-height: 1.25;
+}
+
+@media (max-width: 71.24em) {
+  .page.code-of-conduct .content {
+    padding: 0 0.5em;
+  }
+}
 main > .with_banner .hero {
   position: relative;
 }
@@ -2538,7 +2554,6 @@ main > .text_page .content .centered-img {
   margin: var(--space-3) 0;
 }
 main > .text_page .content h2, main > .text_page .content h3, main > .text_page .content h4, main > .text_page .content h5, main > .text_page .content h6 {
-  color: var(--primary);
   font-style: normal;
   font-weight: 400;
 }
@@ -2600,7 +2615,7 @@ main > .text_page .content img#dark_bg {
 }
 
 :root {
-  --primary: #1e88e5;
+  --primary: #b8deff;
 }
 
 /*# sourceMappingURL=style-2026.css.map */

@@ -3,6 +3,7 @@ year: 2026
 title: Sponsors
 type: partners
 draft: false
+showTOC: false
 ---
 
 

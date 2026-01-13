@@ -4,6 +4,7 @@ year: 2026
 
 draft: true
 type: text_page
+showTOC: false
 menu:
     2026:
         weight: 2

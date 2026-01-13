@@ -24,7 +24,7 @@ layout: home
 {{% home-info what="Participants:>500,Days:5,Invited Talks:5" class="primary" %}}
 ## What is QEC 2026?
 
-QEC 2026 is the 8th edition of the International Quantum Error Correction conference. See the list of previous conferences <a style="color: yellow" href="/2026/history">here</a>.
+QEC 2026 is the 8th edition of the International Quantum Error Correction conference. <a style="color: #024acfff" href="/2026/history">See the list of previous conferences here.</a>
 {{% /home-info %}}
 
 {{% home-keydates %}}

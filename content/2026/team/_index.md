@@ -4,6 +4,7 @@ year: 2026
 type: team
 layout: list_with_header
 draft: False
+showTOC: false
 ---
 
 ## Local Organizers

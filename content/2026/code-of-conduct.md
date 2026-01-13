@@ -8,9 +8,9 @@ menu:
         parent: attend
 
 draft: false
-type: 
+type: text_page
+showTOC: false
 ---
-# Code of Conduct
 
 The open exchange of ideas and the freedom of thought and expression are central to the aims and
 goals of the Quantum Error Correction conference. These require an environment that recognizes the
