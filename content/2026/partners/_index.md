@@ -8,7 +8,7 @@ draft: false
 
 ## Our Sponsors
 
-{{% partners categories="community" year=2026 %}}
+{{% partners categories="Circuit-Level" year=2026 %}}
 
 {{% /partners %}}
 

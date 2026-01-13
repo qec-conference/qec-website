@@ -11,7 +11,7 @@ draft: False
 * Matt McEwen
 * Gina Bortoli
 
-You can contact the Organizing Committee via email to {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
+You can contact the Organizing Committee via email at {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
 
 ## Steering Committee
 * Earl Campbell (Chair)
@@ -31,3 +31,5 @@ You can contact the Organizing Committee via email to {{< button-link label="adm
 
 ### PC members
 * coming soon!
+
+You can contact the Program Committee chairs via email at {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}
