@@ -9,7 +9,8 @@ showTOC: false
 # Call for Submissions
 
 Submissions to QEC26 are done through EasyChair:
-LINK
+
+The link will be available soon.
 
 Submissions for talks and posters are open until the end of **Friday Feb 27th AOE.**
 
