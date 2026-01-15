@@ -66,7 +66,7 @@ Does the Rapid Communication track require that the work be published by the con
  - No, submissions to the Rapid Communication track do not require that the work be published by the conference date.
 
 
-I have a question not addressed here:
+Questions about the call for submissions can be addressed to {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}
 
- - Questions about the call for submissions can be addressed to program@qec-conference.org
+Please consider the Code of Conduct when writing your email.
 
