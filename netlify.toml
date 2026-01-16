@@ -1,7 +1,7 @@
 [build.environment]
 HUGO_VERSION = "0.140.0"
 DART_SASS_VERSION = "1.83.0"
-TZ = "Europe/Amsterdam"
+TZ = "America/Los_Angeles"
 
 [build]
   publish = "public"
@@ -26,6 +26,6 @@ TZ = "Europe/Amsterdam"
 
 [[redirects]]
     from = "/"
-    to = "/2025/"
+    to = "/2026/"
     status = 302
     force = true 
