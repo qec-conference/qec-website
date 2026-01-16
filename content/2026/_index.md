@@ -44,7 +44,7 @@ All deadlines are 23:59 Anywhere on Earth.
 {{% home-keydate-table title="Website Updates" %}}
 |Date |Event|
 |:----|:----|
-|Jan 13th, 2026 | Website put online|
+|Jan 16th, 2026 | Website put online|
 {{% /home-keydate-table %}}
 
 {{% /home-keydates %}}
