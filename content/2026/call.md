@@ -8,9 +8,9 @@ showTOC: false
 
 # Call for Submissions
 
-Submissions to QEC26 are done through EasyChair:
+Submissions to QEC26 are done through EasyChair.
 
-The link will be available soon.
+The submission link will be made available soon.
 
 Submissions for talks and posters are open until the end of **Friday Feb 27th AOE.**
 
@@ -21,7 +21,8 @@ This year, QEC is trialing two submission tracks for talks: Published Work and R
 The Published Work track is intended for presenting work from completed technical manuscripts, similar to previous years of submissions to QEC.
 
 The Published Work track requires submission of:
- - An ArXiv link to a completed technical manuscript
+ - A completed technical manuscript
+ - A link to a public posting of that manuscript to the ArXiv
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
 
 The Rapid Communication track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily assessed for correctness by the Program Committee in lieu of more standard peer review.
@@ -65,6 +66,10 @@ Does the Rapid Communication track require that the work is unpublished?
 Does the Rapid Communication track require that the work be published by the conference?
 
  - No, submissions to the Rapid Communication track do not require that the work be published by the conference date.
+
+Does the Published Work track require that the work be posted to the ArXiv by the submission deadline?
+
+ - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider applying to Rapid Communication.
 
 
 Questions about the call for submissions can be addressed to {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}
