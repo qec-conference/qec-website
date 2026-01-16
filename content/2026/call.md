@@ -8,9 +8,9 @@ showTOC: false
 
 # Call for Submissions
 
-Submissions to QEC26 are done through EasyChair:
+Submissions to QEC26 are done through EasyChair.
 
-The link will be available soon.
+The submission link will be amde available soon.
 
 Submissions for talks and posters are open until the end of **Friday Feb 27th AOE.**
 
@@ -67,8 +67,13 @@ Does the Rapid Communication track require that the work be published by the con
 
  - No, submissions to the Rapid Communication track do not require that the work be published by the conference date.
 
+Does the Published Work track require that the work be posted to the ArXiv by the submission deadline?
+
+ - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider applying to Rapid Communication.
+
 
 Questions about the call for submissions can be addressed to {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}
 
 Please consider the Code of Conduct when writing your email.
+
 
