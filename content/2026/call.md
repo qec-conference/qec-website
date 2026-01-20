@@ -14,25 +14,33 @@ The submission link will be made available soon.
 
 Submissions for talks and posters are open until the end of **Friday Feb 27th AOE.**
 
-## Talk Submission Tracks
+## Submission Tracks
 
-This year, QEC is trialing two submission tracks for talks: Published Work and Rapid Communication.
+This year, QEC is trialing three submission tracks: Published Work, Rapid Communication, and Poster Only.
 
-The Published Work track is intended for presenting work from completed technical manuscripts, similar to previous years of submissions to QEC.
+The **Published Work** track is intended for presenting work from completed technical manuscripts, similar to previous years of submissions to QEC.
 
 The Published Work track requires submission of:
  - A completed technical manuscript
  - A link to a public posting of that manuscript to the ArXiv
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
 
-The Rapid Communication track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily assessed for correctness by the Program Committee in lieu of more standard peer review.
+The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily assessed for correctness by the Program Committee in lieu of more standard peer review.
 
 The Rapid Communication track requires the submission of:
  - An abstract summarizing the work, with a maximum length of 1-page not including references.  The abstract may include figures, but these do count toward the 1-page limit.
- - A 1/2-page statement provide a clear rationale for why the work is appropriate for rapid communication to the field, including how the field would benifit from presentation prior to standard publication and peer review.
+ - A 1/2-page statement provide a clear rationale for why the work is appropriate for rapid communication to the field, including how the field would benefit from presentation prior to standard publication and peer review.
 
 Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
 
+Both Published Work and Rapid Communication submissions may indicate that they would additionally like to be considered for poster in the event that they are not selected for a talk.
+
+The **Poster Only** track is intended for those submissions that no not want to be considered for a talk.
+
+The Poster Only track requires submission of:
+ - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
+
+Poster Only submissions will be made at the same time as talk submissions and with the same deadline.
 
 ## Choosing a track
 
@@ -47,13 +55,13 @@ Examples:
 
  - I have a novel QEC construction that is substantially improves on current constructions and is easy to assess for correctness → Submit to Rapid Communication
 
- - I have a novel QEC construction that consists of a substantial proof and requires spesific expertise to assess for correctness → Submit to Published Work with a full description in a technical manuscript.
+ - I have a novel QEC construction that consists of a substantial proof and requires specific expertise to assess for correctness → Submit to Published Work with a full description in a technical manuscript.
 
  - I have a completed technical manuscript submitted to a journal and am under embargo and cannot post to the ArXiv → Submit to Rapid Communications with the manuscript attached.
 
 ## FAQ
 
-Can I submit the same work to both tracks?
+Can I submit the same work to both talk tracks?
 
  - Please don’t. We will consider a submission to both tracks as a strong sign that Rapid Communication is not necessary.
 
