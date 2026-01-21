@@ -51,7 +51,7 @@ Examples:
 
  - I have presentable high-impact results from an ongoing experimental demonstration that are of interest to the field, but do not have a finished technical manuscript → Submit to Rapid Communications
 
- - I have a novel QEC construction that is substantially improves on current constructions and is easy to assess for correctness → Submit to Rapid Communication
+ - I have a novel QEC construction that is substantially improves on current constructions and is easy to assess for correctness, but have not completed a technical manuscript → Submit to Rapid Communication
 
  - I have a novel QEC construction that consists of a substantial proof and requires specific expertise to assess for correctness → Submit to Published Work with a full description in a technical manuscript.
 
@@ -68,7 +68,6 @@ Does the Rapid Communication track require that the work is unpublished?
 
  - No, the Rapid Communication track does not preclude the existance of a technical manuscript and can optionally have a technical manuscript attached to it at submission. That being said, if the technical manuscript is complete and can be submitted to ArXiv, the work is more likely to be accepted through the Published Work track and we encourage submission there.
 
-
 Does the Rapid Communication track require that the work be published by the conference?
 
  - No, submissions to the Rapid Communication track do not require that the work be published by the conference date.
@@ -77,7 +76,7 @@ Does the Published Work track require that the work be posted to the ArXiv by th
 
  - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider applying to Rapid Communication.
 
-
+## Questions
 
 Questions about the call for submissions can be addressed to {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}.
 Please consider the Code of Conduct when writing your email.
