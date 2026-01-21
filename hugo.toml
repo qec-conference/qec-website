@@ -44,7 +44,7 @@ enableMissingTranslationPlaceholders = true
       themeColor = "#1e88e5"
       [params.2026.logos]
         jumbo = "/images/2026/background-2026.png"
-        header = "/images/2026/qec-logo-2026.png"
+        header = "/images/2026/logo-2026.png"
         banner = "/images/2026/banner-2026.jpg"    
     
     [params.logos]
@@ -109,7 +109,7 @@ unsafe = true
     weight = 20
     identifier = "technical-program"
   [[menu.2026]]
-    name = "Call for papers"
+    name = "Call for Submissions"
     weight = 21
     identifier = "call-for-papers"
     parent = "technical-program"
