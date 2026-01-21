@@ -9,7 +9,7 @@ type: home
 layout: home
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/2026/sb.jpg" imgLabel="QEC 2026 background" logo="/images/2026/qec-logo-2026.png" %}}
+{{% jumbo img="/images/2026/background-2026.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
 
 ## <span style="color: #494949;">June 7th-12th, 2026</span>
 
@@ -52,7 +52,7 @@ All deadlines are 23:59 Anywhere on Earth.
 
 <!-- THE MAP -->
 {{% home-location
-    image="/images/2026/hilton-beachfront.png"
+    image="/images/2026/venue-2026.png"
     address="633 E Cabrillo Blvd, Santa Barbara, CA 93103"
     %}}
 

@@ -1,12 +1,10 @@
 ---
-title: Call for papers
+title: Call for Submissions
 year: 2026
 draft: false
 type: text_page
 showTOC: false
 ---
-
-# Call for Submissions
 
 Submissions to QEC26 are done through EasyChair.
 
@@ -18,7 +16,7 @@ Submissions for talks and posters are open until the end of **Friday Feb 27th AO
 
 This year, QEC is trialing three submission tracks: Published Work, Rapid Communication, and Poster Only.
 
-The **Published Work** track is intended for presenting work from completed technical manuscripts, similar to previous years of submissions to QEC.
+The **Published Work** track is intended for presenting work from completed technical manuscripts, similar to previous years of talk submissions to QEC.
 
 The Published Work track requires submission of:
  - A completed technical manuscript
@@ -26,16 +24,16 @@ The Published Work track requires submission of:
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
 
 The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily assessed for correctness by the Program Committee in lieu of more standard peer review.
+Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
+
 
 The Rapid Communication track requires the submission of:
  - An abstract summarizing the work, with a maximum length of 1-page not including references.  The abstract may include figures, but these do count toward the 1-page limit.
  - A 1/2-page statement provide a clear rationale for why the work is appropriate for rapid communication to the field, including how the field would benefit from presentation prior to standard publication and peer review.
 
-Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
-
-Both Published Work and Rapid Communication submissions may indicate that they would additionally like to be considered for poster in the event that they are not selected for a talk.
 
 The **Poster Only** track is intended for those submissions that no not want to be considered for a talk.
+Both Published Work and Rapid Communication submissions may indicate that they would additionally like to be considered for poster in the event that they are not selected for a talk.
 
 The Poster Only track requires submission of:
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
@@ -80,7 +78,7 @@ Does the Published Work track require that the work be posted to the ArXiv by th
  - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider applying to Rapid Communication.
 
 
-Questions about the call for submissions can be addressed to {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}
 
+Questions about the call for submissions can be addressed to {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}.
 Please consider the Code of Conduct when writing your email.
 
