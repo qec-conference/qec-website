@@ -4,6 +4,6 @@ title: Google Quantum AI
 type: partner
 draft: false
 category: Circuit-Level
-logo: /2026/partners/logos/quantum-ai-symbol-color.png
+logo: /2026/partners/logos/quantum-ai-primary-lockup-color.png
 website: https://quantumai.google/
 ---
