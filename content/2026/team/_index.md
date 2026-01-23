@@ -21,6 +21,7 @@ You can contact the Organizing Committee via email at {{< button-link label="adm
 * Maika Takita
 * Stephen Bartlett
 * Keisuke Fujii
+* Markus Müller
 * Shruti Puri
 * Dripto M. Debroy
 * Andreas Wallraff
