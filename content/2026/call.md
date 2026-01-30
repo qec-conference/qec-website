@@ -5,12 +5,11 @@ draft: false
 type: text_page
 showTOC: false
 ---
-
 Submissions to QEC26 are done through EasyChair.
 
-The submission link will be made available soon.
+{{< button-link label="Click here to make a submission on EasyChair" url="http://easychair.org" icon="subscribe" >}}
 
-Submissions for talks and posters are open until the end of **Friday March 6th AOE.**
+Submissions for talks and posters are open until the end of **Friday, March 6th AOE.**
 
 ## Submission Tracks
 
@@ -63,7 +62,6 @@ Can I submit the same work to both talk tracks?
 
  - Please don’t. We will consider a submission to both tracks as a strong sign that Rapid Communication is not necessary.
 
-
 Does the Rapid Communication track require that the work is unpublished?
 
  - No, the Rapid Communication track does not preclude the existance of a technical manuscript and can optionally have a technical manuscript attached to it at submission. That being said, if the technical manuscript is complete and can be submitted to ArXiv, the work is more likely to be accepted through the Published Work track and we encourage submission there.
@@ -74,7 +72,7 @@ Does the Rapid Communication track require that the work be published by the con
 
 Does the Published Work track require that the work be posted to the ArXiv by the submission deadline?
 
- - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider applying to Rapid Communication.
+ - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider submitting to Rapid Communication.
 
 ## Questions
 
