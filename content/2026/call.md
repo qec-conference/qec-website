@@ -22,10 +22,10 @@ The Published Work track requires submission of:
  - A link to a public posting of that manuscript to the ArXiv
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
 
+
 The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. 
 This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily understood and assessed for correctness by the Program Committee.
 Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
-
 
 The Rapid Communication track requires the submission of:
  - An abstract summarizing the work, with a maximum length of 1-page not including references.  The abstract may include figures, but these do count toward the 1-page limit.
