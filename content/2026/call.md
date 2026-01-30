@@ -7,7 +7,7 @@ showTOC: false
 ---
 Submissions to QEC26 are done through EasyChair.
 
-{{< button-link label="Click here to make a submission on EasyChair" url="http://easychair.org" icon="subscribe" >}}
+{{< button-link label="Click here to make a submission on EasyChair" url="https://easychair.org/conferences/?conf=qec26" icon="subscribe" >}}
 
 Submissions for talks and posters are open until the end of **Friday, March 6th AOE.**
 
@@ -22,7 +22,8 @@ The Published Work track requires submission of:
  - A link to a public posting of that manuscript to the ArXiv
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
 
-The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily assessed for correctness by the Program Committee in lieu of more standard peer review.
+The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. 
+This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily understood and assessed for correctness by the Program Committee.
 Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
 
 
@@ -31,7 +32,7 @@ The Rapid Communication track requires the submission of:
  - A 1/2-page statement provide a clear rationale for why the work is appropriate for rapid communication to the field, including how the field would benefit from presentation prior to standard publication and peer review.
 
 
-The **Poster Only** track is intended for those submissions that no not want to be considered for a talk.
+The **Poster Only** track is intended for those submissions that do not want to be considered for a talk.
 Both Published Work and Rapid Communication submissions may indicate that they would additionally like to be considered for poster in the event that they are not selected for a talk.
 
 The Poster Only track requires submission of:
