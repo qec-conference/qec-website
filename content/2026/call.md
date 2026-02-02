@@ -5,12 +5,11 @@ draft: false
 type: text_page
 showTOC: false
 ---
-
 Submissions to QEC26 are done through EasyChair.
 
-The submission link will be made available soon.
+{{< button-link label="Click here to make a submission on EasyChair" url="https://easychair.org/conferences/?conf=qec26" icon="subscribe" >}}
 
-Submissions for talks and posters are open until the end of **Friday March 6th AOE.**
+Submissions for talks and posters are open until the end of **Friday, March 6th AOE.**
 
 ## Submission Tracks
 
@@ -23,16 +22,17 @@ The Published Work track requires submission of:
  - A link to a public posting of that manuscript to the ArXiv
  - An abstract summarizing the work, with a maximum length of 1-page not including references. The abstract may include figures, but these do count toward the 1-page limit.
 
-The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily assessed for correctness by the Program Committee in lieu of more standard peer review.
-Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
 
+The **Rapid Communication** track is intended primarily to inform the field of more recent progress, including experimental demonstrations and novel theoretical constructions. 
+This track has a limited number of slots and will be assessed on whether the field would benefit from the work being presented on a faster timeline, and on whether it can be easily understood and assessed for correctness by the Program Committee.
+Rapid Communication track submissions may be optionally accompanied by a draft or completed technical manuscript.
 
 The Rapid Communication track requires the submission of:
  - An abstract summarizing the work, with a maximum length of 1-page not including references.  The abstract may include figures, but these do count toward the 1-page limit.
  - A 1/2-page statement provide a clear rationale for why the work is appropriate for rapid communication to the field, including how the field would benefit from presentation prior to standard publication and peer review.
 
 
-The **Poster Only** track is intended for those submissions that no not want to be considered for a talk.
+The **Poster Only** track is intended for those submissions that do not want to be considered for a talk.
 Both Published Work and Rapid Communication submissions may indicate that they would additionally like to be considered for poster in the event that they are not selected for a talk.
 
 The Poster Only track requires submission of:
@@ -63,7 +63,6 @@ Can I submit the same work to both talk tracks?
 
  - Please don’t. We will consider a submission to both tracks as a strong sign that Rapid Communication is not necessary.
 
-
 Does the Rapid Communication track require that the work is unpublished?
 
  - No, the Rapid Communication track does not preclude the existance of a technical manuscript and can optionally have a technical manuscript attached to it at submission. That being said, if the technical manuscript is complete and can be submitted to ArXiv, the work is more likely to be accepted through the Published Work track and we encourage submission there.
@@ -74,7 +73,7 @@ Does the Rapid Communication track require that the work be published by the con
 
 Does the Published Work track require that the work be posted to the ArXiv by the submission deadline?
 
- - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider applying to Rapid Communication.
+ - Yes, submissions to the Published Work track require a publicly available post to the ArXiv at the time of submission. If this is not possible to provide, consider submitting to Rapid Communication.
 
 ## Questions
 

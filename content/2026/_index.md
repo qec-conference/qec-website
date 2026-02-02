@@ -33,7 +33,7 @@ QEC 2026 is the 8th edition of the International Quantum Error Correction confer
 
 | Date                         | Event                           |
 |:-----------------------------|:--------------------------------|
-| Coming Soon                  | Opening of submission server    |
+| Monday, February 2nd, 2026   | Opening of submission server    |
 | Friday, March 6th, 2026      | Talk/Poster submission deadline |
 | Mid-April                    | Talk acceptance notification    |
 | Sunday, June 7th - 12th 2026 | QEC 2026                        |
