@@ -53,7 +53,7 @@ Examples:
 
  - I have a novel QEC construction that is substantially improves on current constructions and is easy to assess for correctness, but have not completed a technical manuscript → Submit to Rapid Communication
 
- - I have a novel QEC construction that consists of a substantial proof and requires specific expertise to assess for correctness → Submit to Published Work with a full description in a technical manuscript.
+ - I have a novel QEC construction that consists of a substantial proof and requires specific expertise to assess for correctness → Submit to Published Work with a full description in a technical manuscript that is posted to the ArXiv.
 
  - I have a completed technical manuscript submitted to a journal and am under embargo and cannot post to the ArXiv → Submit to Rapid Communications with the manuscript attached.
 
