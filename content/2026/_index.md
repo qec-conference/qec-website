@@ -12,6 +12,10 @@ layout: home
 {{% jumbo img="/images/2026/background-2026.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
 
 ## <span style="color: #494949;">June 7th-12th, 2026</span>
+Santa Barbara, California
+
+
+
 
 
 {{< button-link label="Call For Papers"
