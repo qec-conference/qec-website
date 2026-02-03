@@ -2,135 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QEC Conference Website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://qec-website.netlify.app/</link>
     <description>Recent content on QEC Conference Website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qec-website.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accepted Papers</title>
-      <link>http://localhost:1313/2026/accepted-papers/</link>
+      <link>https://qec-website.netlify.app/2026/accepted-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/accepted-papers/</guid>
-      <description>&lt;p&gt;Check back later!&lt;/p&gt;&#xA;&lt;!--&#xA;## List of Accepted Contributed Talks&#xA;&#xA;(in order of submission)&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: 2026&#xA;Data key: accepted-papers-2026&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;paper-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&#xA;&#xA;## List of Accepted Posters&#xA;&#xA;(in order of submission)&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: 2026&#xA;Data key: posters-2026&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&#xA;&#xA;## Best Student Paper Awards&#xA;&#xA;--&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/accepted-papers/</guid>
+      <description>&lt;p&gt;Check back later!&lt;/p&gt;&#xA;&lt;!--&#xA;## List of Accepted Contributed Talks&#xA;&#xA;(in order of submission)&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;paper-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&#xA;&#xA;## List of Accepted Posters&#xA;&#xA;(in order of submission)&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&#xA;&#xA;## Best Student Paper Awards&#xA;&#xA;--&gt;</description>
     </item>
     <item>
       <title>Business Meeting</title>
-      <link>http://localhost:1313/2026/sessions/business/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/business/</guid>
+      <guid>https://qec-website.netlify.app/2026/sessions/business/</guid>
       <description>&lt;p&gt;We will discuss any pressing business for the conference, cover the financials and operations of QEC26, and announce the hosts for QEC27. All are welcome to attend!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call for Submissions</title>
-      <link>http://localhost:1313/2026/call/</link>
+      <link>https://qec-website.netlify.app/2026/call/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/call/</guid>
+      <guid>https://qec-website.netlify.app/2026/call/</guid>
       <description>&lt;p&gt;Submissions to QEC26 are done through EasyChair.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;https://easychair.org/conferences/?conf=qec26&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-subscribe&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M440 6.5L24 246.4c-34.4 19.9-31.1 70.8 5.7 85.9L144 379.6V464c0 46.4 59.2 65.5 86.6 28.6l43.8-59.1 111.9 46.2c5.9 2.4 12.1 3.6 18.3 3.6 8.2 0 16.3-2.1 23.6-6.2 12.8-7.2 21.6-20 23.9-34.5l59.4-387.2c6.1-40.1-36.9-68.8-71.5-48.9zM192 464v-64.6l36.6 15.1L192 464zm212.6-28.7l-153.8-63.5L391 169.5c10.7-15.5-9.5-33.5-23.7-21.2L155.8 332.6 48 288 464 48l-59.4 387.3z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;Click here to make a submission on EasyChair&#xA;&lt;/a&gt;&#xA;&#xA;&lt;p&gt;Submissions for talks and posters are open until the end of &lt;strong&gt;Friday, March 6th AOE.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Closing Remarks</title>
-      <link>http://localhost:1313/2026/sessions/close/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/close/</guid>
+      <guid>https://qec-website.netlify.app/2026/sessions/close/</guid>
       <description>&lt;p&gt;See you next year!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code of Conduct</title>
-      <link>http://localhost:1313/2026/code-of-conduct/</link>
+      <link>https://qec-website.netlify.app/2026/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/code-of-conduct/</guid>
+      <guid>https://qec-website.netlify.app/2026/code-of-conduct/</guid>
       <description>&lt;p&gt;The open exchange of ideas and the freedom of thought and expression are central to the aims and&#xA;goals of the Quantum Error Correction conference. These require an environment that recognizes the&#xA;inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and&#xA;that embraces diversity. For these reasons, the QEC Steering Committee and Local Organising&#xA;Committee are committed to providing an inclusive and harassment-free conference experience. We&#xA;ask that all participants follow these guidelines:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coffee &amp; Snacks</title>
-      <link>http://localhost:1313/2026/sessions/__coffeesnacks/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/__coffeesnacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__coffeesnacks/</guid>
-      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:1313/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/sessions/__coffeesnacks/</guid>
+      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;https://qec-website.netlify.app/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
     </item>
     <item>
       <title>Coffee Break</title>
-      <link>http://localhost:1313/2026/sessions/__break/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/__break/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__break/</guid>
-      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;http://localhost:1313/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/sessions/__break/</guid>
+      <description>&lt;!-- Lunch and Coffee is served over in our &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;https://qec-website.netlify.app/online-conference/#the-meet--greet-room&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-link&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;virtual Meet &amp;amp; Greet Room&#xA;&lt;/a&gt;&#xA;. --&gt;</description>
     </item>
     <item>
       <title>Conference Dinner</title>
-      <link>http://localhost:1313/2026/sessions/__dinner/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/__dinner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__dinner/</guid>
-      <description>&lt;p&gt;The Conference Dinner this year will take place in the Plaza del Sol at the Hilton Beachfront Santa Barbara after the Business Meeting. We will also have a speaker for the dinner, more information coming soon!&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/2026/picture-of-plaza.jpg&#34; alt=&#34;drawing&#34; style=&#34;width:400px;&#34;/&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/sessions/__dinner/</guid>
+      <description>&lt;p&gt;The Conference Dinner this year will take place in the Plaza del Sol at the Hilton Beachfront Santa Barbara after the Business Meeting. We will also have a speaker for the dinner, more information coming soon!&lt;/p&gt;&#xA;&lt;img src=&#34;https://qec-website.netlify.app/images/2026/picture-of-plaza.jpg&#34; alt=&#34;drawing&#34; style=&#34;width:400px;&#34;/&gt;</description>
     </item>
     <item>
       <title>Google Quantum AI</title>
-      <link>http://localhost:1313/2026/partners/community/qai/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/qai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/qai/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/qai/</guid>
       <description></description>
     </item>
     <item>
       <title>Lunch break</title>
-      <link>http://localhost:1313/2026/sessions/__lunch/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/__lunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__lunch/</guid>
+      <guid>https://qec-website.netlify.app/2026/sessions/__lunch/</guid>
       <description>&lt;p&gt;Lunch will be provided at the Hilton during the break.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poster Session 1 (Click to see the list of posters)</title>
-      <link>http://localhost:1313/2026/sessions/poster_1/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/poster_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/poster_1/</guid>
-      <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: &#xA;Data key: posters-&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/sessions/poster_1/</guid>
+      <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Poster Session 2 (Click to see the list of posters)</title>
-      <link>http://localhost:1313/2026/sessions/poster_2/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/poster_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/poster_2/</guid>
-      <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;background: #f0f0f0; padding: 10px; margin: 10px;&#34;&gt;&#xA;    &lt;details&gt;&#xA;        &lt;summary&gt;Debug Info&lt;/summary&gt;&#xA;        &lt;pre&gt;&#xA;Year: &#xA;Data key: posters-&#xA;Papers count: 0&#xA;        &lt;/pre&gt;&#xA;    &lt;/details&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/sessions/poster_2/</guid>
+      <description>&lt;h2 id=&#34;posters-presented-in-this-session&#34;&gt;Posters presented in this session&lt;/h2&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;papers&#34;&gt;&#xA;&#x9;&#xA;&#x9;&lt;div class=&#34;inner&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&lt;ul class=&#34;poster-list&#34;&gt;&#xA;&#x9;&#x9;&#xA;&#xA;&#x9;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>QEC Charter</title>
-      <link>http://localhost:1313/2026/charter/</link>
+      <link>https://qec-website.netlify.app/2026/charter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/charter/</guid>
+      <guid>https://qec-website.netlify.app/2026/charter/</guid>
       <description>&lt;h2 id=&#34;goal-of-the-conference&#34;&gt;Goal of the conference&lt;/h2&gt;&#xA;&lt;p&gt;QEC is a conference on Quantum Error Correction and includes both theoretical and experimental research and advances.  The conference is held every year or every other year at the discretion of the steering committee. Its goal is to represent the best research in the area, in the form of both invited and contributed talks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;format-of-the-conference&#34;&gt;Format of the conference&lt;/h2&gt;&#xA;&lt;p&gt;The conference features both invited and contributed talks, with the steering committee selecting the invited talks and a program committee selecting contributed talks. The conference has no published proceedings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>QEC History</title>
-      <link>http://localhost:1313/2026/history/</link>
+      <link>https://qec-website.netlify.app/2026/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/history/</guid>
+      <guid>https://qec-website.netlify.app/2026/history/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;Year &amp;amp; Websites&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Hosting Organization&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Organizers&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2025&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Yale University&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Steven Girvin (LOC Chair), Steve Flammia (PC Chair)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2023&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;University of Sydney&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Stephen Bartlett (LOC Chair), Andrew Doherty (PC Chair)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2019&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;University College, London&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dan Browne (LOC Chair), Earl Campbell (PC Chair)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2017&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;University of Maryland&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ken Brown, Jake Taylor&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2014&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;ETH Zurich&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Joe Renes, Volkher Scholz&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2011&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;University of Southern California&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Lidar (Chair), Mark Byrd&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;2007&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;University of Southern California&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Daniel Lidar (Chair), Todd Brun, Paolo Zanardi&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/2026/registration/</link>
+      <link>https://qec-website.netlify.app/2026/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/registration/</guid>
-      <description>&lt;p&gt;Registration is not currently open, and will be handled through the EasyChair platform. Check back here for more details closer to the conference!&lt;/p&gt;&#xA;&lt;!--&#xA;### General Information&#xA;The registration fees are as follows:&#xA;&#xA;|  Fees |  Early Bird  |  Regular  | Only onsite registration |&#xA;|:---------|:--------|:--------|:--------|&#xA;||  Until TBD  |  Until TBD   | From TBD onwards.|&#xA;|Student Registration | TBD | TBD | TBD |&#xA;|General Registration | TBD | TBD | TBD |&#xA;&#xA;&#xA;&#xA;The registration fees include:&#xA;&#xA;•  All sessions and program materials.&#xA;&#xA;•  Poster session receptions.&#xA;&#xA;•  Banquet Dinner.&#xA;&#xA;•  Daily refreshment breaks and lunches.&#xA;&#xA;&#xA;### Code of Conduct&#xA;People who register agree to abide by the &lt;a href=&#34;http://localhost:1313/code-of-conduct&#34;&gt;conference code of conduct&lt;/a&gt;.&#xA;&#xA;### VISA&#xA;A visa letter can be requested during the registration process. Completion of the registration is required to issue a VISA letter. Visa letter requests can be made directly at the email address &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;mailto:admin@qec-conference.org&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-email&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;admin@qec-conference.org&#xA;&lt;/a&gt;&#xA;&#xA;--&gt;&#xA;&lt;p&gt;In case of questions or technical difficulties with the registration process, please contact: &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;mailto:admin@qec-conference.org&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-email&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;admin@qec-conference.org&#xA;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://qec-website.netlify.app/2026/registration/</guid>
+      <description>&lt;p&gt;Registration is not currently open, and will be handled through the EasyChair platform. Check back here for more details closer to the conference!&lt;/p&gt;&#xA;&lt;!--&#xA;### General Information&#xA;The registration fees are as follows:&#xA;&#xA;|  Fees |  Early Bird  |  Regular  | Only onsite registration |&#xA;|:---------|:--------|:--------|:--------|&#xA;||  Until TBD  |  Until TBD   | From TBD onwards.|&#xA;|Student Registration | TBD | TBD | TBD |&#xA;|General Registration | TBD | TBD | TBD |&#xA;&#xA;&#xA;&#xA;The registration fees include:&#xA;&#xA;•  All sessions and program materials.&#xA;&#xA;•  Poster session receptions.&#xA;&#xA;•  Banquet Dinner.&#xA;&#xA;•  Daily refreshment breaks and lunches.&#xA;&#xA;&#xA;### Code of Conduct&#xA;People who register agree to abide by the &lt;a href=&#34;https://qec-website.netlify.app/code-of-conduct&#34;&gt;conference code of conduct&lt;/a&gt;.&#xA;&#xA;### VISA&#xA;A visa letter can be requested during the registration process. Completion of the registration is required to issue a VISA letter. Visa letter requests can be made directly at the email address &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;mailto:admin@qec-conference.org&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-email&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;admin@qec-conference.org&#xA;&lt;/a&gt;&#xA;&#xA;--&gt;&#xA;&lt;p&gt;In case of questions or technical difficulties with the registration process, please contact: &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;a class=&#34;btn primary&#34; href=&#34;mailto:admin@qec-conference.org&#34;   &gt;&#xA;&#x9;&#xA;&#xA;&#xA;  &lt;svg class=&#34;icon icon-email&#34;&gt;&#xA;&#x9;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&#xA;    &lt;path fill=&#34;currentColor&#34;&#xA;          d=&#34;M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z&#34;&gt;&lt;/path&gt;&#xA;&lt;/svg&gt;&#xA;  &lt;/svg&gt;&#xA;admin@qec-conference.org&#xA;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Registration</title>
-      <link>http://localhost:1313/2026/sessions/__registration/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/__registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__registration/</guid>
+      <guid>https://qec-website.netlify.app/2026/sessions/__registration/</guid>
       <description>&lt;p&gt;Registration will be at the Hilton, near the entrance to the Grand Ballroom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Travel and Accomodations</title>
-      <link>http://localhost:1313/2026/travel/</link>
+      <link>https://qec-website.netlify.app/2026/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/travel/</guid>
+      <guid>https://qec-website.netlify.app/2026/travel/</guid>
       <description>&lt;h2 id=&#34;travel-details&#34;&gt;Travel Details&lt;/h2&gt;&#xA;&lt;p&gt;The best way to get to Santa Barbara is to fly to Santa Barbara Municipal Airport (SBA), which is 7 miles from downtown Santa Barbara where the conference will be hosted. This airport is regional, so unless you are in the western United States you will likely need to transfer. The other option would be to fly to Los Angeles International Airport (LAX), and then rent a car or take a shuttle like the &lt;a style=&#34;color: #024acfff&#34; href=&#34;https://www.sbairbus.com&#34;&gt;SB Airbus.&lt;/a&gt; This second option may be cheaper but will require a few hours of driving.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcoming Remarks</title>
-      <link>http://localhost:1313/2026/sessions/__welcomingremarks/</link>
+      <link>https://qec-website.netlify.app/2026/sessions/__welcomingremarks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/sessions/__welcomingremarks/</guid>
+      <guid>https://qec-website.netlify.app/2026/sessions/__welcomingremarks/</guid>
       <description>&lt;p&gt;Welcome everybody!&lt;/p&gt;</description>
     </item>
   </channel>
