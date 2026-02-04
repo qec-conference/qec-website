@@ -148,7 +148,30 @@ unsafe = true
     identifier = "sponsors"
     pageRef = "/2026/partners"
   [[menu.2026]]
-    name = "Committees"
+    name = "Organization"
     weight = 50
+    identifier = "organization"
+  [[menu.2026]]
+    name = "Commmittees"
+    weight = 51
     identifier = "committees"
+    parent = "organization"
     pageRef = "/2026/team"
+  [[menu.2026]]
+    name = "Charter"
+    weight = 52
+    identifier = "charter"
+    parent = "organization"
+    pageRef = "/2026/charter"
+  [[menu.2026]]
+    name = "Conference History"
+    weight = 53
+    identifier = "history"
+    parent = "organization"
+    pageRef = "/2026/history"
+  [[menu.2026]]
+    name = "Code of Conduct"
+    weight = 53
+    identifier = "code-of-conduct-2"
+    parent = "organization"
+    pageRef = "/2026/code-of-conduct"
