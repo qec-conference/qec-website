@@ -5,11 +5,11 @@ type: partners
 draft: false
 showTOC: false
 ---
+{{% partners categories="Circuit Level Sponsors" year=2026 %}}
 
+{{% /partners %}}
 
-## Our Sponsors
-
-{{% partners categories="Circuit-Level" year=2026 %}}
+{{% partners categories="Code Capacity Sponsors" year=2026 %}}
 
 {{% /partners %}}
 

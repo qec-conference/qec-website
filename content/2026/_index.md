@@ -64,10 +64,11 @@ All deadlines are 23:59 Anywhere on Earth.
 {{% /home-location %}}
 
 
-{{% partners categories="Circuit-Level" year=2026 %}}
-## Sponsors
-
-QEC 2026 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}} 
-
+{{% partners categories="Circuit Level Sponsors" year=2026 %}}
 {{% /partners %}}
+{{% partners categories="Code Capacity Sponsors" year=2026 %}}
+{{% /partners %}}
+
+
+<p style="text-align: center;">QEC 2026 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}}</p>
 
