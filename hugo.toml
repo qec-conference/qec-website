@@ -152,7 +152,7 @@ unsafe = true
     weight = 50
     identifier = "organization"
   [[menu.2026]]
-    name = "Commmittees"
+    name = "Committees"
     weight = 51
     identifier = "committees"
     parent = "organization"

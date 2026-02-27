@@ -21,6 +21,9 @@ Santa Barbara, California
 {{< button-link label="Call For Papers"
                 url="call"
                 icon="cfp" >}}
+{{< button-link label="Registration"
+                url="registration"
+                icon="cfp" >}}
 
 {{% /jumbo %}}
 
@@ -70,5 +73,5 @@ All deadlines are 23:59 Anywhere on Earth.
 {{% /partners %}}
 
 
-<p style="text-align: center;">QEC 2026 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}}</p>
+<p style="text-align: center;">QEC 2026 is seeking sponsors. To learn more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}}</p>
 
