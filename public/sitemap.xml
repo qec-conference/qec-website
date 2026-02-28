@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/2026/accepted-papers/</loc>
-  </url><url>
     <loc>http://localhost:1313/2026/partners/community/alicebob/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/break/</loc>
@@ -65,6 +63,8 @@
     <loc>http://localhost:1313/2026/schedule/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/sessions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2026/accepted-papers/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/speakers/</loc>
   </url><url>

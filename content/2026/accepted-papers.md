@@ -1,12 +1,19 @@
 ---
-title: Accepted Papers
+title: Speakers
 year: 2026
 type: text_page
 showTOC: false
 draft: false
 ---
 
-Check back later!
+### Invited Speakers
+- Natalie C. Brown (Quantinuum)
+- Vedika Khemani (Stanford University)
+- Anthony Leverrier (Inria)
+- Thomas Monz (University of Innsbruck)
+- Yue Wu (Microsoft)
+
+
 <!--
 ## List of Accepted Contributed Talks
 
