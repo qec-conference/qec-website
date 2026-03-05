@@ -13,6 +13,8 @@ draft: false
 - Thomas Monz (University of Innsbruck)
 - Yue Wu (Microsoft)
 
+### Accepted Contributed Talks
+Check back soon!
 
 <!--
 ## List of Accepted Contributed Talks

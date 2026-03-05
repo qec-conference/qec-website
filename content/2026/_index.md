@@ -69,6 +69,8 @@ All deadlines are 23:59 Anywhere on Earth.
 
 {{% partners categories="Circuit Level Sponsors" year=2026 %}}
 {{% /partners %}}
+{{% partners categories="Phenomenological Sponsors" year=2026 %}}
+{{% /partners %}}
 {{% partners categories="Code Capacity Sponsors" year=2026 %}}
 {{% /partners %}}
 

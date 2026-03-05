@@ -9,9 +9,14 @@ showTOC: false
 
 {{% /partners %}}
 
+{{% partners categories="Phenomenological Sponsors" year=2026 %}}
+
+{{% /partners %}}
+
 {{% partners categories="Code Capacity Sponsors" year=2026 %}}
 
 {{% /partners %}}
+
 
 
 ## Call for Sponsors
