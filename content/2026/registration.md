@@ -29,9 +29,14 @@ The registration fees include:
 
 •  Daily refreshment breaks and lunches.
 
+•  Optional tutorials on Sunday, June 7th, 2026 (while space is available).
+
 ### Code of Conduct
 People who register agree to abide by the <a href="/code-of-conduct">conference code of conduct</a>.
 
 
-### VISA
+### Visa
 A visa letter can be requested during the registration process. Visa letter requests can be made to the administrative email address {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
+
+### Financial Hardship
+If you are a student for whom funding issues would prevent your attendance, please email the administrative email address {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
