@@ -32,6 +32,50 @@ You can contact the Organizing Committee via email at {{< button-link label="adm
 * Natalie C. Brown (Co-Chair)
 
 ### PC members
-* coming soon!
+* Victor V. Albert
+* Ben Barber
+* Nouedyn Baspin
+* Lucas Berent
+* Thom Bohdanowicz
+* Laura Caune
+* Kathleen Chang
+* Daniel Crow
+* Nicolas Delfosse
+* Peter-Jan Derks
+* Casey Duckering
+* Gyorgy Geher
+* Mauricio Gutierrez
+* Robin Harper
+* Timo Hillmann
+* Kenta Kasai
+* Isaac Kim
+* Anirudh Krishna
+* Anthony Leverrier
+* Muyuan Li
+* Campbell McLauchlan
+* Markus Muller
+* Andrew Nemec
+* Georgia Nixon
+* Armanda O. Quintavalle
+* Yingkai Ouyang
+* Adam Paetznick
+* Fernando Pastawski
+* Christopher Pattison
+* Benedikt Placke
+* Narayanan Rengaswamy
+* Baptiste Royer
+* Kaavya Sahay
+* Matthew Steinberg
+* Armands Strikis
+* Krysta Svore
+* Eugene Tang
+* James Teoh
+* Mark Turner
+* Michael Vasmer
+* Dominic Williamson
+* Adam Wills
+* Hayata Yamasaki
+* Bei Zeng
+* Hengyun Zhou
 
 You can contact the Program Committee chairs via email at {{< button-link label="program@qec-conference.org" url="mailto:program@qec-conference.org" icon="email" >}}
