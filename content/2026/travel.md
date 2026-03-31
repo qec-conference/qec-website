@@ -14,7 +14,7 @@ Within Santa Barbara the conference is being held at the Hilton Beachfront Santa
 
 ## Hotel Information
 
-There is a block at the <a style="color: #024acfff" href="https://www.hilton.com/en/hotels/sbafphh-hilton-santa-barbara-beachfront-resort/?WT.mc_id=zLADA0AA1HH2PSH3GGL4AMPGEN_Oct5GNPLTPMWBRNLAB6SBAFPHH7EN8i142433__z22126293106z__&gclsrc=aw.ds&gad_source=1&gad_campaignid=22126293106&gbraid=0AAAAA-Q0XEb96XFgi-UHLdV0FJGHAfZkV&gclid=CjwKCAiA95fLBhBPEiwATXUsxP7vUXlvq3GJZ1vk2CwsamDYNJmGYkYtPm1KZ2040EJxB3aX5Y-KiBoCcKUQAvD_BwE">Hilton Beachfront Santa Barbara.</a> Spaces are somewhat limited so we suggest booking once you've registered for the conference. There are a number of other hotels in downtown Santa Barbara at various price points that would also be viable options. 
+There is a block at the <a style="color: #024acfff" href="https://book.passkey.com/go/qecroomblock">Hilton Beachfront Santa Barbara.</a> Spaces are somewhat limited and the <b>reservations must be made by May 8th</b>, so we suggest booking once you've registered for the conference. There are a number of other hotels in downtown Santa Barbara at various price points that are also viable options. 
 
 ## Activities
 
