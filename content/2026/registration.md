@@ -17,7 +17,7 @@ The registration fees are as follows:
 |Student Registration | $600 | $800 | $1000 |
 |General Registration | $700 | $900 | $1100 |
 
-Early-bird registration will be open until April 17th, 2026, AoE.
+Early-bird registration will be open until April 24th, 2026, AoE.
 
 The registration fees include:
 
