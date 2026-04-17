@@ -115,7 +115,7 @@ unsafe = true
     parent = "technical-program"
     pageRef = "/2026/call"
   [[menu.2026]]
-    name = "Speakers"
+    name = "Accepted Papers"
     weight = 22
     identifier = "accepted-papers"
     parent = "technical-program"
