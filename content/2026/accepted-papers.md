@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: Accepted Papers
 year: 2026
 type: text_page
 showTOC: false
