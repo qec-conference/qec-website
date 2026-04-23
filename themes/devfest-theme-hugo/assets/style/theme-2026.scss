@@ -43,3 +43,19 @@
 :root {
     --primary: #b8deff;
 }
+
+.schedule-table {
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    
+    tr:nth-child(2n) {
+      background-color: transparent !important;
+    }
+    
+    th, td {
+      border: 1px solid var(--darken-1);
+      padding: var(--space-2);
+    }
+  }
+}

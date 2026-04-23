@@ -2620,4 +2620,16 @@ main > .text_page .content img#dark_bg {
   --primary: #b8deff;
 }
 
+.schedule-table table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.schedule-table table tr:nth-child(2n) {
+  background-color: transparent !important;
+}
+.schedule-table table th, .schedule-table table td {
+  border: 1px solid var(--darken-1);
+  padding: var(--space-2);
+}
+
 /*# sourceMappingURL=style-2026.css.map */
