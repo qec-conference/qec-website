@@ -7,11 +7,30 @@ draft: false
 url: /2026/schedule/
 ---
 
-# Conference Schedule
+# Tutorials
+This year at QEC we are pleased to offer tutorials on the Sunday before the conference. The tutorials will be as follows:
 
 <div class="schedule-table">
 
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Time | Speaker | Affiliation |
+| --- | --- | --- |
+| 9:00 AM | Adrien Suau | Riverlane |
+| 11:00 AM | TBA | Iceberg Quantum |
+| 1:00 PM | Nicolas Delfosse | IonQ |
+| 3:00 PM | Yaniv Kurman | Quantum Machines |
+
+</div>
+
+<br>
+<br>
+<br>
+
+# Conference Schedule
+<br>
+
+<div class="schedule-table">
+
+| Time | [Monday](#monday-june-8th-2026) | [Tuesday](#tuesday-june-9th-2026) | [Wednesday](#wednesday-june-10th-2026) | [Thursday](#thursday-june-11th-2026) | [Friday](#friday-june-12th-2026) |
 | --- | --- | --- | --- | --- | --- |
 | 9:00 AM | Invited Talk: Yue Wu | Invited Talk: Anthony Leverrier | Invited Talk: TBD | Invited Talk: Natalie C. Brown | Invited Talk: Vedika Khemani |
 | 10:00 AM | Scaling Neural Decoders to Large Codes and Low Error Rates | Fault Tolerance by Construction | Magic state cultivation on a superconducting quantum processor | QGPU: Parallel logic in quantum LDPC codes | Universal quantum computation with group surface codes |
@@ -30,11 +49,16 @@ url: /2026/schedule/
 | 5:00 PM |  | Poster Session | Business Meeting| Poster Session | Closing Remarks|
 
 </div>
+<br>
+<br>
+<br>
+
 
 # List of Accepted Contributed Talks
 
 
 ## Monday, June 8th, 2026
+<br>
 
 | Title | Authors |
 | ------ | ------ |
@@ -49,6 +73,7 @@ url: /2026/schedule/
 | In-situ benchmarking of fault-tolerant quantum circuits | Xiao Xiao, Dominik Hangleiter, Dolev Bluvstein, Mikhail Lukin and Michael Gullans |
 
 ## Tuesday, June 9th, 2026
+<br>
 
 | Title | Authors |
 | ------ | ------ |
@@ -61,6 +86,7 @@ url: /2026/schedule/
 | Check-weight-constrained quantum codes: Bounds and examples | Lily Wang, Andy Liu, Ray Li, Aleksander Kubica and Shouzhen Gu |
 
 ## Wednesday, June 10th, 2026
+<br>
 
 | Title | Authors |
 | ------ | ------ |
@@ -76,6 +102,7 @@ url: /2026/schedule/
 | Efficient magic-state generation with quantum tricycle codes | Varun Menon, J. Pablo Bonilla Ataides, Rohan Mehta, Andi Gu, Daniel Bochen Tan and Mikhail Lukin |
 
 ## Thursday, June 11th, 2026
+<br>
 
 | Title | Authors |
 | ------ | ------ |
@@ -89,6 +116,7 @@ url: /2026/schedule/
 | Entangling logical qubits without physical operations | Shayan Majidy, Jin Ming Koh, Anqi Gong, Andrei Diaconu, Daniel Tan, Alexandra Geim, Michael Gullans, Norman Yao and Mikhail Lukin |
 
 ## Friday, June 12th, 2026
+<br>
 
 | Title | Authors |
 | ------ | ------ |
