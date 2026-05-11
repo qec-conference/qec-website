@@ -39,4 +39,4 @@ People who register agree to abide by the <a href="/code-of-conduct">conference 
 A visa letter can be requested during the registration process. Visa letter requests can be made to the administrative email address {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
 
 ### Financial Hardship
-If you are a student for whom funding issues would prevent your attendance, please email the administrative email address {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
+QC Design has provided a travel fund to support the attendance of students for whom funding issues would prevent their attendance. To check availability please email the administrative email address {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}

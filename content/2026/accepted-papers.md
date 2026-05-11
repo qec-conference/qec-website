@@ -24,7 +24,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 <br>
 <br>
 <br>
-
+  
 # Conference Schedule
 <br>
 
@@ -32,7 +32,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 
 | Time | [Monday](#monday-june-8th-2026) | [Tuesday](#tuesday-june-9th-2026) | [Wednesday](#wednesday-june-10th-2026) | [Thursday](#thursday-june-11th-2026) | [Friday](#friday-june-12th-2026) |
 | --- | --- | --- | --- | --- | --- |
-| 9:00 AM | Invited Talk: Yue Wu | Invited Talk: Anthony Leverrier | Invited Talk: TBD | Invited Talk: Natalie C. Brown | Invited Talk: Vedika Khemani |
+| 9:00 AM | Invited Talk: Yue Wu | Invited Talk: Anthony Leverrier | Invited Talk: Jim Harrington | Invited Talk: Natalie C. Brown | Invited Talk: Vedika Khemani |
 | 10:00 AM | Scaling Neural Decoders to Large Codes and Low Error Rates | Fault Tolerance by Construction | Magic state cultivation on a superconducting quantum processor | QGPU: Parallel logic in quantum LDPC codes | Universal quantum computation with group surface codes |
 | 10:30 AM | A scalable and real-time neural decoder for topological quantum codes | Symmetric Self-Dual Quantum Codes on High Dimensional Expanders | Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching | Batched high-rate logical operations for quantum LDPC codes | Ising on the donut: Regimes of topological quantum error correction from statistical mechanics |
 | 11:00 AM |  |  | Coffee |  |  |
