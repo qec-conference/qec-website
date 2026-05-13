@@ -29,24 +29,151 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 <br>
 
 <div class="schedule-table">
-
-| Time | [Monday](#monday-june-8th-2026) | [Tuesday](#tuesday-june-9th-2026) | [Wednesday](#wednesday-june-10th-2026) | [Thursday](#thursday-june-11th-2026) | [Friday](#friday-june-12th-2026) |
-| --- | --- | --- | --- | --- | --- |
-| 9:00 AM | Invited Talk: Yue Wu | Invited Talk: Anthony Leverrier | Invited Talk: Jim Harrington | Invited Talk: Natalie C. Brown | Invited Talk: Vedika Khemani |
-| 10:00 AM | Scaling Neural Decoders to Large Codes and Low Error Rates | Fault Tolerance by Construction | Magic state cultivation on a superconducting quantum processor | QGPU: Parallel logic in quantum LDPC codes | Universal quantum computation with group surface codes |
-| 10:30 AM | A scalable and real-time neural decoder for topological quantum codes | Symmetric Self-Dual Quantum Codes on High Dimensional Expanders | Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching | Batched high-rate logical operations for quantum LDPC codes | Ising on the donut: Regimes of topological quantum error correction from statistical mechanics |
-| 11:00 AM |  |  | Coffee |  |  |
-| 11:30 AM | Proof of a finite threshold for the union-find decoder | Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families | Magic state distillation via codes over binary extension fields | No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits | Exact learning of quantum noise with tensor networks |
-| 12:00 PM | Minimum Weight Decoding in the Colour Code is NP-hard | Quantum Weight Reduction with Layer Codes | MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes | MERGED: Constant-Overhead Addressable Gates via Single-Shot Code Switching | MERGED: Efficient learning of logical noise from syndrome data |
-|  |  |  | MERGED: Hybrid Lattice Surgery: Non-Cliﬀord Gates via Non-Abelian Surface Codes | MERGED: Transversal Dimension Jump for Product qLDPC Codes | MERGED: Quantum advantages for syndrome-aware noisy logical observable estimation |
-| 12:30 PM |  |  | Lunch |  |  |
-| 2:00 PM | Reinforcement Learning Control of Quantum Error Correction | Fail fast: techniques to probe rare events in quantum error correction | Advantage in distributed quantum computing with slow interconnects, and experiments on a monolithic QPU | Constant-Time QLDPC Code Surgery: Formulation and Constructions | Linear-Time Encodable and Decodable Quantum Error-Correcting Codes |
-| 2:30 PM | Scalable quantum error correction tailored for a heavy-hex qubit array | Decoding Correlated Errors in Quantum LDPC Codes | Fault-Tolerant Quantum Computation with Merged Color Codes | Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements | Partial Self-Correction in Layer Codes |
-| 3:00 PM | Computing with many encoded logical qubits beyond break-even | Check-weight-constrained quantum codes: Bounds and examples | Over 10x Denser Fault Tolerance using Boundary-Connected Modules | Entangling logical qubits without physical operations | Optimal Decoding with the Worm |
-| 3:30 PM |  |  | Coffee |  |  |
-| 4:00 PM | Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors | Panel | Macromux: scalable postselection for high-threshold fault-tolerant quantum computation | Panel | Quantum computing with anyons is fault-tolerant |
-| 4:30 PM | In-situ benchmarking of fault-tolerant quantum circuits |  | Efficient magic-state generation with quantum tricycle codes |  | Efficient high-threshold decoding for concatenated quantum Hamming codes with near-optimal effective distance |
-| 5:00 PM |  | Poster Session | Business Meeting| Poster Session | Closing Remarks|
+<table>
+  <thead>
+      <tr>
+          <th>Time</th>
+          <th><a href="#monday-june-8th-2026">Monday</a></th>
+          <th><a href="#tuesday-june-9th-2026">Tuesday</a></th>
+          <th><a href="#wednesday-june-10th-2026">Wednesday</a></th>
+          <th><a href="#thursday-june-11th-2026">Thursday</a></th>
+          <th><a href="#friday-june-12th-2026">Friday</a></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>9:00 AM</td>
+          <td>Invited Talk: Yue Wu</td>
+          <td>Invited Talk: Anthony Leverrier</td>
+          <td>Invited Talk: Jim Harrington</td>
+          <td>Invited Talk: Natalie C. Brown</td>
+          <td>Invited Talk: Vedika Khemani</td>
+      </tr>
+      <tr>
+          <td>10:00 AM</td>
+          <td>Scaling Neural Decoders to Large Codes and Low Error Rates</td>
+          <td>Fault Tolerance by Construction</td>
+          <td>Magic state cultivation on a superconducting quantum processor</td>
+          <td>QGPU: Parallel logic in quantum LDPC codes</td>
+          <td>Universal quantum computation with group surface codes</td>
+      </tr>
+      <tr>
+          <td>10:30 AM</td>
+          <td>A scalable and real-time neural decoder for topological quantum codes</td>
+          <td>Symmetric Self-Dual Quantum Codes on High Dimensional Expanders</td>
+          <td>Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching</td>
+          <td>Batched high-rate logical operations for quantum LDPC codes</td>
+          <td>Ising on the donut: Regimes of topological quantum error correction from statistical mechanics</td>
+      </tr>
+      <tr>
+          <td>11:00 AM</td>
+          <td></td>
+          <td></td>
+          <td>Coffee</td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>11:30 AM</td>
+          <td>Proof of a finite threshold for the union-find decoder</td>
+          <td>Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families</td>
+          <td>Magic state distillation via codes over binary extension fields</td>
+          <td>No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits</td>
+          <td>Exact learning of quantum noise with tensor networks</td>
+      </tr>
+      <tr>
+          <td>12:00 PM</td>
+          <td>Minimum Weight Decoding in the Colour Code is NP-hard</td>
+          <td>Quantum Weight Reduction with Layer Codes</td>
+          <td>MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes</td>
+          <td>MERGED: Constant-Overhead Addressable Gates via Single-Shot Code Switching</td>
+          <td>MERGED: Efficient learning of logical noise from syndrome data</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>MERGED: Hybrid Lattice Surgery: Non-Cliﬀord Gates via Non-Abelian Surface Codes</td>
+          <td>MERGED: Transversal Dimension Jump for Product qLDPC Codes</td>
+          <td>MERGED: Quantum advantages for syndrome-aware noisy logical observable estimation</td>
+      </tr>
+      <tr>
+          <td>12:30 PM</td>
+          <td></td>
+          <td></td>
+          <td>Lunch</td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2:00 PM</td>
+          <td>Reinforcement Learning Control of Quantum Error Correction</td>
+          <td>Fail fast: techniques to probe rare events in quantum error correction</td>
+          <td>Advantage in distributed quantum computing with slow interconnects, and experiments on a monolithic QPU</td>
+          <td>Constant-Time QLDPC Code Surgery: Formulation and Constructions</td>
+          <td>Linear-Time Encodable and Decodable Quantum Error-Correcting Codes</td>
+      </tr>
+      <tr>
+          <td>2:30 PM</td>
+          <td>Scalable quantum error correction tailored for a heavy-hex qubit array</td>
+          <td>Decoding Correlated Errors in Quantum LDPC Codes</td>
+          <td>Fault-Tolerant Quantum Computation with Merged Color Codes</td>
+          <td>Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements</td>
+          <td>Partial Self-Correction in Layer Codes</td>
+      </tr>
+      <tr>
+          <td>3:00 PM</td>
+          <td>Computing with many encoded logical qubits beyond break-even</td>
+          <td>Check-weight-constrained quantum codes: Bounds and examples</td>
+          <td>Over 10x Denser Fault Tolerance using Boundary-Connected Modules</td>
+          <td>Entangling logical qubits without physical operations</td>
+          <td>Optimal Decoding with the Worm</td>
+      </tr>
+      <tr>
+          <td>3:30 PM</td>
+          <td></td>
+          <td></td>
+          <td>Coffee</td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>4:00 PM</td>
+          <td>Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors</td>
+          <td rowspan="2">Panel</td>
+          <td>Macromux: scalable postselection for high-threshold fault-tolerant quantum computation</td>
+          <td rowspan="2">Panel</td>
+          <td>Quantum computing with anyons is fault-tolerant</td>
+      </tr>
+      <tr>
+          <td>4:30 PM</td>
+          <td>In-situ benchmarking of fault-tolerant quantum circuits</td>
+          <td>Efficient magic-state generation with quantum tricycle codes</td>
+          <td>Efficient high-threshold decoding for concatenated quantum Hamming codes with near-optimal effective distance</td>
+      </tr>
+      <tr>
+          <td>5:00 PM</td>
+          <td></td>
+          <td rowspan="2">Poster Session</td>
+          <td>Business Meeting</td>
+          <td rowspan="2">Poster Session</td>
+          <td>Closing Remarks</td>
+      </tr>
+      <tr>
+          <td>6:00 PM</td>
+          <td></td>
+          <td rowspan="2">Conference Dinner</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>7:00 PM</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+  </tbody>
+</table>
 
 </div>
 <br>
