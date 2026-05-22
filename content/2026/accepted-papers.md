@@ -170,7 +170,6 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td></td>
           <td></td>
           <td></td>
-          <td></td>
       </tr>
   </tbody>
 </table>
@@ -262,6 +261,8 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 
 ### Tuesday Session
 <br>
+
+<div class="schedule-table">
 
 | Submission&nbsp;# | Title | Author | Board&nbsp;# |
 | :---: | --- | --- | :---: |
@@ -368,8 +369,12 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 134 | QGPU: Parallel logic in quantum LDPC codes | Boren Gu, Andy Zeyi Liu, Armanda O. Quintavalle, Qian Xu, Jens Eisert and Joschka Roffe | 101 |
 | 135 | Renormalization-based neural decoder for the surface code | Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and Ole Fjeldså | 102 |
 
+</div>
+
 ### Thursday Session
 <br>
+
+<div class="schedule-table">
 
 | Submission&nbsp;# | Title | Author | Board&nbsp;# |
 | :---: | --- | --- | :---: |
@@ -477,3 +482,5 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 256 | Loss-tolerant preparation of highly symmetric states | Yuanjia Wang | 102 |
 | 258 | A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus | Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li and John van de Wetering | 103 |
 | 259 | In-situ benchmarking of fault-tolerant quantum circuits | Xiao Xiao, Dominik Hangleiter, Dolev Bluvstein, Mikhail Lukin and Michael Gullans | 104 |
+
+</div>
