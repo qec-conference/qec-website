@@ -389,7 +389,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 26 | Combating small Pauli shifts: quantum codes in the Lee metric | Jinkang Guo, Shubham Jain, Aranya Chakraborty, Andrew Lucas and Victor Albert | 173 |
 | 27 | Quantum error correction for multiparameter metrology | Mauricio Gutierrez, Chiranjib Mukhopadhyay, Victor Montenegro and Abolfazl Bayat | 175 |
 | 28 | Gauging the Spacetime Code | Gideon Lee | 177 |
-| 29 | Placeholder Title | Ramya Bhaskar and Cole Maurer | 178 |
+| 29 | Evaulating Tensorial Neural Networks for Quantum Error Correction Decoding | Ramya Bhaskar and Cole Maurer | 178 |
 | 30 | Mackey codes: generalizing stabilizer quantum error correction to heterogeneous systems | Akira Kyle, Shawn Geller, Joshua Combes and Emanuel Knill | 181 |
 | 31 | Optimal dual-mode spin codes for loss | Argyrios Giannisis Manes, Mahadevan Subramanian and Liang Jiang | 182 |
 | 32 | Generalized matching decoders for 2D topological translationally-invariant codes | Shi Jie Samuel Tan, Ian Gill, Eric Huang, Pengyu Liu, Chen Zhao, Hossein Dehghani, Aleksander Kubica, Hengyun Zhou and Arpit Dua | 183 |
