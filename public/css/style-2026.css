@@ -2620,6 +2620,9 @@ main > .text_page .content img#dark_bg {
   --primary: #b8deff;
 }
 
+.schedule-table {
+  overflow-x: auto;
+}
 .schedule-table table {
   border-collapse: collapse;
   width: 100%;
