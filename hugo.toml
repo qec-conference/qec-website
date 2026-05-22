@@ -110,13 +110,13 @@ unsafe = true
     identifier = "technical-program"
   [[menu.2026]]
     name = "Call for Submissions"
-    weight = 21
+    weight = 22
     identifier = "call-for-papers"
     parent = "technical-program"
     pageRef = "/2026/call"
   [[menu.2026]]
     name = "Schedule"
-    weight = 22
+    weight = 21
     identifier = "accepted-papers"
     parent = "technical-program"
     pageRef = "/2026/accepted-papers"
