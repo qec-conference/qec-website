@@ -8,7 +8,15 @@ draft: false
 
 ## Our Sponsors
 
-{{% partners categories="community" year=2027 %}}
+{{% partners categories="Fault-tolerant Sponsors" year=2027 %}}
+
+{{% /partners %}}
+
+{{% partners categories="Logical Qubit Sponsors" year=2027 %}}
+
+{{% /partners %}}
+
+{{% partners categories="Physical Qubit Sponsors" year=2027 %}}
 
 {{% /partners %}}
 

@@ -41,5 +41,15 @@
 @use "pages/papers";
 
 :root {
-    --primary: #8e24aa;
-}  
+    --primary: #1976d2;
+    --base-text: #212121;
+}
+
+.banner img {
+    height: 375px;
+}
+
+.jumbo .inner h2,
+.jumbo .inner h3 {
+    color: white;
+}

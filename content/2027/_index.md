@@ -11,7 +11,9 @@ layout: home
 <!-- JUMBO -->
 {{% jumbo img="/images/2027/background-2027.jpg" imgLabel="QEC 2027 background" logo="/images/2027/logo-2027.png" %}}
 
-## 15-19 September 2027
+## 7-11 June 2027
+
+### Paris, France
 
 {{< button-link label="Call For Papers"
                 url="call"
@@ -20,10 +22,10 @@ layout: home
 {{% /jumbo %}}
 
 
-{{% home-info what="Participants:>200,Days:5,Invited Talks:4" class="primary" %}}
+{{% home-info what="Participants:>500,Days:5,Invited Talks:4" class="primary" %}}
 ## What is QEC 2027?
 
-QEC 2027 is the 20th [ADJUST!] edition of the yearly international scientific conference on the Theory of Quantum Computation, Communication and Cryptography. See the list of previous conferences <a style="color: yellow" href="/2027/charter/#history-of-qec">here</a>.
+QEC 2027 is the 9th edition of the International Conference on Quantum Error Correction. See the list of previous conferences <a style="color: #1976d2" href="/2027/charter/#history-of-qec">here</a>.
 {{% /home-info %}}
 
 {{% home-keydates %}}
@@ -38,7 +40,7 @@ QEC 2027 is the 20th [ADJUST!] edition of the yearly international scientific co
 | Fri, 25 April 2027 | Talk acceptance notification |
 | Wed, 30 April 2027 | Poster-only submission deadline |
 | Mon, 5 May 2027 | Poster-only acceptance notification |
-| Mon, 15 - Fri, 19 Sept 2027 | QEC 2027 |
+| Mon, 7 - Fri, 11 June 2027 | QEC 2027 |
 {{% /home-keydate-table %}}
 
 {{% home-keydate-table title="Website Updates" %}}
@@ -53,10 +55,12 @@ QEC 2027 is the 20th [ADJUST!] edition of the yearly international scientific co
 <!-- THE MAP -->
 {{% home-location
     image="/images/2027/venue-2027.jpg"
-    address="TBD"
+    address="15 Rue de l'École de Médecine, 75006 Paris, France"
     %}}
 
 ## The 2027 venue
+
+[Campus des Cordeliers](https://www.sorbonne-universite.fr/en/university/rental-conference-facilities/rental-spaces-cordeliers-campus), Sorbonne Université, Paris, France
 {{% /home-location %}}
 
 <!-- 

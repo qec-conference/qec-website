@@ -11,9 +11,6 @@ menu:
 
 ---
 
-## TODO
-Update from https://qec-conference.org/registration2027/
-
 In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="2027@qec-conference.org" url="mailto:2027@qec-conference.org" icon="email" >}}
 
 
@@ -45,7 +42,7 @@ The registration fees include:
 People who register agree to abide by the <a href="/code-of-conduct">conference code of conduct</a>.
 
 ### VISA
-A visa letter can be requested during the registration process. Completion of the registration is required to issue a VISA letter. Visa letter requests can be made directly at the email address {{< button-link label="2026@qec-conference.org" url="mailto:2026@qec-conference.org" icon="email" >}}
+A visa letter can be requested during the registration process. Completion of the registration is required to issue a VISA letter. Visa letter requests can be made directly at the email address {{< button-link label="2027@qec-conference.org" url="mailto:2027@qec-conference.org" icon="email" >}}
 
 <!--If you wish to participate in person, please check with the Taiwan Embassy near your region for VISA application process (<a target="_blank" href="https://www.boca.gov.tw/lp-206-2.html">https://www.boca.gov.tw/lp-206-2.html</a>). After your VISA application is approved, please write to us at {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}} , we will send you a link to pay for the balance of the registration fee.
 

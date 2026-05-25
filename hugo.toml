@@ -179,10 +179,10 @@ unsafe = true
 [params.2027]
   city = "Paris, France"
   timeanddate_cityid = 195 ## Placeholder ID, update as needed!
-  themeColor = "#8e24aa"
+  themeColor = "#1565c0"
   [params.2027.logos]
-    jumbo = "/images/2027/background-2027.png"
-    header = "/images/2027/qec-logo-2027.png"
+    jumbo = "/images/2027/background-2027.jpg"
+    header = "/images/2027/logo-2027.png"
     banner = "/images/2027/banner-2027.jpg"
 
   [[menu.2027]]
