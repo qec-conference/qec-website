@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on QEC Conference Website</title>
+    <link>http://localhost:1313/2027/sessions/</link>
+    <description>Recent content in Sessions on QEC Conference Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/2027/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awards and Business Meeting</title>
+      <link>http://localhost:1313/2027/sessions/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/business/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Closing Remarks</title>
+      <link>http://localhost:1313/2027/sessions/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/close/</guid>
+      <description>Goodbye, folks! See you next year!</description>
+    </item>
+    <item>
+      <title>Coffee &amp; Snacks</title>
+      <link>http://localhost:1313/2027/sessions/__coffeesnacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__coffeesnacks/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Coffee Break</title>
+      <link>http://localhost:1313/2027/sessions/__break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__break/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Contributed Talk 3</title>
+      <link>http://localhost:1313/2027/sessions/contributed3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/contributed3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contributed Talks 2a: Experimental Talks</title>
+      <link>http://localhost:1313/2027/sessions/contributed2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/contributed2a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contributed Talks 2b</title>
+      <link>http://localhost:1313/2027/sessions/contributed2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/contributed2b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contributed Talks 2c</title>
+      <link>http://localhost:1313/2027/sessions/contributed2c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/contributed2c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>End of Day</title>
+      <link>http://localhost:1313/2027/sessions/__endofday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__endofday/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Gala Dinner and Networking at Pazo los Escudos Hotel</title>
+      <link>http://localhost:1313/2027/sessions/__dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__dinner/</guid>
+      <description>The Gala Dinner this year will take place at Pazo Los Escudos.&#xA;Please don&amp;rsquo;t worry about the distance from the city center, as a series of buses will transport us there and back. The buses will depart at 19:30 from the location indicated below.</description>
+    </item>
+    <item>
+      <title>Industry Dinner &amp; Networking</title>
+      <link>http://localhost:1313/2027/sessions/industry_dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/industry_dinner/</guid>
+      <description>at Yuntaku Restaurant</description>
+    </item>
+    <item>
+      <title>Industry Gala</title>
+      <link>http://localhost:1313/2027/sessions/industry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/industry/</guid>
+      <description>The Industry Gala is scheduled for Tuesday late afternoon. The agenda includes: Discussion Panel: Representatives from industry and academia will discuss their research in the context of industry and explore the topic of bridging the gap between academic research and the quantum industry.&#xA;Panel Members:&#xA;William John Munro, Professor, OIST – Panel Chair Yutaka Sata, Dr. Eng., Corporate Officer, Corporate Senior Vice President, Chief Technology Officer, Chief Information Security Officer, Toshiba Corporation Ryosei Takano, Quantum-AI Cloud Research Team, G-QuAT, National Institute of Advanced Industrial Science and Technology (AIST) Dakshita Khurana, ​Assistant Professor, University of Illinois Urbana-Champaign Tomoyuki Morimae, Associate Professor, Yukawa Institute for Theoretical Physics, Kyoto University Sponsor Presentations:</description>
+    </item>
+    <item>
+      <title>Invited Talk: &#39;&#39;Adventures in Quantum Wonderland: Understanding Cryptographic Hardness in a Quantum World&#39;&#39;</title>
+      <link>http://localhost:1313/2027/sessions/invited_khurana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/invited_khurana/</guid>
+      <description>Bio Dakshita Khurana is &amp;hellip;&#xA;Abstract A flurry of exciting, recent work has shown that the mathematical hardness required to realize cryptosystems such as bit commitments and secure computation in a quantum world can be significantly weaker than the hardness required for classical cryptography. This talk will discuss recent progress and some remaining challenges in understanding the assumptions that enable cryptography in a quantum world.</description>
+    </item>
+    <item>
+      <title>Invited Talk: &#39;&#39;Potential and Limitations of Near-Term Quantum Computing&#39;&#39;</title>
+      <link>http://localhost:1313/2027/sessions/invited_eisert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/invited_eisert/</guid>
+      <description>Bio Jens Eisert is &amp;hellip;&#xA;Abstract Quantum computers promise the efficient solution of some highly structured computational problems that are classically intractable. While for many years they have been primarily objects of theoretical study, only recently have efforts to build intermediate-scale quantum computers taken off. This creates an interesting state of affairs, but at the same time, it begs the question of what such devices are, practically speaking, good for. In this talk, we will present some encouraging as well as—emphasizing the latter—discouraging insights into near-term quantum computing.</description>
+    </item>
+    <item>
+      <title>Lab Tour and Excursion to Cíes Islands (click for more details)</title>
+      <link>http://localhost:1313/2027/sessions/__excursion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__excursion/</guid>
+      <description>The afternoon of wednesday will consist of two possible afternoon activities.&#xA;LAB TOUR&#xA;If you signed up for the lab tour, the bus will depart from the location indicated below (Rua Areal, towards the intersection with Rua Colón). The bus will leave at 15:30 and the trip to the lab will take 25 minutes. Once the lab tour is finished, the bus will bring us back to the city center.</description>
+    </item>
+    <item>
+      <title>Light Dinner</title>
+      <link>http://localhost:1313/2027/sessions/light_dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/light_dinner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lunch break</title>
+      <link>http://localhost:1313/2027/sessions/__lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__lunch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poster Session Monday (Click to see the list of posters)</title>
+      <link>http://localhost:1313/2027/sessions/poster_monday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/poster_monday/</guid>
+      <description> Posters presented in this session Debug Info Year: Data key: posters- Papers count: 0 </description>
+    </item>
+    <item>
+      <title>Public Lecture: &#39;Ordenadores y criptografía cuántica: ¿qué pasa cuando los bits se vuelven cuánticos?&#39; &#39;Quantum computers and cryptography: what happens when bits become quantum?&#39;</title>
+      <link>http://localhost:1313/2027/sessions/_public_lecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/_public_lecture/</guid>
+      <description>On Monday evening at 7:00 PM, Professor Antonio Acín will give a public lecture titled &amp;lsquo;&amp;lsquo;Ordenadores y criptografía cuántica: ¿qué pasa cuando los bits se vuelven cuánticos?&amp;rsquo;&amp;rsquo; (&amp;lsquo;&amp;lsquo;Quantum Computers and Cryptography: What Happens When Bits Become Quantum?&amp;rsquo;&amp;rsquo;). The lecture is open to everyone, including conference participants and the general public!&#xA;The event will take place at the García Barbón Theatre, just a few meters from the conference venue. (The location of the theatre is provided below.</description>
+    </item>
+    <item>
+      <title>Registration &amp; Coffee</title>
+      <link>http://localhost:1313/2027/sessions/__registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__registration/</guid>
+      <description>Registration &amp;amp; Coffee in the OIST conference center, entrance hall.</description>
+    </item>
+    <item>
+      <title>Rump Session</title>
+      <link>http://localhost:1313/2027/sessions/rump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/rump/</guid>
+      <description> TBA </description>
+    </item>
+    <item>
+      <title>Start of Day &#43; networking</title>
+      <link>http://localhost:1313/2027/sessions/__startofday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__startofday/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Updates &amp; Announcements</title>
+      <link>http://localhost:1313/2027/sessions/__updatesannouncements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__updatesannouncements/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Welcome Reception at Palacio de la Oliva (click for more details)</title>
+      <link>http://localhost:1313/2027/sessions/__reception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__reception/</guid>
+      <description>QCrypt welcomes you to Vigo with this special event included in your registration! Join us at the Palacio de La Oliva for an aperitif with fellow participants.&#xA;The venue for the welcome reception is just a 10-minute walk from the conference site, situated in the heart of Vigo&amp;rsquo;s old town.&#xA;(Location details are provided below.)</description>
+    </item>
+    <item>
+      <title>Welcoming Remarks</title>
+      <link>http://localhost:1313/2027/sessions/__welcomingremarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2027/sessions/__welcomingremarks/</guid>
+      <description>Welcome everybody!</description>
+    </item>
+  </channel>
+</rss>

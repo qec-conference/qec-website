@@ -31,7 +31,7 @@
   --container-margin: 10vw;
   --container-margin-mobile: 3vw;
   --toolbar-height: 5rem;
-  --font-family: 'Roboto', sans-serif;
+  --font-family: "Roboto", sans-serif;
   /* Tags */
   /* from https://github.com/d3/d3-scale-chromatic#schemePastel2 */
   --tag1: #b3e2cd;
@@ -184,6 +184,9 @@ body > header {
   top: 0;
   z-index: 100;
   width: 100vw;
+  box-shadow: 0 var(--space-1) var(--primary), 0 var(--space-2) var(--space-1) var(--darken-3);
+  background: var(--primary);
+  color: var(--primary-txt);
 }
 body > header .top-content {
   max-width: var(--theJdrSize);
@@ -192,11 +195,6 @@ body > header .top-content {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-}
-body > header {
-  box-shadow: 0 var(--space-1) var(--primary), 0 var(--space-2) var(--space-1) var(--darken-3);
-  background: var(--primary);
-  color: var(--primary-txt);
 }
 body > header .logo img {
   height: calc(var(--toolbar-height) - 2 * var(--space-2));
@@ -747,11 +745,11 @@ a.social:focus, a.social:hover {
     max-width: 80vw;
     padding: 0;
   }
-  .jumbo .inner h1 img {
-    max-width: 100%;
-  }
   .jumbo .inner h1 {
     font-size: 1.5rem;
+  }
+  .jumbo .inner h1 img {
+    max-width: 100%;
   }
 }
 .banner img {
@@ -1139,15 +1137,15 @@ a .icon.icon-right {
 }
 
 .type-invited {
-  --duration: '60';
+  --duration: "60";
 }
 
 .type-tutorial {
-  --duration: '75';
+  --duration: "75";
 }
 
 .type-contributed {
-  --duration: '30';
+  --duration: "30";
 }
 
 form {
@@ -1657,13 +1655,11 @@ form input:invalid {
   box-shadow: var(--space-1) var(--space-1) var(--space-2) var(--darken-2);
   transition: box-shadow var(--animation);
   border-radius: var(--space-2);
+  text-decoration: none;
+  color: inherit;
 }
 .page.sessions .talk .speakers .speaker:hover, .page.sessions .talk .speakers .speaker:focus {
   box-shadow: var(--space-2) var(--space-2) var(--space-2) var(--darken-3);
-}
-.page.sessions .talk .speakers .speaker {
-  text-decoration: none;
-  color: inherit;
 }
 .page.sessions .talk .media {
   grid-column: 1/-1;
@@ -1853,12 +1849,10 @@ form input:invalid {
   background-position: center center;
   background-size: cover;
   pointer-events: none;
+  /* These tags have dark background images, so the text needs to be white */
 }
 .section.schedule .session.tag-open > a, .section.schedule .session.tag-pause > a, .section.schedule .session.tag-lunch > a, .section.schedule .session.tag-party > a, .section.schedule .session.tag-break > a, .section.schedule .session.tag-dinner > a {
   box-shadow: none;
-}
-.section.schedule .session.tag-open, .section.schedule .session.tag-pause, .section.schedule .session.tag-lunch, .section.schedule .session.tag-party, .section.schedule .session.tag-break, .section.schedule .session.tag-dinner {
-  /* These tags have dark background images, so the text needs to be white */
 }
 .section.schedule .session.tag-open h4, .section.schedule .session.tag-open .location, .section.schedule .session.tag-pause h4, .section.schedule .session.tag-pause .location, .section.schedule .session.tag-lunch h4, .section.schedule .session.tag-lunch .location, .section.schedule .session.tag-party h4, .section.schedule .session.tag-party .location, .section.schedule .session.tag-break h4, .section.schedule .session.tag-break .location, .section.schedule .session.tag-dinner h4, .section.schedule .session.tag-dinner .location {
   color: white;
@@ -2597,11 +2591,11 @@ main > .text_page .content img#dark_bg {
 .papers .poster-list .paper-authors {
   display: block;
 }
-.papers .poster-list .paper-abstract ::before {
-  height: 0;
-}
 .papers .poster-list .paper-abstract {
   display: inline;
+}
+.papers .poster-list .paper-abstract ::before {
+  height: 0;
 }
 .papers .poster-list .paper-arxivid {
   display: inline;

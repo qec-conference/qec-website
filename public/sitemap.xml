@@ -2,33 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/2027/speakers/contributed/foo_bar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/speakers/contributed/tester1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/speakers/discussion/acin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/speakers/invited/eisert/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/speakers/invited/khurana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/accepted-papers/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/partners/community/alicebob/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/business/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/break/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/sessions/business/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/team/core/chandrashekar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/call/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/call/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/sessions/close/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/sessions/close/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/code-of-conduct/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/code-of-conduct/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/sessions/__coffeesnacks/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/sessions/__coffeesnacks/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/sessions/__break/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__break/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/team/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/team/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/sessions/__dinner/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/contributed3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/contributed2a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/contributed2b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/contributed2c/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/crypto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/dinner/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__endofday/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/francois_legall/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/frederic_magniez/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__dinner/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/partners/community/qai/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/partners/community/iceberg/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/sessions/industry_dinner/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/industry/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/partners/community/iaqi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/invited_khurana/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/invited_eisert/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/partners/community/ionq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/kae_nemoto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/kai-min_chung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__excursion/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/lidia_delrio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/light_dinner/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/partners/community/logiqal/</loc>
   </url><url>
@@ -36,7 +106,13 @@
   </url><url>
     <loc>http://localhost:1313/2026/sessions/__lunch/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/sessions/__lunch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/min-hsiu_hsieh/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/other/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/pictures/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/poster/</loc>
   </url><url>
@@ -44,9 +120,17 @@
   </url><url>
     <loc>http://localhost:1313/2026/sessions/poster_2/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/sessions/poster_monday/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/poster/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/presentations/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/partners/community/prxq/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/partners/community/quantinuum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/_public_lecture/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/partners/community/qblox/</loc>
   </url><url>
@@ -56,9 +140,13 @@
   </url><url>
     <loc>http://localhost:1313/2026/charter/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/charter/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/history/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/history/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/partners/community/quantummachines/</loc>
   </url><url>
@@ -66,20 +154,50 @@
   </url><url>
     <loc>http://localhost:1313/2026/sessions/__registration/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/registration/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__registration/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/partners/community/riverlane/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/rump/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/schedule/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/schedule/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/sessions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/shelby_kimmel/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/speakers/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/speakers/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/partners/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/partners/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__startofday/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/steering/steve_flammia/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/2026/travel/</loc>
   </url><url>
+    <loc>http://localhost:1313/2027/partners/community/uva/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__updatesannouncements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__reception/</loc>
+  </url><url>
     <loc>http://localhost:1313/2026/sessions/__welcomingremarks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/sessions/__welcomingremarks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2027/team/pcchairs/bill_fefferman/</loc>
   </url>
 </urlset>
