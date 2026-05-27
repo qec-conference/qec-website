@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo-imp:/Users/dripto/src/git/qec-website/themes/devfest-theme-hugo/assets/script/submenus.js
+  // ns-hugo-imp:/usr/local/google/home/mmcewen/qec-website/themes/devfest-theme-hugo/assets/script/submenus.js
   document.addEventListener("DOMContentLoaded", function() {
     const menuItems = document.querySelectorAll(".has-children > a");
     menuItems.forEach((item) => {
@@ -25,7 +25,7 @@
     });
   });
 
-  // ns-hugo-imp:/Users/dripto/src/git/qec-website/themes/devfest-theme-hugo/assets/script/polyfills.js
+  // ns-hugo-imp:/usr/local/google/home/mmcewen/qec-website/themes/devfest-theme-hugo/assets/script/polyfills.js
   if (window.NodeList && !NodeList.prototype.forEach) {
     NodeList.prototype.forEach = function(callback, thisArg) {
       thisArg = thisArg || window;
@@ -35,14 +35,14 @@
     };
   }
 
-  // ns-hugo-imp:/Users/dripto/src/git/qec-website/themes/devfest-theme-hugo/assets/script/shuffle.js
+  // ns-hugo-imp:/usr/local/google/home/mmcewen/qec-website/themes/devfest-theme-hugo/assets/script/shuffle.js
   document.querySelectorAll("ul.shuffle").forEach((listElt) => {
     for (let i = listElt.children.length; i >= 0; i--) {
       listElt.appendChild(listElt.children[Math.random() * i | 0]);
     }
   });
 
-  // ns-hugo-imp:/Users/dripto/src/git/qec-website/themes/devfest-theme-hugo/assets/script/sort.js
+  // ns-hugo-imp:/usr/local/google/home/mmcewen/qec-website/themes/devfest-theme-hugo/assets/script/sort.js
   function surnameSorter(a, b) {
     if (a[0] < b[0]) return -1;
     if (a[0] > b[0]) return 1;
@@ -73,7 +73,7 @@
     }
   });
 
-  // ns-hugo-imp:/Users/dripto/src/git/qec-website/themes/devfest-theme-hugo/assets/script/background.js
+  // ns-hugo-imp:/usr/local/google/home/mmcewen/qec-website/themes/devfest-theme-hugo/assets/script/background.js
   setTimeout(function() {
     const jumboOverlay = document.querySelector("#jumbo-overlay");
     if (jumboOverlay) {
