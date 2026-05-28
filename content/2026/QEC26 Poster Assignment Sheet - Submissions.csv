@@ -116,64 +116,62 @@ for Near-Term Quantum Simulation",Session 1: Tuesday,60
 Analysis of Quantum Error Correcting Codes",Session 1: Tuesday,61
 98,Dawei Zhong and Todd Brun,"Protection of Exponential Operation using Stabilizer Codes
 in the Early Fault Tolerance Era",Session 1: Tuesday,62
-99,"Samyak Surti, Lucas Daguerre and Isaac Kim","Efficient simulation of logical magic state preparation
-protocols",Session 1: Tuesday,63
 100,"Yohei Ibe, Yutaka Hirano, Yasuo Ozu, Toru Kawakubo and
 Keisuke Fujii","Measurement-Based Fault-Tolerant Quantum Computation on
 High-Connectivity Devices: A Resource-Efficient Approach
-toward Early FTQC",Session 1: Tuesday,64
+toward Early FTQC",Session 1: Tuesday,63
 102,"Yunzhe Zheng, Yuanchen Zhao and Dong Liu","Fragility of Magic State Distillation under Imperfect
-Measurements",Session 1: Tuesday,65
+Measurements",Session 1: Tuesday,64
 103,"Aliza Siddiqui, Aaron Friedman, Alexander Kwiatkowski,
-Shawn Geller, Scott Glancy and Emanuel Knill",Logical Cycle Benchmarking,Session 1: Tuesday,66
+Shawn Geller, Scott Glancy and Emanuel Knill",Logical Cycle Benchmarking,Session 1: Tuesday,65
 105,"Zhuangzhuang Chen, Jack Weinberg, Asit Pradhan and
-Narayanan Rengaswamy",TUF: Trotter-based Universal Fault-tolerance,Session 1: Tuesday,67
+Narayanan Rengaswamy",TUF: Trotter-based Universal Fault-tolerance,Session 1: Tuesday,66
 106,"Michael A. Perlin, Zichang He, Anthony Alexiades Armenakas,
 Pablo Andres-Martinez, Tianyi Hao, Dylan Herman, Yuwei Jin,
 Karl Mayer, David Amaro, Ciaran Ryan-Anderson and Ruslan
 Shaydulin","Fault-tolerant execution of error-corrected quantum
-algorithms",Session 1: Tuesday,68
-107,"Yaoling Yang, Andrew Tanggara, Tobias Haug and Kishor Bharti",Quantum Cubature Codes,Session 1: Tuesday,69
+algorithms",Session 1: Tuesday,67
+107,"Yaoling Yang, Andrew Tanggara, Tobias Haug and Kishor Bharti",Quantum Cubature Codes,Session 1: Tuesday,68
 109,Dominic Williamson,"Fast magic state preparation by gauging higher-form
-transversal gates in parallel",Session 1: Tuesday,70
+transversal gates in parallel",Session 1: Tuesday,69
 114,"Remmy Zen, Gavin Brennen, Fazeleh Kazemian, Kavan Modi,
 Giacomo Pantaleoni, Angus Southwell and Tom Stace","Noise-Aware Discovery of Structured Quantum Error
-Correction Codes",Session 1: Tuesday,71
+Correction Codes",Session 1: Tuesday,70
 115,"Fazeleh Kazemian, Angus Southwell, John Kam, Giacomo
 Pantaleoni, Remmy Zen, Gavin Brennen, Tom Stace, Kavan Modi
 and Gregory White","Self-Consistent Process Tensor Network Tomography (PTNT)
-via Constrained Parameterized Instrument Sets",Session 1: Tuesday,72
+via Constrained Parameterized Instrument Sets",Session 1: Tuesday,71
 120,"Olai Åsmundson Mostad, Eirik Rosnes and Hsuan-Yin Lin","Improved Decoding of Quantum Tanner Codes Using Generalized
-Check Nodes",Session 1: Tuesday,73
+Check Nodes",Session 1: Tuesday,72
 121,"Fumiyoshi Kobayashi, Toshi Kusano, Nicholas Fazio and Yuma
 Nakamura","Performance Evaluation of Quantum Error Corrections in Dual
-Ytterbium Systems",Session 1: Tuesday,74
+Ytterbium Systems",Session 1: Tuesday,73
 122,"Boris Bourdoncle, Peter-Jan Derks, Théo Dessertaine and
 Johannes Frank","Fast simulations of the Fermi-Hubbard model on the SPOQC
-architecture",Session 1: Tuesday,75
-123,"Long My, Shao-Hen Chiew, Jing Hao Chai and Hui Khoon Ng",Information-efficient decoding of surface codes,Session 1: Tuesday,76
+architecture",Session 1: Tuesday,74
+123,"Long My, Shao-Hen Chiew, Jing Hao Chai and Hui Khoon Ng",Information-efficient decoding of surface codes,Session 1: Tuesday,75
 124,"Pedro Hack, Luca Menti, Francisco Lázaro and Alexandru Paler","Achieving Thresholds via Standalone Belief Propagation on
-Surface Codes",Session 1: Tuesday,77
+Surface Codes",Session 1: Tuesday,76
 125,"Vicent Steffan, Shin Ho Choe, Nikolas Breuckmann, Francisco
 Revson Fernandes Pereira and Jens Eberhardt","Tile Codes: High-Efficiency Quantum Codes on a Lattice with
-Boundary",Session 1: Tuesday,78
+Boundary",Session 1: Tuesday,77
 127,"John Kam, Angus Southwell, Spiro Gicev, Muhammad Usman and
 Kavan Modi","Spatiotemporal Pauli processes: Quantum combs for modelling
-correlated noise in quantum error correction",Session 1: Tuesday,79
+correlated noise in quantum error correction",Session 1: Tuesday,78
 130,"Sungjoo Cho, Ju-yeon Gyhm, Hyukjoon Kwon and Hyunseok Jeong","Autonomous Quantum Error Correction of Spin-Oscillator
-Hybrid Qubits",Session 1: Tuesday,80
+Hybrid Qubits",Session 1: Tuesday,79
 132,"Ewan Murphy, Michael Vasmer and Subhayan Sahu","Simplified Circuit-Level Decoding Using Knill Error
-Correction",Session 1: Tuesday,81
+Correction",Session 1: Tuesday,80
 133,Sanguk Lee and Jun Heo,"Measurement efficient probabilistic error cancellation
-using classical shadows and gate set tomography",Session 1: Tuesday,82
+using classical shadows and gate set tomography",Session 1: Tuesday,81
 135,"Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and
-Ole Fjeldså",Renormalization-based neural decoder for the surface code,Session 1: Tuesday,83
+Ole Fjeldså",Renormalization-based neural decoder for the surface code,Session 1: Tuesday,82
 136,"Ivan Rojkov, Elias Zapusek and Florentin Reiter","Scalable dissipative quantum error correction for qubit
-codes",Session 1: Tuesday,84
+codes",Session 1: Tuesday,83
 139,"Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan
 Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen,
 Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber and
-Martin Ringbauer",Holographic quantum codes with trapped ions,Session 1: Tuesday,85
+Martin Ringbauer",Holographic quantum codes with trapped ions,Session 1: Tuesday,84
 140,"Bence Hetenyi, Benjamin J. Brown and Dominic J. Williamson","Constant-depth magic state cultivation via gauging Clifford
 measurement",Session 2: Thursday,1
 141,"Kun Liu, Shifan Xu, Tomas Jochym-O'Connor, Zhiyang He,
@@ -197,7 +195,7 @@ CSS codes",Session 2: Thursday,10
 157,"Shinichi Sunami, Yutaka Hirano, Toshihide Hinokuma and
 Hayata Yamasaki","Entanglement boosting: Low-volume logical Bell pair
 preparation for distributed fault-tolerant quantum
-computation",Session 1: Tuesday,86
+computation",Session 1: Tuesday,85
 158,"Stergios Koutsioumpas, Tamas Noszko, Hasan Sayginel, Mark
 Webster and Joschka Roffe","Colour Codes Reach Surface Code Performance using Vibe
 Decoding",Session 2: Thursday,12

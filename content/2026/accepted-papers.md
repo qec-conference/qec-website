@@ -424,18 +424,17 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 |      67      | Qudit LDPC Codes with Sublinear Rate and Minimum Distance | Shantom Borah, Abhinav Vaishya, Lalitha Vadlamani, Asit Pradhan, Bane Vasic and Narayanan Rengaswamy | 239 |
 |      68      | Exploring Asymmetric QEC Code Concatenation | Sayam Sethi, Maxwell Poster, Aditi Awasthi, Willers Yang, Joshua Viszlai and Jonathan Baker | 240 |
 |      69      | The Hardness of Learning Global Decoders | Aditya Bhardwaj, Nathaniel Selub and Hsin-Yuan Huang | 241 |
-|      70      | Efficient simulation of logical magic state preparation protocols | Samyak Surti, Lucas Daguerre and Isaac Kim | 99 |
-|      71      | SpiderCat: Optimal Fault-Tolerant Cat State Preparation | Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering and Richie Yeung | 243 |
-|      72      | Watermelon Surface Code: Superdense Extraction with Reduced Grid Connectivity | Andrey Khesin and Boldizsár Poór | 244 |
-|      73      | Surprisingly useful local decoders for topological codes | Ethan Lake, Nathaniel Selub and Aditya Bhardwaj | 246 |
-|      74      | Efficient magic state cultivation with lattice surgery | Yutaka Hirano, Riki Toshio, Tomohiro Itogawa and Keisuke Fujii | 247 |
-|      75      | Fault-tolerant leakage-aware simulation and decoding of 2D Color Codes | Aswath Suryanarayanan, Andrea Rodriguez-Blanco and Birgitta Whaley | 248 |
-|      76      | A memory-eﬃcient, symbolic and exact simulator for universal quantum error correction | George Umbrarescu and David Amaro | 249 |
-|      77      | Adaptive Loss-tolerant Syndrome Measurements | Yuanjia Wang and Todd A. Brun | 252 |
-|      78      | An information-theoretic design principle for qubit placement in quantum error-correcting codes | Omid Khosravani, Guillermo Escobar-Arrieta, Kenneth R. Brown and Mauricio Gutiérrez | 254 |
-|      79      | Correcting quantum errors using a classical code and one additional qubit | Tenzan Araki, Joseph Goodwin and Zhenyu Cai | 255 |
-|      80      | Loss-tolerant preparation of highly symmetric states | Yuanjia Wang | 256 |
-|      81      | A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus | Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li and John van de Wetering | 258 |
-|      82      | Transversal AND in Quantum Codes | Christine Li and Lia Yeh | 242 |
-|      83      | Beyond IID: Correlated Noise Models for Code-Capacity Analysis of Quantum Error Correcting Codes | Giacomo Pantaleoni and Remmy Zen | 96 |
+|      70      | SpiderCat: Optimal Fault-Tolerant Cat State Preparation | Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering and Richie Yeung | 243 |
+|      71      | Watermelon Surface Code: Superdense Extraction with Reduced Grid Connectivity | Andrey Khesin and Boldizsár Poór | 244 |
+|      72      | Surprisingly useful local decoders for topological codes | Ethan Lake, Nathaniel Selub and Aditya Bhardwaj | 246 |
+|      73      | Efficient magic state cultivation with lattice surgery | Yutaka Hirano, Riki Toshio, Tomohiro Itogawa and Keisuke Fujii | 247 |
+|      74      | Fault-tolerant leakage-aware simulation and decoding of 2D Color Codes | Aswath Suryanarayanan, Andrea Rodriguez-Blanco and Birgitta Whaley | 248 |
+|      75      | A memory-eﬃcient, symbolic and exact simulator for universal quantum error correction | George Umbrarescu and David Amaro | 249 |
+|      76      | Adaptive Loss-tolerant Syndrome Measurements | Yuanjia Wang and Todd A. Brun | 252 |
+|      77      | An information-theoretic design principle for qubit placement in quantum error-correcting codes | Omid Khosravani, Guillermo Escobar-Arrieta, Kenneth R. Brown and Mauricio Gutiérrez | 254 |
+|      78      | Correcting quantum errors using a classical code and one additional qubit | Tenzan Araki, Joseph Goodwin and Zhenyu Cai | 255 |
+|      79      | Loss-tolerant preparation of highly symmetric states | Yuanjia Wang | 256 |
+|      80      | A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus | Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li and John van de Wetering | 258 |
+|      81      | Transversal AND in Quantum Codes | Christine Li and Lia Yeh | 242 |
+|      82      | Beyond IID: Correlated Noise Models for Code-Capacity Analysis of Quantum Error Correcting Codes | Giacomo Pantaleoni and Remmy Zen | 96 |
 </div>
