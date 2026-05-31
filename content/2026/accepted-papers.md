@@ -307,45 +307,44 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 40 | Numerical Analysis of Rare Events in Bivariate Bicycle Codes with BP-OSD | Giacomo Fregona, Matthias Löbl, Benjamin Brown, Stefano Paesani and Michael Kastoryano | 69 |
 | 41 | Classical Shadows is Optimal for Local Observables | Prateek P Kulkarni | 70 |
 | 42 | Gauge Field Formalism for Logical Gates in Quantum CSS Codes | Junichi Haruna | 73 |
-| 43 | High-rate quantum LDPC codes for long-range-connected neutral atom registers | Laura Pecorari, Sven Jandura, Gavin K. Brennen and Guido Pupillo | 74 |
-| 44 | Noise model for trapped ions multiqubit gates compatible with quantum error correction | Ori Grossman, Yotam Kadish, Snir Gazit, Amit Ben Kish and Yotam Shapira | 75 |
-| 45 | Automated Compilation Including Dropouts: Tolerating Defective Components in Stabiliser Codes | Stasiu Wolanski | 76 |
-| 46 | Pre-Decoders for Scalable Real-Time Decoding with Surface Codes | Muyuan Li, Christopher Chamberland and Jan Olle | 77 |
-| 47 | A matching decoder for bivariate bicycle codes | Kaavya Sahay, Dominic Williamson and Benjamin Brown | 78 |
-| 48 | Fast stabilizer state preparation via AI-optimized graph decimation | Matteo Puviani, Michael Doherty, Jasmine Brewer, Gabriel Matos, David Amaro, Ben Criger and David Stephen | 80 |
-| 49 | Quantum Memory and Autonomous Computation in Two Dimensions | Gesa Dünnweber, Georgios Styliaris and Rahul Trivedi | 81 |
-| 50 | Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware | Gyorgy Geher, David Byfield and Archibald Ruban | 83 |
-| 51 | Optimized Measurement Schedules for the Surface Code with Dropout | Benjamin Anker and Dripto Debroy | 84 |
-| 52 | Correction of chain losses in trapped ion quantum computers | Nolan Coble, Min Ye and Nicolas Delfosse | 85 |
-| 53 | Preserving Geometric Locality with Syndrome Measurement Codes | Eren Guttentag and Benjamin Anker | 87 |
-| 54 | Injection is all you need: bypassing the addressability problem in high-rate stabilizer codes | Joseph Sullivan, Michael A. Perlin and David Amaro | 88 |
-| 55 | Layer codes as partially self-correcting quantum memories | Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica and Eugene Tang | 89 |
-| 56 | Quantum Lego Power-up: Designing Transversal Gates with Tensor Networks | Chunjun Cao and Brad Lackey | 93 |
-| 57 | Combining Error Detection and Mitigation: A Hybrid Protocol for Near-Term Quantum Simulation | William Munizzi, Dawei Zhong, Wibe de Jong and Huo Chen | 95 |
-| 58 | Protection of Exponential Operation using Stabilizer Codes in the Early Fault Tolerance Era | Dawei Zhong and Todd Brun | 98 |
-| 59 | Measurement-Based Fault-Tolerant Quantum Computation on High-Connectivity Devices: A Resource-Efficient Approach toward Early FTQC | Yohei Ibe, Yutaka Hirano, Yasuo Ozu, Toru Kawakubo and Keisuke Fujii | 100 |
-| 60 | Fragility of Magic State Distillation under Imperfect Measurements | Yunzhe Zheng, Yuanchen Zhao and Dong Liu | 102 |
-| 61 | Logical Cycle Benchmarking | Aliza Siddiqui, Aaron Friedman, Alexander Kwiatkowski, Shawn Geller, Scott Glancy and Emanuel Knill | 103 |
-| 62 | TUF: Trotter-based Universal Fault-tolerance | Zhuangzhuang Chen, Jack Weinberg, Asit Pradhan and Narayanan Rengaswamy | 105 |
-| 63 | Fault-tolerant execution of error-corrected quantum algorithms | Michael A. Perlin, Zichang He, Anthony Alexiades Armenakas, Pablo Andres-Martinez, Tianyi Hao, Dylan Herman, Yuwei Jin, Karl Mayer, David Amaro, Ciaran Ryan-Anderson and Ruslan Shaydulin | 106 |
-| 64 | Quantum Cubature Codes | Yaoling Yang, Andrew Tanggara, Tobias Haug and Kishor Bharti | 107 |
-| 65 | Fast magic state preparation by gauging higher-form transversal gates in parallel | Dominic Williamson | 109 |
-| 66 | Optimising Clifford Deformations for Biased Pauli Noise | Remmy Zen, Gavin Brennen, Fazeleh Kazemian, Kavan Modi, Giacomo Pantaleoni, Angus Southwell and Tom Stace | 114 |
-| 67 | Self-Consistent Process Tensor Network Tomography (PTNT) via Constrained Parameterized Instrument Sets | Fazeleh Kazemian, Angus Southwell, John Kam, Giacomo Pantaleoni, Remmy Zen, Gavin Brennen, Tom Stace, Kavan Modi and Gregory White | 115 |
-| 68 | Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes | Olai Åsmundson Mostad, Eirik Rosnes and Hsuan-Yin Lin | 120 |
-| 69 | Performance Evaluation of Quantum Error Corrections in Dual Ytterbium Systems | Fumiyoshi Kobayashi, Toshi Kusano, Nicholas Fazio and Yuma Nakamura | 121 |
-| 70 | Fast simulations of the Fermi-Hubbard model on the SPOQC architecture | Boris Bourdoncle, Peter-Jan Derks, Théo Dessertaine and Johannes Frank | 122 |
-| 71 | Information-efficient decoding of surface codes | Long My, Shao-Hen Chiew, Jing Hao Chai and Hui Khoon Ng | 123 |
-| 72 | Achieving Thresholds via Standalone Belief Propagation on Surface Codes | Pedro Hack, Luca Menti, Francisco Lázaro and Alexandru Paler | 124 |
-| 73 | Tile Codes: High-Efficiency Quantum Codes on a Lattice with Boundary | Vicent Steffan, Shin Ho Choe, Nikolas Breuckmann, Francisco Revson Fernandes Pereira and Jens Eberhardt | 125 |
-| 74 | Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction | John Kam, Angus Southwell, Spiro Gicev, Muhammad Usman and Kavan Modi | 127 |
-| 75 | Autonomous Quantum Error Correction of Spin-Oscillator Hybrid Qubits | Sungjoo Cho, Ju-yeon Gyhm, Hyukjoon Kwon and Hyunseok Jeong | 130 |
-| 76 | Simplified Circuit-Level Decoding Using Knill Error Correction | Ewan Murphy, Michael Vasmer and Subhayan Sahu | 132 |
-| 77 | Measurement efficient probabilistic error cancellation using classical shadows and gate set tomography | Sanguk Lee and Jun Heo | 133 |
-| 78 | Renormalization-based neural decoder for the surface code | Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and Ole Fjeldså | 135 |
-| 79 | Scalable dissipative quantum error correction for qubit codes | Ivan Rojkov, Elias Zapusek and Florentin Reiter | 136 |
-| 80 | Holographic quantum codes with trapped ions | Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen, Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber and Martin Ringbauer | 139 |
-| 81 | Entanglement boosting: Low-volume logical Bell pair preparation for distributed fault-tolerant quantum computation | Shinichi Sunami, Yutaka Hirano, Toshihide Hinokuma and Hayata Yamasaki | 157 |
+| 43 | Noise model for trapped ions multiqubit gates compatible with quantum error correction | Ori Grossman, Yotam Kadish, Snir Gazit, Amit Ben Kish and Yotam Shapira | 75 |
+| 44 | Automated Compilation Including Dropouts: Tolerating Defective Components in Stabiliser Codes | Stasiu Wolanski | 76 |
+| 45 | Pre-Decoders for Scalable Real-Time Decoding with Surface Codes | Muyuan Li, Christopher Chamberland and Jan Olle | 77 |
+| 46 | A matching decoder for bivariate bicycle codes | Kaavya Sahay, Dominic Williamson and Benjamin Brown | 78 |
+| 47 | Fast stabilizer state preparation via AI-optimized graph decimation | Matteo Puviani, Michael Doherty, Jasmine Brewer, Gabriel Matos, David Amaro, Ben Criger and David Stephen | 80 |
+| 48 | Quantum Memory and Autonomous Computation in Two Dimensions | Gesa Dünnweber, Georgios Styliaris and Rahul Trivedi | 81 |
+| 49 | Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware | Gyorgy Geher, David Byfield and Archibald Ruban | 83 |
+| 50 | Optimized Measurement Schedules for the Surface Code with Dropout | Benjamin Anker and Dripto Debroy | 84 |
+| 51 | Correction of chain losses in trapped ion quantum computers | Nolan Coble, Min Ye and Nicolas Delfosse | 85 |
+| 52 | Preserving Geometric Locality with Syndrome Measurement Codes | Eren Guttentag and Benjamin Anker | 87 |
+| 53 | Injection is all you need: bypassing the addressability problem in high-rate stabilizer codes | Joseph Sullivan, Michael A. Perlin and David Amaro | 88 |
+| 54 | Layer codes as partially self-correcting quantum memories | Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica and Eugene Tang | 89 |
+| 55 | Quantum Lego Power-up: Designing Transversal Gates with Tensor Networks | Chunjun Cao and Brad Lackey | 93 |
+| 56 | Combining Error Detection and Mitigation: A Hybrid Protocol for Near-Term Quantum Simulation | William Munizzi, Dawei Zhong, Wibe de Jong and Huo Chen | 95 |
+| 57 | Protection of Exponential Operation using Stabilizer Codes in the Early Fault Tolerance Era | Dawei Zhong and Todd Brun | 98 |
+| 58 | Measurement-Based Fault-Tolerant Quantum Computation on High-Connectivity Devices: A Resource-Efficient Approach toward Early FTQC | Yohei Ibe, Yutaka Hirano, Yasuo Ozu, Toru Kawakubo and Keisuke Fujii | 100 |
+| 59 | Fragility of Magic State Distillation under Imperfect Measurements | Yunzhe Zheng, Yuanchen Zhao and Dong Liu | 102 |
+| 60 | Logical Cycle Benchmarking | Aliza Siddiqui, Aaron Friedman, Alexander Kwiatkowski, Shawn Geller, Scott Glancy and Emanuel Knill | 103 |
+| 61 | TUF: Trotter-based Universal Fault-tolerance | Zhuangzhuang Chen, Jack Weinberg, Asit Pradhan and Narayanan Rengaswamy | 105 |
+| 62 | Fault-tolerant execution of error-corrected quantum algorithms | Michael A. Perlin, Zichang He, Anthony Alexiades Armenakas, Pablo Andres-Martinez, Tianyi Hao, Dylan Herman, Yuwei Jin, Karl Mayer, David Amaro, Ciaran Ryan-Anderson and Ruslan Shaydulin | 106 |
+| 63 | Quantum Cubature Codes | Yaoling Yang, Andrew Tanggara, Tobias Haug and Kishor Bharti | 107 |
+| 64 | Fast magic state preparation by gauging higher-form transversal gates in parallel | Dominic Williamson | 109 |
+| 65 | Optimising Clifford Deformations for Biased Pauli Noise | Remmy Zen, Gavin Brennen, Fazeleh Kazemian, Kavan Modi, Giacomo Pantaleoni, Angus Southwell and Tom Stace | 114 |
+| 66 | Self-Consistent Process Tensor Network Tomography (PTNT) via Constrained Parameterized Instrument Sets | Fazeleh Kazemian, Angus Southwell, John Kam, Giacomo Pantaleoni, Remmy Zen, Gavin Brennen, Tom Stace, Kavan Modi and Gregory White | 115 |
+| 67 | Improved Decoding of Quantum Tanner Codes Using Generalized Check Nodes | Olai Åsmundson Mostad, Eirik Rosnes and Hsuan-Yin Lin | 120 |
+| 68 | Performance Evaluation of Quantum Error Corrections in Dual Ytterbium Systems | Fumiyoshi Kobayashi, Toshi Kusano, Nicholas Fazio and Yuma Nakamura | 121 |
+| 69 | Fast simulations of the Fermi-Hubbard model on the SPOQC architecture | Boris Bourdoncle, Peter-Jan Derks, Théo Dessertaine and Johannes Frank | 122 |
+| 70 | Information-efficient decoding of surface codes | Long My, Shao-Hen Chiew, Jing Hao Chai and Hui Khoon Ng | 123 |
+| 71 | Achieving Thresholds via Standalone Belief Propagation on Surface Codes | Pedro Hack, Luca Menti, Francisco Lázaro and Alexandru Paler | 124 |
+| 72 | Tile Codes: High-Efficiency Quantum Codes on a Lattice with Boundary | Vicent Steffan, Shin Ho Choe, Nikolas Breuckmann, Francisco Revson Fernandes Pereira and Jens Eberhardt | 125 |
+| 73 | Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction | John Kam, Angus Southwell, Spiro Gicev, Muhammad Usman and Kavan Modi | 127 |
+| 74 | Autonomous Quantum Error Correction of Spin-Oscillator Hybrid Qubits | Sungjoo Cho, Ju-yeon Gyhm, Hyukjoon Kwon and Hyunseok Jeong | 130 |
+| 75 | Simplified Circuit-Level Decoding Using Knill Error Correction | Ewan Murphy, Michael Vasmer and Subhayan Sahu | 132 |
+| 76 | Measurement efficient probabilistic error cancellation using classical shadows and gate set tomography | Sanguk Lee and Jun Heo | 133 |
+| 77 | Renormalization-based neural decoder for the surface code | Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and Ole Fjeldså | 135 |
+| 78 | Scalable dissipative quantum error correction for qubit codes | Ivan Rojkov, Elias Zapusek and Florentin Reiter | 136 |
+| 79 | Holographic quantum codes with trapped ions | Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen, Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber and Martin Ringbauer | 139 |
+| 80 | Entanglement boosting: Low-volume logical Bell pair preparation for distributed fault-tolerant quantum computation | Shinichi Sunami, Yutaka Hirano, Toshihide Hinokuma and Hayata Yamasaki | 157 |
 </div>
 
 ### Thursday Session
@@ -354,88 +353,86 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 <div class="schedule-table">
 
 | Board&nbsp;# | Title | Author | Submission&nbsp;# |
-|:------------:| --- | --- | :---: |
-|      1       | Constant-depth magic state cultivation via gauging Clifford measurement | Bence Hetenyi, Benjamin J. Brown and Dominic J. Williamson | 140 |
-|      2       | In-Situ Simultaneous Magic State Injection on Generic qLDPC Codes | Kun Liu, Shifan Xu, Tomas Jochym-O'Connor, Zhiyang He, Shraddha Singh and Yongshan Ding | 141 |
-|      3       | Fault Tolerant Heisenberg-Limited Quantum Sensing | Lorcan Conlon, Yu-Xin Wang, Erfan Abbasgholinejad, Victor Albert, Michael Gullans and Alexey Gorshkov | 142 |
-|      4       | Stabilizers for Compiling Logical Circuits under Hardware Constraints | Jack Weinberg and Narayanan Rengaswamy | 144 |
-|      5       | High-Performance Quasi-Cyclic qLDPC Codes | Edwin Tham, Arda Aydin, Min Ye and Nicolas Delfosse | 148 |
-|      6       | Magic state cultivation compiled for neutral atoms | Paul Rousset-Rouard and François-Marie Le Régent | 149 |
-|      7       | Efficient Layout for High-Rate qLDPC Code on Flying Qubits | Edwin Tham, Nicolas Delfosse, Min Ye, John Gamble and Ilia Khait | 150 |
-|      8       | Mixed register stabilizer codes: a coding theoretic perspective | Himanshu Dongre, Md. Shahinul Islam and Lane Gunderman | 153 |
-|      9       | Automated chain-map synthesis for logical gadgets between CSS codes | Asmae Benhemou and Noah Berthusen | 154 |
-|      10      | Dynamical GKP codes | Jonathan Pelletier and Baptiste Royer | 155 |
-|      11      | Colour Codes Reach Surface Code Performance using Vibe Decoding | Stergios Koutsioumpas, Tamas Noszko, Hasan Sayginel, Mark Webster and Joschka Roffe | 158 |
-|      12      | Hierarchical Quantum Decoders | Nirupam Basak, Ankith Mohan, Andrew Tanggara, Tobias Haug, Goutam Paul and Kishor Bharti | 160 |
-|      13      | A flexible framework for high-threshold 3D single-shot quantum error correction | Riley Chien, Cole Maurer and Andrew Landahl | 161 |
-|      14      | Phased outcome-complete simulation | Vadym Kliuchnikov, Adam Paetznick and Marcus Silva | 164 |
-|      15      | Towards practical implementation of bosonic error correction circuit | Shushen Qin, Hoang Long My Duy and Hui Khoon Ng | 165 |
-|      16      | Low-depth quantum error correction via three-qubit gates in Rydberg atom arrays | Guido Pupillo and Laura Pecorari | 166 |
-|      17      | High-performance syndrome extraction circuits for quantum codes | Armands Strikis, Dan Browne and Michael Beverland | 167 |
-|      18      | Curbing Leakage with the Honeycomb Floquet Code | Hanna Westerheim, Kaavya Sahay and Shruti Puri | 168 |
-|      19      | Erasure qubits without erasure checks: the g-f transmon qubit and beyond | Margaret Pavlovich, Thomas Smith, Baojie Liu, Chen Wang and Shruti Puri | 169 |
-|      20      | Distributed Stabilizer Measurements with Very Noisy Bell Pairs | Moritz Schmidt, Martin Moureau, Benjamin Rodatz, Boldizsár Poór, Elie Mounzer and Linnea Grans-Samuelsson | 170 |
-|      21      | Fault-tolerant protocols through spacetime concatenation | Yichen Xu and Arpit Dua | 171 |
-|      22      | Detecting Qubit Loss without Leakage Detection Units via Repeated Stabilizer Measurements | Shin Nishio and Dan Browne | 172 |
-|      23      | Combating small Pauli shifts: quantum codes in the Lee metric | Jinkang Guo, Shubham Jain, Aranya Chakraborty, Andrew Lucas and Victor Albert | 173 |
-|      24      | Quantum error correction for multiparameter metrology | Mauricio Gutierrez, Chiranjib Mukhopadhyay, Victor Montenegro and Abolfazl Bayat | 175 |
-|      25      | Gauging the Spacetime Code | Gideon Lee | 177 |
-|      26      | Evaulating Tensorial Neural Networks for Quantum Error Correction Decoding | Ramya Bhaskar and Cole Maurer | 178 |
-|      27      | Mackey codes: generalizing stabilizer quantum error correction to heterogeneous systems | Akira Kyle, Shawn Geller, Joshua Combes and Emanuel Knill | 181 |
-|      28      | Optimal dual-mode spin codes for loss | Argyrios Giannisis Manes, Mahadevan Subramanian and Liang Jiang | 182 |
-|      29      | Generalized matching decoders for 2D topological translationally-invariant codes | Shi Jie Samuel Tan, Ian Gill, Eric Huang, Pengyu Liu, Chen Zhao, Hossein Dehghani, Aleksander Kubica, Hengyun Zhou and Arpit Dua | 183 |
-|      30      | An Efficient Algorithmic Framework for Estimating the Circuit Distance of QLDPC Codes | Yingjia Lin, Kenneth Brown and Mingyu Kang | 184 |
-|      31      | Fast High-Rate Early Fault-Tolerant qLDPC Architecture for Quantum Simulation | Chen Zhao, Refaat Ismail, Hong-Ye Hu and Milan Kornjaca | 185 |
-|      32      | Low-Overhead Pauli-based Computation through Logical Coding | Michele Pacenti, Shantom Borah, Shobhit Bhatnagar, Narayanan Rengaswamy and Bane Vasic | 187 |
-|      33      | Constructing an approximate logical Markovian model of consecutive QEC cycles of a stabilizer code | Alex Kwiatkowski, Aaron J Friedman, Shawn Geller, Jalan Ziyad, Scott Glancy and Emanuel Knill | 188 |
-|      34      | Fault-tolerant interfaces for quantum LDPC codes | Matthias Christandl, Omar Fawzi and Ashutosh Goswami | 189 |
-|      35      | Single-shot universality in quantum LDPC codes via code-switching | Shi Jie Samuel Tan, Yifan Hong, Ting-Chun Lin, Michael Gullans and Min-Hsiu Hsieh | 191 |
-|      36      | Entanglement-Assisted Codes Outside the Stabilizer Framework | Jaszmine DeFranco and Andrew Nemec | 192 |
-|      37      | Adaptive Decoding of Quantum LDPC Codes for Realistic Noise Models | Jothiradithya Konduru, Anish Chedalla and Nithin Raveendran | 195 |
-|      38      | Quantum error correction and optimal thresholds for non-Abelian codes | Pablo Sala de Torres-Solanot, Vlad Temkin, Cenke Xu and Ehud Altman | 196 |
-|      39      | Temporal Degeneracy and Iterative Decoding under Noisy Syndrome Measurements | Dimitris Chytas, Nithin Raveendran and Bane Vasic | 197 |
-|      40      | Bayesian Optimization for Quantum Error-Correcting Code Discovery | Yihua Chengyu, Richard Meister, Conor Carty, Sheng-Ku Lin and Roberto Bondesan | 198 |
-|      41      | Unified Framework for Quantum Code Embedding | Andrew C Yuan | 201 |
-|      42      | Towards efficient computation with lifted-product code families with constant compilation overhead | Han Zheng, Guo Zheng, Liang Jiang and Qian Xu | 202 |
-|      43      | Spacetime-Efficient and Hardware-Compatible Complex Quantum Logic Units in qLDPC Codes | Willers Yang, Jason Chadwick, Mariesa H. Teo, Joshua Viszlai and Frederic T. Chong | 203 |
-|      44      | Parsimonious Quantum Low-Density Parity-Check Code Surgery | Andrew C Yuan, Alexander Cowtan, Zhiyang He, Ting-Chu Lin and Dominic J. Williamson | 204 |
-|      45      | Buy One Get One 90% Off: Cavity-Accelerated Syndrome Extraction via Pipelining in Atom Arrays | Willers Yang, Nayana Tiwari, Jason Chadwick, Tina Oberoi and Frederic T. Chong | 205 |
-|      46      | Topological Stabilizer Codes on a Star Lattice | Hans Hohenfeld, Moritz Schmidt, Leon Wichette, Elie Mounzer and Linnea Grans-Samuelsson | 206 |
-|      47      | Charge-Informed Quantum Error Correction | Vlad Temkin, Zack Weinstein, Ruihua Fan, Daniel Podolsky and Ehud Altman | 211 |
-|      48      | Quantum low-density lattice codes | Timo Hillmann, Jens Eisert and Francesco Arzani | 213 |
-|      49      | Single-shot quantum error correction on the Bacon-Shor code | Daniel Serrano Delgado, Guillermo Escobar-Arrieta and Mauricio Gutiérrez | 216 |
-|      50      | Distilling Magic States in the Bicycle Architecture | Shifan Xu, Kun Liu, Patrick Rall, Zhiyang He and Yongshan Ding | 218 |
-|      51      | Stabilizer Formalism for Magic Gate Teleportation | Yunzhe Zheng, Allen Zang and Aleksander Kubica | 219 |
-|      52      | Scalable Postselection of Quantum Resources | Judd Staples, Jeff Thompson and Winston Fu | 220 |
-|      53      | Extractor Assembly for Logical Processing on Hypergraph Product Codes | John Blue, Zhiyang He, Hengyun Zhou and Isaac Chuang | 221 |
-|      54      | Enhancing Entanglement Purification by Shared Randomness | Allen Zang, Bikun Li, Xinan Chen, Eric Chitambar, Liang Jiang, Martin Suchara and Tian Zhong | 222 |
-|      55      | Intrinsically protected grid states in a superconducting qubit | Long Nguyen, Hyunseong Kim, Dat Le, Sai Chitta, Thomas Ersevim, Trevor Chistolini, Christian Jünger, W. Clarke Smith, Tom Stace, Jens Koch, David Santiago and Irfan Siddiqi | 224 |
-|      56      | Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime | Andrey Khesin and Jonathan Lu | 225 |
-|      57      | Average-Case Complexity of Quantum Stabilizer Decoding | Andrey Khesin, Jonathan Lu, Alexander Poremba, Akshar Ramkumar and Vinod Vaikuntanathan | 226 |
-|      58      | Cored product codes for quantum self-correction in three dimensions | Brenden Roberts, Jin Ming Koh, Yi Tan and Norman Yao | 228 |
-|      59      | Stabilizer-Aware Expansion-Contraction for Quantum LDPC Error-Floor Estimation | Nithin Raveendran, David Declercq and Bane Vasic | 229 |
-|      60      | Discovery and classification of small CSS codes supporting quasi-transversal CCZ logical gate | Bohan Lu | 230 |
-|      61      | Scalable 3D architecture for dual-rail cavity-based quantum error correction | Victor Wei, Hung-Hsiang Chiu, Zhaoyi Li, Yao Lu and David Schuster | 231 |
-|      62      | Numerical Study of Practical Just-In-Time Decoders for a Quantum Double Model Memory | Gideon Lee, Tina Oberoi and Mariesa Teo | 233 |
-|      63      | Demonstrating Noise-adapted Quantum Error Correction With Break-Even Performance | Vismay Joshi, Anubhab Rudra, Sourav Dutta, Siddharth Dhomkar and Prabha Mandayam | 234 |
-|      64      | Breaking the Orthogonality Barrier: Large-Girth Low-Density Parity-Check Structures for Quantum Error Correction | Kenta Kasai | 236 |
-|      65      | Representation-Theoretic Quantum Error Correction for Structured Noise | Sydney Timmerman and Rita Ahmadi | 237 |
-|      66      | BetaQubit: Distilling Transformer Decoders for Low-Latency Surface Code Decoding | Natthakan Saeng-Nil, Derek Khu and Yong Kiam Tan | 238 |
-|      67      | Qudit LDPC Codes with Sublinear Rate and Minimum Distance | Shantom Borah, Abhinav Vaishya, Lalitha Vadlamani, Asit Pradhan, Bane Vasic and Narayanan Rengaswamy | 239 |
-|      68      | Exploring Asymmetric QEC Code Concatenation | Sayam Sethi, Maxwell Poster, Aditi Awasthi, Willers Yang, Joshua Viszlai and Jonathan Baker | 240 |
-|      69      | The Hardness of Learning Global Decoders | Aditya Bhardwaj, Nathaniel Selub and Hsin-Yuan Huang | 241 |
-|      70      | Efficient simulation of logical magic state preparation protocols | Samyak Surti, Lucas Daguerre and Isaac Kim | 99 |
-|      71      | SpiderCat: Optimal Fault-Tolerant Cat State Preparation | Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering and Richie Yeung | 243 |
-|      72      | Watermelon Surface Code: Superdense Extraction with Reduced Grid Connectivity | Andrey Khesin and Boldizsár Poór | 244 |
-|      73      | Surprisingly useful local decoders for topological codes | Ethan Lake, Nathaniel Selub and Aditya Bhardwaj | 246 |
-|      74      | Efficient magic state cultivation with lattice surgery | Yutaka Hirano, Riki Toshio, Tomohiro Itogawa and Keisuke Fujii | 247 |
-|      75      | Fault-tolerant leakage-aware simulation and decoding of 2D Color Codes | Aswath Suryanarayanan, Andrea Rodriguez-Blanco and Birgitta Whaley | 248 |
-|      76      | A memory-eﬃcient, symbolic and exact simulator for universal quantum error correction | George Umbrarescu and David Amaro | 249 |
-|      77      | Adaptive Loss-tolerant Syndrome Measurements | Yuanjia Wang and Todd A. Brun | 252 |
-|      78      | An information-theoretic design principle for qubit placement in quantum error-correcting codes | Omid Khosravani, Guillermo Escobar-Arrieta, Kenneth R. Brown and Mauricio Gutiérrez | 254 |
-|      79      | Correcting quantum errors using a classical code and one additional qubit | Tenzan Araki, Joseph Goodwin and Zhenyu Cai | 255 |
-|      80      | Loss-tolerant preparation of highly symmetric states | Yuanjia Wang | 256 |
-|      81      | A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus | Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li and John van de Wetering | 258 |
-|      82      | Transversal AND in Quantum Codes | Christine Li and Lia Yeh | 242 |
-|      83      | Beyond IID: Correlated Noise Models for Code-Capacity Analysis of Quantum Error Correcting Codes | Giacomo Pantaleoni and Remmy Zen | 96 |
+| :------------: | --- | --- | :---: |
+| 1 | Constant-depth magic state cultivation via gauging Clifford measurement | Bence Hetenyi, Benjamin J. Brown and Dominic J. Williamson | 140 |
+| 2 | In-Situ Simultaneous Magic State Injection on Generic qLDPC Codes | Kun Liu, Shifan Xu, Tomas Jochym-O'Connor, Zhiyang He, Shraddha Singh and Yongshan Ding | 141 |
+| 3 | Fault Tolerant Heisenberg-Limited Quantum Sensing | Lorcan Conlon, Yu-Xin Wang, Erfan Abbasgholinejad, Victor Albert, Michael Gullans and Alexey Gorshkov | 142 |
+| 4 | Stabilizers for Compiling Logical Circuits under Hardware Constraints | Jack Weinberg and Narayanan Rengaswamy | 144 |
+| 5 | High-Performance Quasi-Cyclic qLDPC Codes | Edwin Tham, Arda Aydin, Min Ye and Nicolas Delfosse | 148 |
+| 6 | Magic state cultivation compiled for neutral atoms | Paul Rousset-Rouard and François-Marie Le Régent | 149 |
+| 7 | Efficient Layout for High-Rate qLDPC Code on Flying Qubits | Edwin Tham, Nicolas Delfosse, Min Ye, John Gamble and Ilia Khait | 150 |
+| 8 | Mixed register stabilizer codes: a coding theoretic perspective | Himanshu Dongre, Md. Shahinul Islam and Lane Gunderman | 153 |
+| 9 | Automated chain-map synthesis for logical gadgets between CSS codes | Asmae Benhemou and Noah Berthusen | 154 |
+| 10 | Dynamical GKP codes | Jonathan Pelletier and Baptiste Royer | 155 |
+| 11 | Colour Codes Reach Surface Code Performance using Vibe Decoding | Stergios Koutsioumpas, Tamas Noszko, Hasan Sayginel, Mark Webster and Joschka Roffe | 158 |
+| 12 | Hierarchical Quantum Decoders | Nirupam Basak, Ankith Mohan, Andrew Tanggara, Tobias Haug, Goutam Paul and Kishor Bharti | 160 |
+| 13 | A flexible framework for high-threshold 3D single-shot quantum error correction | Riley Chien, Cole Maurer and Andrew Landahl | 161 |
+| 14 | Phased outcome-complete simulation | Vadym Kliuchnikov, Adam Paetznick and Marcus Silva | 164 |
+| 15 | Towards practical implementation of bosonic error correction circuit | Shushen Qin, Hoang Long My Duy and Hui Khoon Ng | 165 |
+| 16 | High-performance syndrome extraction circuits for quantum codes | Armands Strikis, Dan Browne and Michael Beverland | 167 |
+| 17 | Curbing Leakage with the Honeycomb Floquet Code | Hanna Westerheim, Kaavya Sahay and Shruti Puri | 168 |
+| 18 | Erasure qubits without erasure checks: the g-f transmon qubit and beyond | Margaret Pavlovich, Thomas Smith, Baojie Liu, Chen Wang and Shruti Puri | 169 |
+| 19 | Distributed Stabilizer Measurements with Very Noisy Bell Pairs | Moritz Schmidt, Martin Moureau, Benjamin Rodatz, Boldizsár Poór, Elie Mounzer and Linnea Grans-Samuelsson | 170 |
+| 20 | Fault-tolerant protocols through spacetime concatenation | Yichen Xu and Arpit Dua | 171 |
+| 21 | Detecting Qubit Loss without Leakage Detection Units via Repeated Stabilizer Measurements | Shin Nishio and Dan Browne | 172 |
+| 22 | Combating small Pauli shifts: quantum codes in the Lee metric | Jinkang Guo, Shubham Jain, Aranya Chakraborty, Andrew Lucas and Victor Albert | 173 |
+| 23 | Quantum error correction for multiparameter metrology | Mauricio Gutierrez, Chiranjib Mukhopadhyay, Victor Montenegro and Abolfazl Bayat | 175 |
+| 24 | Gauging the Spacetime Code | Gideon Lee | 177 |
+| 25 | Evaulating Tensorial Neural Networks for Quantum Error Correction Decoding | Ramya Bhaskar and Cole Maurer | 178 |
+| 26 | Mackey codes: generalizing stabilizer quantum error correction to heterogeneous systems | Akira Kyle, Shawn Geller, Joshua Combes and Emanuel Knill | 181 |
+| 27 | Optimal dual-mode spin codes for loss | Argyrios Giannisis Manes, Mahadevan Subramanian and Liang Jiang | 182 |
+| 28 | Generalized matching decoders for 2D topological translationally-invariant codes | Shi Jie Samuel Tan, Ian Gill, Eric Huang, Pengyu Liu, Chen Zhao, Hossein Dehghani, Aleksander Kubica, Hengyun Zhou and Arpit Dua | 183 |
+| 29 | An Efficient Algorithmic Framework for Estimating the Circuit Distance of QLDPC Codes | Yingjia Lin, Kenneth Brown and Mingyu Kang | 184 |
+| 30 | Fast High-Rate Early Fault-Tolerant qLDPC Architecture for Quantum Simulation | Chen Zhao, Refaat Ismail, Hong-Ye Hu and Milan Kornjaca | 185 |
+| 31 | Low-Overhead Pauli-based Computation through Logical Coding | Michele Pacenti, Shantom Borah, Shobhit Bhatnagar, Narayanan Rengaswamy and Bane Vasic | 187 |
+| 32 | Constructing an approximate logical Markovian model of consecutive QEC cycles of a stabilizer code | Alex Kwiatkowski, Aaron J Friedman, Shawn Geller, Jalan Ziyad, Scott Glancy and Emanuel Knill | 188 |
+| 33 | Fault-tolerant interfaces for quantum LDPC codes | Matthias Christandl, Omar Fawzi and Ashutosh Goswami | 189 |
+| 34 | Single-shot universality in quantum LDPC codes via code-switching | Shi Jie Samuel Tan, Yifan Hong, Ting-Chun Lin, Michael Gullans and Min-Hsiu Hsieh | 191 |
+| 35 | Entanglement-Assisted Codes Outside the Stabilizer Framework | Jaszmine DeFranco and Andrew Nemec | 192 |
+| 36 | Adaptive Decoding of Quantum LDPC Codes for Realistic Noise Models | Jothiradithya Konduru, Anish Chedalla and Nithin Raveendran | 195 |
+| 37 | Temporal Degeneracy and Iterative Decoding under Noisy Syndrome Measurements | Dimitris Chytas, Nithin Raveendran and Bane Vasic | 197 |
+| 38 | Bayesian Optimization for Quantum Error-Correcting Code Discovery | Yihua Chengyu, Richard Meister, Conor Carty, Sheng-Ku Lin and Roberto Bondesan | 198 |
+| 39 | Unified Framework for Quantum Code Embedding | Andrew C Yuan | 201 |
+| 40 | Towards efficient computation with lifted-product code families with constant compilation overhead | Han Zheng, Guo Zheng, Liang Jiang and Qian Xu | 202 |
+| 41 | Spacetime-Efficient and Hardware-Compatible Complex Quantum Logic Units in qLDPC Codes | Willers Yang, Jason Chadwick, Mariesa H. Teo, Joshua Viszlai and Frederic T. Chong | 203 |
+| 42 | Parsimonious Quantum Low-Density Parity-Check Code Surgery | Andrew C Yuan, Alexander Cowtan, Zhiyang He, Ting-Chu Lin and Dominic J. Williamson | 204 |
+| 43 | Buy One Get One 90% Off: Cavity-Accelerated Syndrome Extraction via Pipelining in Atom Arrays | Willers Yang, Nayana Tiwari, Jason Chadwick, Tina Oberoi and Frederic T. Chong | 205 |
+| 44 | Topological Stabilizer Codes on a Star Lattice | Hans Hohenfeld, Moritz Schmidt, Leon Wichette, Elie Mounzer and Linnea Grans-Samuelsson | 206 |
+| 45 | Charge-Informed Quantum Error Correction | Vlad Temkin, Zack Weinstein, Ruihua Fan, Daniel Podolsky and Ehud Altman | 211 |
+| 46 | Quantum low-density lattice codes | Timo Hillmann, Jens Eisert and Francesco Arzani | 213 |
+| 47 | Single-shot quantum error correction on the Bacon-Shor code | Daniel Serrano Delgado, Guillermo Escobar-Arrieta and Mauricio Gutiérrez | 216 |
+| 48 | Distilling Magic States in the Bicycle Architecture | Shifan Xu, Kun Liu, Patrick Rall, Zhiyang He and Yongshan Ding | 218 |
+| 49 | Stabilizer Formalism for Magic Gate Teleportation | Yunzhe Zheng, Allen Zang and Aleksander Kubica | 219 |
+| 50 | Scalable Postselection of Quantum Resources | Judd Staples, Jeff Thompson and Winston Fu | 220 |
+| 51 | Extractor Assembly for Logical Processing on Hypergraph Product Codes | John Blue, Zhiyang He, Hengyun Zhou and Isaac Chuang | 221 |
+| 52 | Enhancing Entanglement Purification by Shared Randomness | Allen Zang, Bikun Li, Xinan Chen, Eric Chitambar, Liang Jiang, Martin Suchara and Tian Zhong | 222 |
+| 53 | Intrinsically protected grid states in a superconducting qubit | Long Nguyen, Hyunseong Kim, Dat Le, Sai Chitta, Thomas Ersevim, Trevor Chistolini, Christian Jünger, W. Clarke Smith, Tom Stace, Jens Koch, David Santiago and Irfan Siddiqi | 224 |
+| 54 | Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime | Andrey Khesin and Jonathan Lu | 225 |
+| 55 | Average-Case Complexity of Quantum Stabilizer Decoding | Andrey Khesin, Jonathan Lu, Alexander Poremba, Akshar Ramkumar and Vinod Vaikuntanathan | 226 |
+| 56 | Cored product codes for quantum self-correction in three dimensions | Brenden Roberts, Jin Ming Koh, Yi Tan and Norman Yao | 228 |
+| 57 | Stabilizer-Aware Expansion-Contraction for Quantum LDPC Error-Floor Estimation | Nithin Raveendran, David Declercq and Bane Vasic | 229 |
+| 58 | Discovery and classification of small CSS codes supporting quasi-transversal CCZ logical gate | Bohan Lu | 230 |
+| 59 | Scalable 3D architecture for dual-rail cavity-based quantum error correction | Victor Wei, Hung-Hsiang Chiu, Zhaoyi Li, Yao Lu and David Schuster | 231 |
+| 60 | Numerical Study of Practical Just-In-Time Decoders for a Quantum Double Model Memory | Gideon Lee, Tina Oberoi and Mariesa Teo | 233 |
+| 61 | Demonstrating Noise-adapted Quantum Error Correction With Break-Even Performance | Vismay Joshi, Anubhab Rudra, Sourav Dutta, Siddharth Dhomkar and Prabha Mandayam | 234 |
+| 62 | Breaking the Orthogonality Barrier: Large-Girth Low-Density Parity-Check Structures for Quantum Error Correction | Kenta Kasai | 236 |
+| 63 | Representation-Theoretic Quantum Error Correction for Structured Noise | Sydney Timmerman and Rita Ahmadi | 237 |
+| 64 | BetaQubit: Distilling Transformer Decoders for Low-Latency Surface Code Decoding | Natthakan Saeng-Nil, Derek Khu and Yong Kiam Tan | 238 |
+| 65 | Qudit LDPC Codes with Sublinear Rate and Minimum Distance | Shantom Borah, Abhinav Vaishya, Lalitha Vadlamani, Asit Pradhan, Bane Vasic and Narayanan Rengaswamy | 239 |
+| 66 | Exploring Asymmetric QEC Code Concatenation | Sayam Sethi, Maxwell Poster, Aditi Awasthi, Willers Yang, Joshua Viszlai and Jonathan Baker | 240 |
+| 67 | The Hardness of Learning Global Decoders | Aditya Bhardwaj, Nathaniel Selub and Hsin-Yuan Huang | 241 |
+| 68 | Efficient simulation of logical magic state preparation protocols | Samyak Surti, Lucas Daguerre and Isaac Kim | 99 |
+| 69 | SpiderCat: Optimal Fault-Tolerant Cat State Preparation | Andrey Boris Khesin, Sarah Meng Li, Boldizsár Poór, Benjamin Rodatz, John van de Wetering and Richie Yeung | 243 |
+| 70 | Watermelon Surface Code: Superdense Extraction with Reduced Grid Connectivity | Andrey Khesin and Boldizsár Poór | 244 |
+| 71 | Surprisingly useful local decoders for topological codes | Ethan Lake, Nathaniel Selub and Aditya Bhardwaj | 246 |
+| 72 | Efficient magic state cultivation with lattice surgery | Yutaka Hirano, Riki Toshio, Tomohiro Itogawa and Keisuke Fujii | 247 |
+| 73 | Fault-tolerant leakage-aware simulation and decoding of 2D Color Codes | Aswath Suryanarayanan, Andrea Rodriguez-Blanco and Birgitta Whaley | 248 |
+| 74 | A memory-eﬃcient, symbolic and exact simulator for universal quantum error correction | George Umbrarescu and David Amaro | 249 |
+| 75 | Adaptive Loss-tolerant Syndrome Measurements | Yuanjia Wang and Todd A. Brun | 252 |
+| 76 | An information-theoretic design principle for qubit placement in quantum error-correcting codes | Omid Khosravani, Guillermo Escobar-Arrieta, Kenneth R. Brown and Mauricio Gutiérrez | 254 |
+| 77 | Correcting quantum errors using a classical code and one additional qubit | Tenzan Araki, Joseph Goodwin and Zhenyu Cai | 255 |
+| 78 | Loss-tolerant preparation of highly symmetric states | Yuanjia Wang | 256 |
+| 79 | A Three-Way Normal Form for Stabiliser Codes across ZX Diagrams, Circuits, and Tableaus | Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li and John van de Wetering | 258 |
+| 80 | Transversal AND in Quantum Codes | Christine Li and Lia Yeh | 242 |
+| 81 | Beyond IID: Correlated Noise Models for Code-Capacity Analysis of Quantum Error Correcting Codes | Giacomo Pantaleoni and Remmy Zen | 96 |
 </div>

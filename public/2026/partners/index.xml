@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sponsors on QEC Conference Website</title>
-    <link>http://localhost:1313/2026/partners/</link>
+    <link>https://qec-website.netlify.app/2026/partners/</link>
     <description>Recent content in Sponsors on QEC Conference Website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/2026/partners/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qec-website.netlify.app/2026/partners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alice &amp; Bob</title>
-      <link>http://localhost:1313/2026/partners/community/alicebob/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/alicebob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/alicebob/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/alicebob/</guid>
       <description></description>
     </item>
     <item>
       <title>Atom Computing</title>
-      <link>http://localhost:1313/2026/partners/community/atom/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/atom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/atom/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/atom/</guid>
       <description></description>
     </item>
     <item>
       <title>Google Quantum AI</title>
-      <link>http://localhost:1313/2026/partners/community/qai/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/qai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/qai/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/qai/</guid>
       <description></description>
     </item>
     <item>
       <title>Iceberg Quantum</title>
-      <link>http://localhost:1313/2026/partners/community/iceberg/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/iceberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/iceberg/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/iceberg/</guid>
       <description></description>
     </item>
     <item>
       <title>IONQ</title>
-      <link>http://localhost:1313/2026/partners/community/ionq/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/ionq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/ionq/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/ionq/</guid>
       <description></description>
     </item>
     <item>
       <title>Logiqal</title>
-      <link>http://localhost:1313/2026/partners/community/logiqal/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/logiqal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/logiqal/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/logiqal/</guid>
       <description></description>
     </item>
     <item>
       <title>PRX Quantum</title>
-      <link>http://localhost:1313/2026/partners/community/prxq/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/prxq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/prxq/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/prxq/</guid>
       <description></description>
     </item>
     <item>
       <title>PRX Quantum</title>
-      <link>http://localhost:1313/2026/partners/community/quantinuum/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/quantinuum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/quantinuum/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/quantinuum/</guid>
       <description></description>
     </item>
     <item>
       <title>Qblox</title>
-      <link>http://localhost:1313/2026/partners/community/qblox/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/qblox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/qblox/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/qblox/</guid>
       <description></description>
     </item>
     <item>
       <title>QC Design</title>
-      <link>http://localhost:1313/2026/partners/community/qcdesign/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/qcdesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/qcdesign/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/qcdesign/</guid>
       <description></description>
     </item>
     <item>
       <title>qctrl</title>
-      <link>http://localhost:1313/2026/partners/community/qctrl/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/qctrl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/qctrl/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/qctrl/</guid>
       <description></description>
     </item>
     <item>
       <title>Quantum Machines</title>
-      <link>http://localhost:1313/2026/partners/community/quantummachines/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/quantummachines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/quantummachines/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/quantummachines/</guid>
       <description></description>
     </item>
     <item>
       <title>Riverlane</title>
-      <link>http://localhost:1313/2026/partners/community/riverlane/</link>
+      <link>https://qec-website.netlify.app/2026/partners/community/riverlane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/partners/community/riverlane/</guid>
+      <guid>https://qec-website.netlify.app/2026/partners/community/riverlane/</guid>
       <description></description>
     </item>
   </channel>
