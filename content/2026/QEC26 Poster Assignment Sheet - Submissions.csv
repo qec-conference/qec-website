@@ -161,8 +161,7 @@ Correction",Session 1: Tuesday,77
 using classical shadows and gate set tomography",Session 1: Tuesday,78
 135,"Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and
 Ole Fjeldså",Renormalization-based neural decoder for the surface code,Session 1: Tuesday,79
-136,"Ivan Rojkov, Elias Zapusek and Florentin Reiter","Scalable dissipative quantum error correction for qubit
-codes",Session 1: Tuesday,80
+168,"Hanna Westerheim, Kaavya Sahay and Shruti Puri",Curbing Leakage with the Honeycomb Floquet Code,Session 1: Tuesday,80
 139,"Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan
 Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen,
 Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber and
@@ -203,7 +202,7 @@ quantum error correction",Session 2: Thursday,15
 correction circuit",Session 2: Thursday,17
 167,"Armands Strikis, Dan Browne and Michael Beverland","High-performance syndrome extraction circuits for quantum
 codes",Session 2: Thursday,18
-168,"Hanna Westerheim, Kaavya Sahay and Shruti Puri",Curbing Leakage with the Honeycomb Floquet Code,Session 2: Thursday,19
+136,"Ivan Rojkov, Margaret Pavlovich, Chen Wang and Shruti Puri",CZ gate for g-f qubits with a “skip-gate” error model,Session 2: Thursday,19
 169,"Margaret Pavlovich, Thomas Smith, Baojie Liu, Chen Wang and
 Shruti Puri","Erasure qubits without erasure checks: the g-f transmon
 qubit and beyond",Session 2: Thursday,20

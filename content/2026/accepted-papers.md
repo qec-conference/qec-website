@@ -340,7 +340,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 73 | Simplified Circuit-Level Decoding Using Knill Error Correction | Ewan Murphy, Michael Vasmer and Subhayan Sahu | 132 |
 | 74 | Measurement efficient probabilistic error cancellation using classical shadows and gate set tomography | Sanguk Lee and Jun Heo | 133 |
 | 75 | Renormalization-based neural decoder for the surface code | Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and Ole Fjeldså | 135 |
-| 76 | Scalable dissipative quantum error correction for qubit codes | Ivan Rojkov, Elias Zapusek and Florentin Reiter | 136 |
+| 76 | Curbing Leakage with the Honeycomb Floquet Code | Hanna Westerheim, Kaavya Sahay and Shruti Puri | 168 |
 | 77 | Holographic quantum codes with trapped ions | Alex Steiner, Gerard Anglès Munné, Robert Freund, Ivan Pogorelov, Michael Meth, Robert J. Harris, Gavin Brennen, Thomas M. Stace, Thomas Monz, Rainer Blatt, Felix Huber and Martin Ringbauer | 139 |
 | 78 | Entanglement boosting: Low-volume logical Bell pair preparation for distributed fault-tolerant quantum computation | Shinichi Sunami, Yutaka Hirano, Toshihide Hinokuma and Hayata Yamasaki | 157 |
 </div>
@@ -368,7 +368,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 14 | Phased outcome-complete simulation | Vadym Kliuchnikov, Adam Paetznick and Marcus Silva | 164 |
 | 15 | Towards practical implementation of bosonic error correction circuit | Shushen Qin, Hoang Long My Duy and Hui Khoon Ng | 165 |
 | 16 | High-performance syndrome extraction circuits for quantum codes | Armands Strikis, Dan Browne and Michael Beverland | 167 |
-| 17 | Curbing Leakage with the Honeycomb Floquet Code | Hanna Westerheim, Kaavya Sahay and Shruti Puri | 168 |
+| 17 | CZ gate for g-f qubits with a “skip-gate” error model | Ivan Rojkov, Margaret Pavlovich, Chen Wang and Shruti Puri | 136 |
 | 18 | Erasure qubits without erasure checks: the g-f transmon qubit and beyond | Margaret Pavlovich, Thomas Smith, Baojie Liu, Chen Wang and Shruti Puri | 169 |
 | 19 | Distributed Stabilizer Measurements with Very Noisy Bell Pairs | Moritz Schmidt, Martin Moureau, Benjamin Rodatz, Boldizsár Poór, Elie Mounzer and Linnea Grans-Samuelsson | 170 |
 | 20 | Fault-tolerant protocols through spacetime concatenation | Yichen Xu and Arpit Dua | 171 |

@@ -208,8 +208,7 @@ using classical shadows and gate set tomography",Session 1: Tuesday,98
 Jens Eisert and Joschka Roffe",QGPU: Parallel logic in quantum LDPC codes,Session 1: Tuesday,99
 135,"Moritz Lange, Mats Granath, Gustaf Jonasson Johansson and
 Ole Fjeldså",Renormalization-based neural decoder for the surface code,Session 1: Tuesday,100
-136,"Ivan Rojkov, Elias Zapusek and Florentin Reiter","Scalable dissipative quantum error correction for qubit
-codes",Session 1: Tuesday,-2
+168,"Hanna Westerheim, Kaavya Sahay and Shruti Puri",Curbing Leakage with the Honeycomb Floquet Code,Session 1: Tuesday,-2
 137,"Kathleen Chang, Alexander Cowtan, Zhiyang He, Tomas
 Jochym-O'Connor, Dominic Williamson, Theodore Yoder and
 Guanyu Zhu","Constant-Time QLDPC Code Surgery: Formulation and
@@ -268,7 +267,7 @@ quantum error correction",Session 2: Thursday,24
 correction circuit",Session 2: Thursday,26
 167,"Armands Strikis, Dan Browne and Michael Beverland","High-performance syndrome extraction circuits for quantum
 codes",Session 2: Thursday,27
-168,"Hanna Westerheim, Kaavya Sahay and Shruti Puri",Curbing Leakage with the Honeycomb Floquet Code,Session 2: Thursday,28
+136,"Ivan Rojkov, Margaret Pavlovich, Chen Wang and Shruti Puri",CZ gate for g-f qubits with a “skip-gate” error model,Session 2: Thursday,28
 169,"Margaret Pavlovich, Thomas Smith, Baojie Liu, Chen Wang and
 Shruti Puri","Erasure qubits without erasure checks: the g-f transmon
 qubit and beyond",Session 2: Thursday,29
