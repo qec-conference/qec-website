@@ -15,7 +15,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | Time | Speaker | Affiliation | Title |
 | --- | --- | --- | --- |
 | 9:00 AM | Adrien Suau | Riverlane | A practical implementation of quantum error correction |
-| 11:00 AM | Nouédyn Baspin | Iceberg Quantum | TBA |
+| 11:00 AM | Nouédyn Baspin | Iceberg Quantum | Mapping cones, and their applications in QEC |
 | 1:00 PM | Nicolas Delfosse and Johannes Borregaard | IonQ | Fault-tolerant quantum computing with trapped ions |
 | 3:00 PM | Yaniv Kurman | Quantum Machines | Executing QEC in Practice: Quantum-Classical Workflows on Real Control Systems |
 
