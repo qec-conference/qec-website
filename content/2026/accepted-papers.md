@@ -14,10 +14,10 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 
 | Time | Speaker | Affiliation | Title |
 | --- | --- | --- | --- |
-| 9:00 AM | Adrien Suau | Riverlane | A practical implementation of quantum error correction |
-| 11:00 AM | Nouédyn Baspin | Iceberg Quantum | Mapping cones, and their applications in QEC |
-| 1:00 PM | Nicolas Delfosse and Johannes Borregaard | IonQ | Fault-tolerant quantum computing with trapped ions |
-| 3:00 PM | Yaniv Kurman | Quantum Machines | Executing QEC in Practice: Quantum-Classical Workflows on Real Control Systems |
+| 9:00 AM - 10:45 AM | Adrien Suau | Riverlane | A practical implementation of quantum error correction |
+| 11:00 AM - 12:45 PM | Nouédyn Baspin | Iceberg Quantum | Mapping cones, and their applications in QEC |
+| 1:00 PM - 2:45 PM | Nicolas Delfosse and Johannes Borregaard | IonQ | Fault-tolerant quantum computing with trapped ions |
+| 3:00 PM - 4:45 PM | Yaniv Kurman | Quantum Machines | Executing QEC in Practice: Quantum-Classical Workflows on Real Control Systems |
 
 </div>
 
@@ -27,7 +27,6 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
   
 # Conference Schedule
 <br>
-
 <div class="schedule-table">
 <table>
   <thead>
@@ -42,7 +41,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
   </thead>
   <tbody>
       <tr>
-          <td>9:00 AM</td>
+          <td>9:00 AM - 10:00 AM</td>
           <td>Invited Talk: Yue Wu</td>
           <td>Invited Talk: Anthony Leverrier</td>
           <td>Invited Talk: Jim Harrington</td>
@@ -50,7 +49,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Invited Talk: Vedika Khemani</td>
       </tr>
       <tr>
-          <td>10:00 AM</td>
+          <td>10:00 AM - 10:30 AM</td>
           <td>Scaling Neural Decoders to Large Codes and Low Error Rates</td>
           <td>Fault Tolerance by Construction</td>
           <td>Magic state cultivation on a superconducting quantum processor</td>
@@ -58,7 +57,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Universal quantum computation with group surface codes</td>
       </tr>
       <tr>
-          <td>10:30 AM</td>
+          <td>10:30 AM - 11:00 AM</td>
           <td>A scalable and real-time neural decoder for topological quantum codes</td>
           <td>Symmetric Self-Dual Quantum Codes on High Dimensional Expanders</td>
           <td>Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching</td>
@@ -66,15 +65,15 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Ising on the donut: Regimes of topological quantum error correction from statistical mechanics</td>
       </tr>
       <tr>
-          <td>11:00 AM</td>
-          <td></td>
-          <td></td>
-          <td>Coffee</td>
-          <td></td>
-          <td></td>
+          <td>11:00 AM - 11:30 AM</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
       </tr>
       <tr>
-          <td>11:30 AM</td>
+          <td>11:30 AM - 12:00 PM</td>
           <td>Proof of a finite threshold for the union-find decoder</td>
           <td>Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families</td>
           <td>Magic state distillation via codes over binary extension fields</td>
@@ -82,7 +81,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Exact learning of quantum noise with tensor networks</td>
       </tr>
       <tr>
-          <td>12:00 PM</td>
+          <td>12:00 PM - 12:30 PM</td>
           <td>Minimum Weight Decoding in the Colour Code is NP-hard</td>
           <td>Quantum Weight Reduction with Layer Codes</td>
           <td>MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes</td>
@@ -90,7 +89,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>MERGED: Efficient learning of logical noise from syndrome data</td>
       </tr>
       <tr>
-          <td></td>
+          <td>12:00 PM - 12:30 PM (Cont.)</td>
           <td></td>
           <td></td>
           <td>MERGED: Hybrid Lattice Surgery: Non-Cliﬀord Gates via Non-Abelian Surface Codes</td>
@@ -98,15 +97,15 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>MERGED: Quantum advantages for syndrome-aware noisy logical observable estimation</td>
       </tr>
       <tr>
-          <td>12:30 PM</td>
-          <td></td>
-          <td></td>
+          <td>12:30 PM - 2:00 PM</td>
           <td>Lunch</td>
-          <td></td>
-          <td></td>
+          <td>Lunch</td>
+          <td>Lunch</td>
+          <td>Lunch</td>
+          <td>Lunch</td>
       </tr>
       <tr>
-          <td>2:00 PM</td>
+          <td>2:00 PM - 2:30 PM</td>
           <td>Reinforcement Learning Control of Quantum Error Correction</td>
           <td>Fail fast: techniques to probe rare events in quantum error correction</td>
           <td>Advantage in distributed quantum computing with slow interconnects, and experiments on a monolithic QPU</td>
@@ -114,7 +113,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Linear-Time Encodable and Decodable Quantum Error-Correcting Codes</td>
       </tr>
       <tr>
-          <td>2:30 PM</td>
+          <td>2:30 PM - 3:00 PM</td>
           <td>Scalable quantum error correction tailored for a heavy-hex qubit array</td>
           <td>Decoding Correlated Errors in Quantum LDPC Codes</td>
           <td>Fault-Tolerant Quantum Computation with Merged Color Codes</td>
@@ -122,7 +121,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Partial Self-Correction in Layer Codes</td>
       </tr>
       <tr>
-          <td>3:00 PM</td>
+          <td>3:00 PM - 3:30 PM</td>
           <td>Computing with many encoded logical qubits beyond break-even</td>
           <td>Check-weight-constrained quantum codes: Bounds and examples</td>
           <td>Over 10x Denser Fault Tolerance using Boundary-Connected Modules</td>
@@ -130,15 +129,15 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Optimal Decoding with the Worm</td>
       </tr>
       <tr>
-          <td>3:30 PM</td>
-          <td></td>
-          <td></td>
-          <td>Coffee</td>
-          <td></td>
-          <td></td>
+          <td>3:30 PM - 4:00 PM</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
+          <td>Coffee Break</td>
       </tr>
       <tr>
-          <td>4:00 PM</td>
+          <td>4:00 PM - 4:30 PM</td>
           <td>Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors</td>
           <td rowspan="2">Panel</td>
           <td>Macromux: scalable postselection for high-threshold fault-tolerant quantum computation</td>
@@ -146,33 +145,33 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td>Quantum computing with anyons is fault-tolerant</td>
       </tr>
       <tr>
-          <td>4:30 PM</td>
+          <td>4:30 PM - 5:00 PM</td>
           <td>In-situ benchmarking of fault-tolerant quantum circuits</td>
           <td>Efficient magic-state generation with quantum tricycle codes</td>
           <td>Efficient high-threshold decoding for concatenated quantum Hamming codes with near-optimal effective distance</td>
       </tr>
       <tr>
-          <td>5:00 PM</td>
+          <td>5:00 PM - 6:30 PM</td>
           <td></td>
-          <td rowspan="3"><a href="#tuesday-session">Poster Session</a></td>
+          <td rowspan="2"><a href="#tuesday-session">Poster Session</a></td>
           <td>Business Meeting</td>
-          <td rowspan="3"><a href="#thursday-session">Poster Session</a></td>
+          <td rowspan="2"><a href="#thursday-session">Poster Session</a></td>
           <td>Closing Remarks</td>
       </tr>
       <tr>
-          <td>6:30 PM</td>
+          <td>6:30 PM - 7:00 PM</td>
           <td></td>
           <td rowspan="2">Conference Dinner</td>
           <td></td>
       </tr>
       <tr>
-          <td>7:00 PM</td>
+          <td>7:00 PM-8:30</td>
+          <td></td>
           <td></td>
           <td></td>
       </tr>
   </tbody>
 </table>
-
 </div>
 <br>
 <br>
