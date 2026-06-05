@@ -25,7 +25,7 @@ layout: home
 {{% home-info what="Participants:>500,Days:5,Invited Talks:4" class="primary" %}}
 ## What is QEC 2027?
 
-QEC 2027 is the 9th edition of the International Conference on Quantum Error Correction. See the list of previous conferences <a style="color: #2196f3" href="/2027/charter/#history-of-qec">here</a>.
+QEC 2027 is the 9th edition of the International Conference on Quantum Error Correction. See the list of previous conferences <a style="color: #64b5f6" href="/2027/charter/#history-of-qec">here</a>.
 {{% /home-info %}}
 
 {{% home-keydates %}}
