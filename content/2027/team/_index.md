@@ -13,16 +13,6 @@ draft: False
 
 You can contact the Organizing Committee via email to {{< button-link label="2027@qec-conference.org" url="mailto:2027@qec-conference.org" icon="email" >}}
 
-{{< teams types="org" year=2027 >}}
-
-### Local Organizers
-* XXX
-
-### National organisers:
-* XXX
-
-### International organisers:
-* XXX
 
 ## Steering Committee
 {{< teams types="steering" year=2027 >}}
