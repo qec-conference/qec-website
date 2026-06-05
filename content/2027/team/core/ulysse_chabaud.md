@@ -7,6 +7,6 @@ subtitle: Inria, ENS
 job: Local organizer
 photoURL: /2027/team/images/ulysse_chabaud.png
 socials:
-  - link: 'https://github.com/ulyssechabaud'
+  - link: 'https://sites.google.com/view/ulyssechabaud'
     name: Site
 ---
