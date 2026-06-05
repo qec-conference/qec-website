@@ -19,8 +19,4 @@ You can contact the Organizing Committee via email to {{< button-link label="202
 
 ## Program Committee
 {{< teams types="pcchairs=PC chair" year=2027 >}}
-You can contact the PC chair via email to {{< button-link label="pcchairs2027@qec-conference.org" url="mailto:pcchairs2027@qec-conference.org" icon="email" >}}<br>
-
-### PC members
-* XXX
-* YYY
+You can contact the PC chair via email to {{< button-link label="pcchairs2027@qec-conference.org" url="mailto:pcchairs2027@qec-conference.org" icon="email" >}}
