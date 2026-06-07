@@ -18,8 +18,8 @@ Santa Barbara, California
 
 
 
-{{< button-link label="Call For Papers"
-                url="call"
+{{< button-link label="Schedule"
+                url="schedule"
                 icon="cfp" >}}
 {{< button-link label="Registration"
                 url="registration"
