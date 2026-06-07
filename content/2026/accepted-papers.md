@@ -165,7 +165,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
           <td></td>
       </tr>
       <tr>
-          <td>7:00 PM - 9 PM</td>
+          <td>7:00 PM - 9:00 PM</td>
           <td></td>
           <td></td>
           <td></td>
