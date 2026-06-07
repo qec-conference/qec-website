@@ -58,7 +58,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
       </tr>
       <tr>
           <td>10:30 AM - 11:00 AM</td>
-          <td>A scalable and real-time neural decoder for topological quantum codes</td>
+          <td>Reinforcement Learning Control of Quantum Error Correction</td>
           <td>Symmetric Self-Dual Quantum Codes on High Dimensional Expanders</td>
           <td>Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching</td>
           <td>Batched high-rate logical operations for quantum LDPC codes</td>
@@ -106,7 +106,7 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
       </tr>
       <tr>
           <td>2:00 PM - 2:30 PM</td>
-          <td>Reinforcement Learning Control of Quantum Error Correction</td>
+          <td>A scalable and real-time neural decoder for topological quantum codes</td>
           <td>Fail fast: techniques to probe rare events in quantum error correction</td>
           <td>Advantage in distributed quantum computing with slow interconnects, and experiments on a monolithic QPU</td>
           <td>Constant-Time QLDPC Code Surgery: Formulation and Constructions</td>
@@ -187,10 +187,10 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | Title | Authors |
 | ------ | ------ |
 | Scaling Neural Decoders to Large Codes and Low Error Rates | Andi Gu, Pablo Bonilla, Mikhail Lukin and Susanne Yelin |
-| A scalable and real-time neural decoder for topological quantum codes | Andrew Senior, Thomas Edlich, Francisco Heras, Lei Zhang, Oscar Higgott, James Spencer, Taylor Applebaum, Sam Blackwell, Justin Ledford, Akvilė Žemgulytė, Augustin Žídek, Noah Shutty, Andrew Cowie, Yin Li, George Holland, Peter Brooks, Charlie Beattie, Michael Newman, Alex Davies, Cody Jones, Sergio Boixo, Hartmut Neven, Pushmeet Kohli and Johannes Bausch |
+| Reinforcement Learning Control of Quantum Error Correction | Volodymyr Sivak, Google Quantum AI |
 | Proof of a finite threshold for the union-find decoder | Satoshi Yoshida, Ethan Lake and Hayata Yamasaki |
 | Minimum Weight Decoding in the Colour Code is NP-hard | Mark Walters and Mark Turner |
-| Reinforcement Learning Control of Quantum Error Correction | Volodymyr Sivak |
+| A scalable and real-time neural decoder for topological quantum codes | Andrew Senior, Thomas Edlich, Francisco Heras, Lei Zhang, Oscar Higgott, James Spencer, Taylor Applebaum, Sam Blackwell, Justin Ledford, Akvilė Žemgulytė, Augustin Žídek, Noah Shutty, Andrew Cowie, Yin Li, George Holland, Peter Brooks, Charlie Beattie, Michael Newman, Alex Davies, Cody Jones, Sergio Boixo, Hartmut Neven, Pushmeet Kohli and Johannes Bausch |
 | Scalable quantum error correction tailored for a heavy-hex qubit array | Seok-Hyung Lee, Xanda Kolesnikow, Jun Zen Chen, Evan Hockings, Campbell McLauchlan, Georgia Nixon, Tom Scruby, Stephen Bartlett, Robin Harper and Ben Brown |
 | Computing with many encoded logical qubits beyond break-even | Shival Dasu, Matt DeCross, Andrew Guo, Ali Lavasani, Jan Behrends, Asmae Benhemou, Yi-Hsiang Chen, Karl Mayer, Chris N. Self, Selwyn Simsek, Basudha Srivastava, M. S. Allman, Jake Arkinstall, Justin G. Bohnet, Nathaniel Q. Burdick, J.P. Campora III, Alex Chernoguzov, Samuel F. Cooper, Robert D. Delaney, Joan M. Dreiling, Brian Estey, Caroline Figgatt, Cameron Foltz, John P. Gaebler, Alex Hall, Craig A. Holliman, Ali A. Husain, Akhil Isanaka, Colin J. Kennedy, Yuga Kodama, Nikhil Kotibhaskar, Nathan K. Lysne, Ivaylo S. Madjarov, Michael Mills, Alistair R. Milne, Brian Neyenhuis, Annie J. Park, Anthony Ransford, Adam P. Reed, Steven J. Sanders, Charles H. Baldwin, David Hayes, Ben Criger, Andrew Potter and David Amaro |
 | Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors | Jordan Hines, Corey Ostrove, Kenneth Rudinger, Stefan Seritan, Kevin Young, Robin Blume-Kohout and Timothy Proctor |
