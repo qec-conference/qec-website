@@ -2618,6 +2618,12 @@ main > .text_page .content img#dark_bg {
 
 :root {
   --primary: #b8deff;
+  --sched-invited: #f3e5f5; /* Lavender/Purple 50 */
+  --sched-contributed: #e3f2fd; /* Light Blue 50 */
+  --sched-break: #fff8e1; /* Amber 50 */
+  --sched-panel: #e8f5e9; /* Light Green 50 (same as remarks) */
+  --sched-poster: #fce4ec; /* Light Pink 50 */
+  --sched-remarks: #e8f5e9; /* Light Green 50 */
 }
 
 .schedule-table {
@@ -2633,6 +2639,24 @@ main > .text_page .content img#dark_bg {
 .schedule-table table th, .schedule-table table td {
   border: 1px solid var(--darken-1);
   padding: var(--space-2);
+}
+.schedule-table table td.sched-invited {
+  background-color: var(--sched-invited);
+}
+.schedule-table table td.sched-contributed {
+  background-color: var(--sched-contributed);
+}
+.schedule-table table td.sched-break {
+  background-color: var(--sched-break);
+}
+.schedule-table table td.sched-panel {
+  background-color: var(--sched-panel);
+}
+.schedule-table table td.sched-poster {
+  background-color: var(--sched-poster);
+}
+.schedule-table table td.sched-remarks {
+  background-color: var(--sched-remarks);
 }
 
 /*# sourceMappingURL=style-2026.css.map */

@@ -42,6 +42,12 @@
 
 :root {
     --primary: #b8deff;
+    --sched-invited: #f3e5f5;      /* Lavender/Purple 50 */
+    --sched-contributed: #e3f2fd;  /* Light Blue 50 */
+    --sched-break: #fff8e1;        /* Amber 50 */
+    --sched-panel: #e8f5e9;        /* Light Green 50 (same as remarks) */
+    --sched-poster: #fce4ec;       /* Light Pink 50 */
+    --sched-remarks: #e8f5e9;      /* Light Green 50 */
 }
 
 .schedule-table {
@@ -57,6 +63,27 @@
     th, td {
       border: 1px solid var(--darken-1);
       padding: var(--space-2);
+    }
+
+    td {
+      &.sched-invited {
+        background-color: var(--sched-invited);
+      }
+      &.sched-contributed {
+        background-color: var(--sched-contributed);
+      }
+      &.sched-break {
+        background-color: var(--sched-break);
+      }
+      &.sched-panel {
+        background-color: var(--sched-panel);
+      }
+      &.sched-poster {
+        background-color: var(--sched-poster);
+      }
+      &.sched-remarks {
+        background-color: var(--sched-remarks);
+      }
     }
   }
 }
