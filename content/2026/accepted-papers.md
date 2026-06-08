@@ -7,25 +7,6 @@ draft: false
 url: /2026/schedule/
 ---
 
-# Tutorials
-This year at QEC we are pleased to offer tutorials on the Sunday before the conference. The tutorials will be as follows:
-
-<div class="schedule-table">
-
-| Time | Speaker | Affiliation | Title |
-| --- | --- | --- | --- |
-| 9:00 AM - 10:45 AM | Adrien Suau | Riverlane | A practical implementation of quantum error correction |
-| 11:00 AM - 12:45 PM | Nouédyn Baspin | Iceberg Quantum | Mapping cones, and their applications in QEC |
-| 1:00 PM - 2:45 PM | Nicolas Delfosse and Johannes Borregaard | IonQ | Fault-tolerant quantum computing with trapped ions |
-| 3:00 PM - 4:45 PM | Yaniv Kurman | Quantum Machines | Executing QEC in Practice: Quantum-Classical Workflows on Real Control Systems |
-
-</div>
-
-<br>
-<br>
-<br>
-  
-# Conference Schedule
 <br>
 <div class="schedule-table">
 <table>
@@ -58,19 +39,19 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
       </tr>
       <tr>
           <td>10:00 AM - 10:30 AM</td>
-          <td class="sched-contributed">Scaling Neural Decoders to Large Codes and Low Error Rates</td>
-          <td class="sched-contributed">Fault Tolerance by Construction</td>
-          <td class="sched-contributed">Magic state cultivation on a superconducting quantum processor</td>
-          <td class="sched-contributed">QGPU: Parallel logic in quantum LDPC codes</td>
-          <td class="sched-contributed">Universal quantum computation with group surface codes</td>
+          <td class="sched-contributed">Scaling Neural Decoders to Large Codes and Low Error Rates<br><br>Andi Gu</td>
+          <td class="sched-contributed">Fault Tolerance by Construction<br><br>Benjamin Rodatz</td>
+          <td class="sched-contributed">Magic state cultivation on a superconducting quantum processor<br><br>Emma Rosenfeld</td>
+          <td class="sched-contributed">QGPU: Parallel logic in quantum LDPC codes<br><br>Boren Gu</td>
+          <td class="sched-contributed">Universal quantum computation with group surface codes<br><br>Vieri Mattei</td>
       </tr>
       <tr>
           <td>10:30 AM - 11:00 AM</td>
-          <td class="sched-contributed">Reinforcement Learning Control of Quantum Error Correction</td>
-          <td class="sched-contributed">Symmetric Self-Dual Quantum Codes on High Dimensional Expanders</td>
-          <td class="sched-contributed">Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching</td>
-          <td class="sched-contributed">Batched high-rate logical operations for quantum LDPC codes</td>
-          <td class="sched-contributed">Ising on the donut: Regimes of topological quantum error correction from statistical mechanics</td>
+          <td class="sched-contributed">Reinforcement Learning Control of Quantum Error Correction<br><br>Vlad Sivak</td>
+          <td class="sched-contributed">Symmetric Self-Dual Quantum Codes on High Dimensional Expanders<br><br>Kyle Gulshen</td>
+          <td class="sched-contributed">Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching<br><br>Lucas Daguerre</td>
+          <td class="sched-contributed">Batched high-rate logical operations for quantum LDPC codes<br><br>Qian Xu</td>
+          <td class="sched-contributed">Ising on the donut: Regimes of topological quantum error correction from statistical mechanics<br><br>Lucas English</td>
       </tr>
       <tr>
           <td>11:00 AM - 11:30 AM</td>
@@ -82,27 +63,24 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
       </tr>
       <tr>
           <td>11:30 AM - 12:00 PM</td>
-          <td class="sched-contributed">Proof of a finite threshold for the union-find decoder</td>
-          <td class="sched-contributed">Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families</td>
-          <td class="sched-contributed">Magic state distillation via codes over binary extension fields</td>
-          <td class="sched-contributed">No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits</td>
-          <td class="sched-contributed">Exact learning of quantum noise with tensor networks</td>
+          <td class="sched-contributed">Proof of a finite threshold for the union-find decoder<br><br>Satoshi Yoshida</td>
+          <td class="sched-contributed">Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families<br><br>Andrei Diaconu</td>
+          <td class="sched-contributed">Magic state distillation via codes over binary extension fields<br><br>Anqi Gong</td>
+          <td class="sched-contributed">No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits<br><br>Aranya Chakraborty</td>
+          <td class="sched-contributed">Exact learning of quantum noise with tensor networks<br><br>Nicola Pancotti</td>
       </tr>
       <tr>
-          <td>12:00 PM - 12:30 PM</td>
-          <td class="sched-contributed">Minimum Weight Decoding in the Colour Code is NP-hard</td>
-          <td class="sched-contributed">Quantum Weight Reduction with Layer Codes</td>
-          <td class="sched-contributed">MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes</td>
-          <td class="sched-contributed">MERGED: Constant-Overhead Addressable Gates via Single-Shot Code Switching</td>
-          <td class="sched-contributed">MERGED: Efficient learning of logical noise from syndrome data</td>
+          <td rowspan="2">12:00 PM - 12:30 PM</td>
+          <td class="sched-contributed" rowspan="2">Minimum Weight Decoding in the Colour Code is NP-hard<br><br>Mark Walters</td>
+          <td class="sched-contributed" rowspan="2">Quantum Weight Reduction with Layer Codes<br><br>Andrew C Yuan</td>
+          <td class="sched-contributed">MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes<br><br>Ryohei Kobayashi</td>
+          <td class="sched-contributed">MERGED: Constant-Overhead Addressable Gates via Single-Shot Code Switching<br><br>Louis Golowich</td>
+          <td class="sched-contributed">MERGED: Efficient learning of logical noise from syndrome data<br><br>Han Zheng </td>
       </tr>
       <tr>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td class="sched-contributed">MERGED: Hybrid Lattice Surgery: Non-Cliﬀord Gates via Non-Abelian Surface Codes</td>
-          <td class="sched-contributed">MERGED: Transversal Dimension Jump for Product qLDPC Codes</td>
-          <td class="sched-contributed">MERGED: Quantum advantages for syndrome-aware noisy logical observable estimation</td>
+          <td class="sched-contributed">MERGED: Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes<br><br>Sheng-Jie Huang</td>
+          <td class="sched-contributed">MERGED: Transversal Dimension Jump for Product qLDPC Codes<br><br>Christine Li</td>
+          <td class="sched-contributed">MERGED: Quantum advantages for syndrome-aware noisy logical observable estimation<br><br>Kento Tsubouchi</td>
       </tr>
       <tr>
           <td>12:30 PM - 2:00 PM</td>
@@ -114,27 +92,27 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
       </tr>
       <tr>
           <td>2:00 PM - 2:30 PM</td>
-          <td class="sched-contributed">A scalable and real-time neural decoder for topological quantum codes</td>
-          <td class="sched-contributed">Fail fast: techniques to probe rare events in quantum error correction</td>
-          <td class="sched-contributed">Advantage in distributed quantum computing with slow interconnects, and experiments on a monolithic QPU</td>
-          <td class="sched-contributed">Constant-Time QLDPC Code Surgery: Formulation and Constructions</td>
-          <td class="sched-contributed">Linear-Time Encodable and Decodable Quantum Error-Correcting Codes</td>
+          <td class="sched-contributed">A scalable and real-time neural decoder for topological quantum codes<br><br>Andrew Senior</td>
+          <td class="sched-contributed">Fail fast: techniques to probe rare events in quantum error correction<br><br>Michael Beverland</td>
+          <td class="sched-contributed">Advantage in distributed quantum computing with slow interconnects, and experiments on a monolithic QPU<br><br>Aharon Brodutch</td>
+          <td class="sched-contributed">Constant-Time QLDPC Code Surgery: Formulation and Constructions<br><br>Kathleen Chang</td>
+          <td class="sched-contributed">Linear-Time Encodable and Decodable Quantum Error-Correcting Codes<br><br>Adam Wills</td>
       </tr>
       <tr>
           <td>2:30 PM - 3:00 PM</td>
-          <td class="sched-contributed">Scalable quantum error correction tailored for a heavy-hex qubit array</td>
-          <td class="sched-contributed">Decoding Correlated Errors in Quantum LDPC Codes</td>
-          <td class="sched-contributed">Fault-Tolerant Quantum Computation with Merged Color Codes</td>
-          <td class="sched-contributed">Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements</td>
-          <td class="sched-contributed">Partial Self-Correction in Layer Codes</td>
+          <td class="sched-contributed">Scalable quantum error correction tailored for a heavy-hex qubit array<br><br>Seok-Hyung Lee</td>
+          <td class="sched-contributed">Decoding Correlated Errors in Quantum LDPC Codes<br><br>Arshpreet Singh Maan</td>
+          <td class="sched-contributed">Fault-Tolerant Quantum Computation with Merged Color Codes<br><br>Yunzhe Zheng</td>
+          <td class="sched-contributed">Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements<br><br>Maine Christos</td>
+          <td class="sched-contributed">Partial Self-Correction in Layer Codes<br><br>Andrew Yuan</td>
       </tr>
       <tr>
           <td>3:00 PM - 3:30 PM</td>
-          <td class="sched-contributed">Computing with many encoded logical qubits beyond break-even</td>
-          <td class="sched-contributed">Check-weight-constrained quantum codes: Bounds and examples</td>
-          <td class="sched-contributed">Over 10x Denser Fault Tolerance using Boundary-Connected Modules</td>
-          <td class="sched-contributed">Entangling logical qubits without physical operations</td>
-          <td class="sched-contributed">Optimal Decoding with the Worm</td>
+          <td class="sched-contributed">Computing with many encoded logical qubits beyond break-even<br><br>Shival Dasu</td>
+          <td class="sched-contributed">Check-weight-constrained quantum codes: Bounds and examples<br><br>Shouzhen Gu</td>
+          <td class="sched-contributed">Over 10x Denser Fault Tolerance using Boundary-Connected Modules<br><br>Oscar Higgott</td>
+          <td class="sched-contributed">Entangling logical qubits without physical operations<br><br>Shayan Majidy</td>
+          <td class="sched-contributed">Optimal Decoding with the Worm<br><br>Zac Tobias</td>
       </tr>
       <tr>
           <td>3:30 PM - 4:00 PM</td>
@@ -146,17 +124,17 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
       </tr>
       <tr>
           <td>4:00 PM - 4:30 PM</td>
-          <td class="sched-contributed">Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors</td>
-          <td class="sched-panel" rowspan="2">Panel</td>
-          <td class="sched-contributed">Macromux: scalable postselection for high-threshold fault-tolerant quantum computation</td>
-          <td class="sched-panel" rowspan="2">Panel</td>
-          <td class="sched-contributed">Quantum computing with anyons is fault-tolerant</td>
+          <td class="sched-contributed">Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors<br><br>Jordan Hines</td>
+          <td class="sched-panel" rowspan="2">Panel: State of the Field<br><br>Chair: Andrew Landahl<br><br>Panelists:<br>Michael Beverland,<br>Natalie Brown,<br>Aleksander Kubica,<br>Anthony Leverrier,<br>Harry Zhou</td>
+          <td class="sched-contributed">Macromux: scalable postselection for high-threshold fault-tolerant quantum computation<br><br>Mihir Pant</td>
+          <td class="sched-panel" rowspan="2">Panel: Future of the Field<br><br>Chair: Earl Campbell<br><br>Panelists:<br>Nicolas Delfosse,<br>Craig Gidney,<br>Naomi Nickerson,<br>Michael Vasmer</td>
+          <td class="sched-contributed">Quantum computing with anyons is fault-tolerant<br><br>Anasuya Lyons</td>
       </tr>
       <tr>
           <td>4:30 PM - 5:00 PM</td>
-          <td class="sched-contributed">In-situ benchmarking of fault-tolerant quantum circuits</td>
-          <td class="sched-contributed">Efficient magic-state generation with quantum tricycle codes</td>
-          <td class="sched-contributed">Efficient high-threshold decoding for concatenated quantum Hamming codes with near-optimal effective distance</td>
+          <td class="sched-contributed">In-situ benchmarking of fault-tolerant quantum circuits<br><br>Xiao Xiao</td>
+          <td class="sched-contributed">Efficient magic-state generation with quantum tricycle codes<br><br>Varun Menon</td>
+          <td class="sched-contributed">Efficient high-threshold decoding for concatenated quantum Hamming codes with near-optimal effective distance<br><br>Chao Zhang</td>
       </tr>
       <tr>
           <td>5:00 PM - 6:30 PM</td>
@@ -442,3 +420,22 @@ This year at QEC we are pleased to offer tutorials on the Sunday before the conf
 | 80 | Transversal AND in Quantum Codes | Christine Li and Lia Yeh | 242 |
 | 81 | Beyond IID: Correlated Noise Models for Code-Capacity Analysis of Quantum Error Correcting Codes | Giacomo Pantaleoni and Remmy Zen | 96 |
 </div>
+
+
+# Tutorials
+This year at QEC we are pleased to offer tutorials on the Sunday before the conference. The tutorials will be as follows:
+
+<div class="schedule-table">
+
+| Time | Speaker | Affiliation | Title |
+| --- | --- | --- | --- |
+| 9:00 AM - 10:45 AM | Adrien Suau | Riverlane | A practical implementation of quantum error correction |
+| 11:00 AM - 12:45 PM | Nouédyn Baspin | Iceberg Quantum | Mapping cones, and their applications in QEC |
+| 1:00 PM - 2:45 PM | Nicolas Delfosse and Johannes Borregaard | IonQ | Fault-tolerant quantum computing with trapped ions |
+| 3:00 PM - 4:45 PM | Yaniv Kurman | Quantum Machines | Executing QEC in Practice: Quantum-Classical Workflows on Real Control Systems |
+
+</div>
+
+<br>
+<br>
+<br>
