@@ -63,7 +63,7 @@ url: /2026/schedule/
       </tr>
       <tr>
           <td>11:30 AM - 12:00 PM</td>
-          <td class="sched-contributed">Proof of a finite threshold for the union-find decoder<br><br>Satoshi Yoshida</td>
+          <td class="sched-contributed">Proof of a finite threshold for the union-find decoder<br><br>Hayata Yamasaki</td>
           <td class="sched-contributed">Syndrome Extraction Circuits with Near-Optimal Depths for Practical Quantum Error Correcting Code Families<br><br>Andrei Diaconu</td>
           <td class="sched-contributed">Magic state distillation via codes over binary extension fields<br><br>Anqi Gong</td>
           <td class="sched-contributed">No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits<br><br>Aranya Chakraborty</td>
