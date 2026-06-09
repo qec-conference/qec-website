@@ -73,12 +73,12 @@ url: /2026/schedule/
           <td rowspan="2">12:00 PM - 12:30 PM</td>
           <td class="sched-contributed" rowspan="2">Minimum Weight Decoding in the Colour Code is NP-hard<br><br>Mark Walters</td>
           <td class="sched-contributed" rowspan="2">Quantum Weight Reduction with Layer Codes<br><br>Andrew C Yuan</td>
-          <td class="sched-contributed">MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes<br><br>Ryohei Kobayashi</td>
+          <td class="sched-contributed">MERGED: Transversal Gates at Arbitrary Levels of the Clifford Hierarchy in 2D Topological Codes<br><br>Po-Shen Hsin<br>Alison Warman</td>
           <td class="sched-contributed">MERGED: Constant-Overhead Addressable Gates via Single-Shot Code Switching<br><br>Louis Golowich</td>
           <td class="sched-contributed">MERGED: Efficient learning of logical noise from syndrome data<br><br>Han Zheng </td>
       </tr>
       <tr>
-          <td class="sched-contributed">MERGED: Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes<br><br>Sheng-Jie Huang</td>
+          <td class="sched-contributed">MERGED: Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes<br><br>Alison Warman</td>
           <td class="sched-contributed">MERGED: Transversal Dimension Jump for Product qLDPC Codes<br><br>Christine Li</td>
           <td class="sched-contributed">MERGED: Quantum advantages for syndrome-aware noisy logical observable estimation<br><br>Kento Tsubouchi</td>
       </tr>
