@@ -107,7 +107,7 @@ url: /2026/schedule/
           <td class="sched-contributed">Decoding Correlated Errors in Quantum LDPC Codes<br><br>Arshpreet Singh Maan</td>
           <td class="sched-contributed">Fault-Tolerant Quantum Computation with Merged Color Codes<br><br>Yunzhe Zheng</td>
           <td class="sched-contributed">Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements<br><br>Maine Christos</td>
-          <td class="sched-contributed">Partial Self-Correction in Layer Codes<br><br>Andrew Yuan</td>
+          <td class="sched-contributed">Partial Self-Correction in Layer Codes<br><br>Dominic Williamson</td>
       </tr>
       <tr>
           <td>3:00 PM - 3:30 PM</td>
