@@ -130,7 +130,7 @@ url: /2026/schedule/
           <td class="sched-contributed">Efficient Simulation and Modeling of Quantum Error Correction with Small Markovian Errors<br><br>Jordan Hines</td>
           <td class="sched-panel" rowspan="2">Panel: State of the Field<br><br>Chair: Andrew Landahl<br><br>Panelists:<br>Michael Beverland,<br>Natalie Brown,<br>Aleksander Kubica,<br>Anthony Leverrier,<br>Harry Zhou</td>
           <td class="sched-contributed">Macromux: scalable postselection for high-threshold fault-tolerant quantum computation<br><br>Mihir Pant</td>
-          <td class="sched-panel" rowspan="2">Panel: Future of the Field<br><br>Chair: Earl Campbell<br><br>Panelists:<br>Nicolas Delfosse,<br>Craig Gidney,<br>Naomi Nickerson,<br>Michael Vasmer</td>
+          <td class="sched-panel" rowspan="2">Panel: Future of the Field<br><br>Chair: Earl Campbell<br><br>Panelists:<br>Nicolas Delfosse,<br>Craig Gidney,<br>Naomi Nickerson,<br>Michael Vasmer,<br>Robin Harper</td>
           <td class="sched-contributed">Quantum computing with anyons is fault-tolerant<br><br>Anasuya Lyons</td>
       </tr>
       <tr>
