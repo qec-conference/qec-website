@@ -9,10 +9,11 @@ type: home
 layout: home
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/2026/background-2026.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" %}}
+<!-- jumbo img="/images/2026/background-2026.jpg" imgLabel="QEC 2026 background" logo="/images/2026/logo-2026.png" -->
+{{% jumbo img="/images/2026/with_plants.jpeg" imgLabel="QEC 2026 Photo" logo="/images/2026/logo-2026.png" %}}
 
-## <span style="color: #494949;">June 7th-12th, 2026</span>
-Santa Barbara, California
+## <span style="color: #fcfcfcff;">June 7th-12th, 2026</span>
+<span style="color: #fcfcfcff;">Santa Barbara, California</span>
 
 
 
