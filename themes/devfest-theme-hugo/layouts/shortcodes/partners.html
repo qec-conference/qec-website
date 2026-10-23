@@ -7,10 +7,12 @@
 </div>
 
 {{ $site := .Site }}
+{{ $categoryLabels := dict "community" "Community" "circuit" "Circuit level" "pheno" "Phenomenological" "codecap" "Code capacity" }}
 {{ range (split (.Get "categories") ",") }}
+{{ $label := index $categoryLabels . | default . }}
 <section class="partners-group partner-{{ . }}">
 <h3 class="fancy">
-<span>{{ . }}</span>
+<span>{{ $label }}</span>
 </h3>
 <ul>
 {{ $partners := where (where $site.AllPages "Params.category" .) "Params.year" $year }}

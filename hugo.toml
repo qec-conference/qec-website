@@ -54,7 +54,7 @@ enableMissingTranslationPlaceholders = true
     [server]
       [[server.redirects]]
           from = "/"
-          to = "/2026/"
+          to = "/2027/"
           status = 302
           force = true 
 
@@ -204,7 +204,24 @@ unsafe = true
     identifier = "sponsors"
     pageRef = "/2027/partners"
   [[menu.2027]]
-    name = "Committees"
+    name = "Organisation"
     weight = 50
+    identifier = "organisation"
+  [[menu.2027]]
+    name = "Committees"
+    weight = 51
     identifier = "committees"
+    parent = "organisation"
     pageRef = "/2027/team"
+  [[menu.2027]]
+    name = "Charter"
+    weight = 52
+    identifier = "charter"
+    parent = "organisation"
+    pageRef = "/2027/charter"
+  [[menu.2027]]
+    name = "History"
+    weight = 53
+    identifier = "history"
+    parent = "organisation"
+    pageRef = "/2027/history"

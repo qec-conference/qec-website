@@ -3,7 +3,7 @@ title: Anthony Leverrier
 surname: Leverrier
 subtitle: Inria Paris
 photoURL: /2027/team/images/anthony_leverrier.png
-job: PC chair
+job: PC co-chair
 type: pcchairs
 year: 2027
 socials:

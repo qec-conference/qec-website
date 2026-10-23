@@ -1,5 +1,6 @@
 <footer>
 	{{ $currentYear := string .Site.Params.currentYear }}
+	{{ if .Section }}{{ $currentYear = .Section }}{{ end }}
 
 	<div class="bottom-content">
 
@@ -51,7 +52,7 @@
 				<ul>
 					{{ range .links }}
 					<li>
-						<a href="/{{ $currentYear }}/{{ .url }}" {{ if .newTab }}target="_blank" rel="noopener" {{end}}>
+						<a href="/{{ $currentYear }}/{{ strings.TrimPrefix "/" .url }}" {{ if .newTab }}target="_blank" rel="noopener" {{end}}>
 							{{ if .nameKey }}
 							{{ i18n .nameKey }}
 							{{ else }}
