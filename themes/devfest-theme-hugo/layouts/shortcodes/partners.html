@@ -7,7 +7,7 @@
 </div>
 
 {{ $site := .Site }}
-{{ $categoryLabels := dict "community" "Community" "circuit" "Circuit level" "pheno" "Phenomenological" "codecap" "Code capacity" }}
+{{ $categoryLabels := dict "community" "Community sponsors" "circuit" "Circuit level sponsors" "pheno" "Phenomenological sponsors" "codecap" "Code capacity sponsors" }}
 {{ range (split (.Get "categories") ",") }}
 {{ $label := index $categoryLabels . | default . }}
 <section class="partners-group partner-{{ . }}">

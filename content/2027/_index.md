@@ -79,6 +79,10 @@ QEC 2027 is the 9th edition of the International Conference on Quantum Error Cor
 {{% partners categories="circuit,pheno,codecap,community" year=2027 %}}
 ## Sponsors
 
-QEC 2027 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}} 
-
 {{% /partners %}}
+
+<div style="text-align:center; padding:0 2rem 2rem">
+
+QEC 2027 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org?subject=Sponsorship Enquiry" icon="email" >}}
+
+</div>

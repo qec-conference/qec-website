@@ -3,7 +3,7 @@ title: Shruti Puri
 surname: Puri
 type: steering
 subtitle: Yale University
-job: SC co-chair
+job: SC chair
 year: 2027
 photoURL: /2027/team/images/shruti_puri.png
 socials:
