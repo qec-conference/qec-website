@@ -10,6 +10,6 @@ draft: false
 type: sessions
 ---
 
-QEC 2027 welcomes you to Paris with a reception included in your registration.
+<!-- QEC 2027 welcomes you to Paris with a reception included in your registration.
 The venue is still to be confirmed and details will be published here closer to
-the conference.
+the conference. -->

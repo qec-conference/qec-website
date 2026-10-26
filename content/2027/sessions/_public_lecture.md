@@ -13,5 +13,5 @@ presentation: null
 draft: false
 ---
 
-A public lecture, open to conference participants and to the general public, is
-planned. The speaker, title and venue are still to be confirmed.
+<!-- A public lecture, open to conference participants and to the general public, is
+planned. The speaker, title and venue are still to be confirmed. -->
