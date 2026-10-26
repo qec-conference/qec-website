@@ -3,7 +3,6 @@ title: "Invited Talk"
 format: invited
 type: sessions
 year: 2027
-tags:
 speakers:
 presentation: null
 draft: false

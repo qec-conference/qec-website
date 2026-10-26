@@ -36,7 +36,7 @@
     - session: __startofday
       time: '09:00'
       location: entrance_hall
-    - session: invited_eisert
+    - session: invited_1
       time: '09:30'
       location: auditorium
     - session: __break
@@ -76,7 +76,7 @@
     - session: __updates&announcements
       time: '09:00'
       location: auditorium
-    - session: invited_khurana
+    - session: invited_2
       time: '09:15'
       location: auditorium
     - session: __break
