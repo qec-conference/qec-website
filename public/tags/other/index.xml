@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on QEC Conference Website</title>
+    <link>http://localhost:1313/tags/other/</link>
+    <description>Recent content in Other on QEC Conference Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Meeting</title>
+      <link>http://localhost:1313/2026/sessions/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/business/</guid>
+      <description>&lt;p&gt;We will discuss any pressing business for the conference, cover the financials and operations of QEC26, and announce the hosts for QEC27. All are welcome to attend!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Closing Remarks</title>
+      <link>http://localhost:1313/2026/sessions/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/close/</guid>
+      <description>&lt;p&gt;See you next year!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conference Dinner</title>
+      <link>http://localhost:1313/2026/sessions/__dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__dinner/</guid>
+      <description>&lt;p&gt;The Conference Dinner this year will take place in the Plaza del Sol at the Hilton Beachfront Santa Barbara after the Business Meeting. We will also have a speaker for the dinner, more information coming soon!&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/2026/picture-of-plaza.jpg&#34; alt=&#34;drawing&#34; style=&#34;width:400px;&#34;/&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/2026/sessions/__registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__registration/</guid>
+      <description>&lt;p&gt;Registration will be at the Hilton, near the entrance to the Grand Ballroom.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcoming Remarks</title>
+      <link>http://localhost:1313/2026/sessions/__welcomingremarks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2026/sessions/__welcomingremarks/</guid>
+      <description>&lt;p&gt;Welcome everybody!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

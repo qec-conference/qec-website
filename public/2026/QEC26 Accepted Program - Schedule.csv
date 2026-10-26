@@ -1,0 +1,74 @@
+ SCHEDULE,7th,8th,9th,10th,11th,12th
+,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday
+8:00 AM,,,,,,
+8:15 AM,,,,,,
+8:30 AM,,,,,,
+8:45 AM,,Opening Remarks,,,,
+9:00 AM,Tutorial,Invited Keynote,Invited Keynote,Invited Keynote,Invited Keynote,Invited Keynote
+9:15 AM,,Yue Wu,Leverrier,Thaddeus,Natalie,Khemani
+9:30 AM,,45+15,45+15,45+15,45+15,45+15
+9:45 AM,,,,,,
+10:00 AM,,Scaling Neural Decoders to Large Codes and Low Error Rates,Fault Tolerance by Construction,"Magic state cultivation on a superconducting quantum
+processor",QGPU: Parallel logic in quantum LDPC codes,Universal quantum computation with group surface codes
+10:15 AM,,RC TALK,,,,
+10:30 AM,,"A scalable and real-time neural decoder for topological
+quantum codes","Symmetric Self-Dual Quantum Codes on High Dimensional
+Expanders","Experimental Demonstration of High-Fidelity Logical Magic
+States from Code Switching",Batched high-rate logical operations for quantum LDPC codes,"Ising on the donut: Regimes of topological quantum error
+correction from statistical mechanics"
+10:45 AM,,,,,,
+11:00 AM,Tutorial,,,Coffee,,
+11:15 AM,,,,,,
+11:30 AM,,Proof of a finite threshold for the union-find decoder,"Syndrome Extraction Circuits with Near-Optimal Depths for
+Practical Quantum Error Correcting Code Families","Magic state distillation via codes over binary extension
+fields","No-Go Theorem on Fault Tolerant Gadgets for Multiple
+Logical Qubits",Exact learning of quantum noise with tensor networks
+11:45 AM,,,RC TALK,RC TALK,,RC TALK
+12:00 PM,,Minimum Weight Decoding in the Colour Code is NP-hard,Quantum Weight Reduction with Layer Codes,"Transversal Gates at Arbitrary Levels of the Clifford
+Hierarchy in 2D Topological Codes","Constant-Overhead Addressable Gates via Single-Shot Code
+Switching",Efficient learning of logical noise from syndrome data
+12:15 PM,,,,"Hybrid Lattice Surgery: Non-Cliﬀord Gates via Non-Abelian
+Surface Codes",Transversal Dimension Jump for Product qLDPC Codes,"Quantum advantages for syndrome-aware noisy logical
+observable estimation"
+12:30 PM,,,Group Photo,,,
+12:45 PM,,,,,,
+1:00 PM,Tutorial,LUNCH,LUNCH,LUNCH,LUNCH,LUNCH
+1:15 PM,,,,,,
+1:30 PM,,,,,,
+1:45 PM,,,,,,
+2:00 PM,,Reinforcement Learning Control of Quantum Error Correction,"Fail fast: techniques to probe rare events in quantum error
+correction","Advantage in distributed quantum computing with slow
+interconnects, and experiments on a monolithic QPU","Constant-Time QLDPC Code Surgery: Formulation and
+Constructions","Linear-Time Encodable and Decodable Quantum
+Error-Correcting Codes"
+2:15 PM,,,,,,
+2:30 PM,,"Scalable quantum error correction tailored for a heavy-hex
+qubit array",Decoding Correlated Errors in Quantum LDPC Codes,Fault-Tolerant Quantum Computation with Merged Color Codes,"Non-Abelian Quantum Low-Density Parity Check Codes and
+Non-Clifford Operations from Gauging Logical Gates via
+Measurements",Partial Self-Correction in Layer Codes 
+2:45 PM,,RC TALK,,RC TALK,,
+3:00 PM,Tutorial,Computing with many encoded logical qubits beyond break-even,Check-weight-constrained quantum codes: Bounds and examples,"Over 10x Denser Fault Tolerance using Boundary-Connected
+Modules",Entangling logical qubits without physical operations,Optimal Decoding with the Worm
+3:15 PM,,,,RC TALK,,
+3:30 PM,,,,Coffee,,
+3:45 PM,,,,,,
+4:00 PM,,"Efficient Simulation and Modeling of Quantum Error
+Correction with Small Markovian Errors",Panel,"Macromux: scalable postselection for high-threshold
+fault-tolerant quantum computation",Panel,Quantum computing with anyons is fault-tolerant
+4:15 PM,,RC TALK,State of the field,,Future of the Field,
+4:30 PM,,In-situ benchmarking of fault-tolerant quantum circuits,,Efficient magic-state generation with quantum tricycle codes,,"Efficient high-threshold decoding for concatenated quantum
+Hamming codes with near-optimal effective distance"
+4:45 PM,,,,,,
+5:00 PM,,,Poster Session,Business ,Poster Session,Closing 
+5:15 PM,,,,Meeting,,Remarks
+5:30 PM,,,,,,
+5:45 PM,,,,,,
+6:00 PM,,STEERING COMMITTEE DINNER,,Dinner,,
+6:15 PM,,,,,,
+6:30 PM,,,,,,
+6:45 PM,,,,,,
+7:00 PM,,,,,,
+7:15 PM,,,,,,
+7:30 PM,,,,,,
+7:45 PM,,,,,,
+8:00 PM,,,,,,
