@@ -50,7 +50,7 @@ QEC 2027 is the 9th edition of the International Conference on Quantum Error Cor
 {{% home-keydate-table title="Website Updates" %}}
 |Date |Event|
 |:----|:----|
-|1 Nov 2026 | New website live|
+|27 Oct 2026 | New website live|
 {{% /home-keydate-table %}}
 
 {{% /home-keydates %}}
