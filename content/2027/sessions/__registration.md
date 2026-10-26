@@ -6,7 +6,7 @@ tags:
   - other
 videoId: null
 presentation: null
-draft: false
+draft: true
 type: sessions
 ---
 Registration and coffee in the entrance hall of the conference venue.

@@ -8,7 +8,7 @@ id: industry
 speakers:
 videoId: null
 presentation: null
-draft: false
+draft: true
 ---
 
 <!-- Venue to be confirmed. -->

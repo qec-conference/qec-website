@@ -8,7 +8,7 @@ id: industry
 speakers:
 videoId: null
 presentation: null
-draft: false
+draft: true
 ---
 
 The industry session will bring together representatives from industry and

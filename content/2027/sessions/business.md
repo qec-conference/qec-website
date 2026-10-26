@@ -7,7 +7,7 @@ tags:
   - other
 videoId: null
 presentation: null
-draft: false
+draft: true
 ---
 
 Programme to be announced.

@@ -7,6 +7,6 @@ tags:
 speakers: null
 videoId: null
 presentation: null
-draft: false
+draft: true
 ---
 Welcome everybody!

@@ -5,7 +5,7 @@ type: sessions
 year: 2027
 speakers:
 presentation: null
-draft: false
+draft: true
 ---
 
 Speaker, title and abstract to be announced.

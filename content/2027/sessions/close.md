@@ -8,6 +8,6 @@ speakers:
 videoId: null
 videoTime: null
 presentation: null
-draft: false
+draft: true
 ---
 Goodbye, folks! See you next year!
