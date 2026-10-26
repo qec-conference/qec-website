@@ -1,12 +1,10 @@
 ---
-title: "Contributed Talks 2a: Experimental Talks"
+title: "Contributed Talks 2a"
 format: contributed
 type: sessions
 year: 2027
 
 papers:
-- 81
-- 107
 videoId: null
 presentation: null
 draft: false

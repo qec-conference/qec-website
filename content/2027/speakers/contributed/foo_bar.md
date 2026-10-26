@@ -1,13 +1,16 @@
 ---
+# Template for a contributed speaker. Copy, rename and set draft: false.
 key: bar
 name: Foo Bar
 surname: bar
 company: The University of Bar
-photoURL: /2024/speakers/images/QCr_Logo_black.png
+photoURL: /2027/speakers/images/bar.png
 type: contributed
-website: 'https://www.qusoft.org'
+year: 2027
+draft: true
+website: 'https://example.org'
 socials:
-  - link: 'https://www.qusoft.org'
+  - link: 'https://example.org'
     name: Site
 
 ---

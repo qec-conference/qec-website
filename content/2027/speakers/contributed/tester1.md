@@ -1,13 +1,16 @@
 ---
+# Template for a contributed speaker. Copy, rename and set draft: false.
 key: tester
 name: David Tester
 surname: tester
 company: The University of Testing
-photoURL: /images/logos/black_sheep.png
+photoURL: /2027/speakers/images/tester.png
 type: contributed
-website: 'https://2020.qcrypt.net'
+year: 2027
+draft: true
+website: 'https://example.org'
 socials:
-  - link: 'https://physics.uchicago.edu/people/profile/david-awschalom/'
+  - link: 'https://example.org'
     name: Site
 
 ---

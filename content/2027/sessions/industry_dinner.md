@@ -11,4 +11,4 @@ presentation: null
 draft: false
 ---
 
-at Yuntaku Restaurant
+Venue to be confirmed.

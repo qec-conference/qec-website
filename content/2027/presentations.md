@@ -5,7 +5,7 @@ type: text_page
 draft: true
 menu:
     2027:
-        weight: 10
+        weight: 12
         parent: technical-program
 
 ---
@@ -29,12 +29,12 @@ menu:
 There are two main options to load slides prior to the presentation:
 <ol>	
 <li>Preload slides onto the main auditorium computer. This is the preferred option.
-<ol type="A"><li>Email slides to {{< button-link label="2024@QCRYPT.NET" url="mailto:2024@QCRYPT.NET" icon="email" >}} no less than two hours before the session, labeled in the following format: <strong>lastname_day_title.ppt.</strong> If you do not receive a confirmation, please contact the local organisers.</li>
+<ol type="A"><li>Email slides to {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}} no less than two hours before the session, labeled in the following format: <strong>lastname_day_title.ppt.</strong> If you do not receive a confirmation, please contact the local organisers.</li>
 <li>Bring slides on a USB stick and provide it to the local organisers no less than two hours before the session begins. Please note that you cannot run the presentation from a USB drive, it must be loaded onto the main computer.</ol>
 <li>Connect your own laptop. We can accept standard connections from Windows and Apple laptops.</li>
 </ol>
  
-If you have other requirements, please contact the local organisers in advance {{< button-link label="2024@QCRYPT.NET" url="mailto:2024@QCRYPT.NET" icon="email" >}}
+If you have other requirements, please contact the local organisers in advance {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
 
 ## Poster Presentations
  
@@ -42,10 +42,9 @@ Posters should be <strong>no wider than 1 meter and no higher than 1.2 meters</s
  
 Poster boards will be identified by <strong>lastname_day_title. </strong>
 
-Poster sessions will be 90 minutes from 4:30 p.m. to 6 p.m. on Monday and Tuesday.
+The timing of the poster sessions will be confirmed closer to the conference.
 <br><br>
-{{< button-link label="Monday's Schedule" url="/2024/sessions/poster1/" icon="" >}}
-{{< button-link label="Tuesday's Schedule" url="/2024/sessions/poster2/" icon="" >}}
+{{< button-link label="Poster session schedule" url="/2027/sessions/poster_monday/" icon="" >}}
 <br>
 
 -->

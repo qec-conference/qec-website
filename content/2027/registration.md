@@ -11,7 +11,11 @@ menu:
 
 ---
 
-<!-- In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="2027@qec-conference.org" url="mailto:2027@qec-conference.org" icon="email" >}}
+Registration is not yet open. Details will be published here.
+
+<!-- Draft registration page, to be completed once fees and deadlines are set.
+
+In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
 
 
 ### General Information
@@ -19,39 +23,31 @@ The registration fees are as follows:
 
 |  Fees |  Early Bird  |  Regular  | Only onsite registration |
 |:---------|:--------|:--------|:--------|
-||  Until July 5.  |  Until Aug 9.   | From Aug 10 onwards.|
-|Student Registration | EUR€ | EUR€ | EUR€ |
-|General Registration | EUR€ | EUR€ | EUR€ |
-
+||  Until TBD.  |  Until TBD.   | From TBD onwards.|
+|Student Registration | EUR TBD | EUR TBD | EUR TBD |
+|General Registration | EUR TBD | EUR TBD | EUR TBD |
 
 
 The registration fees include:
 
 •  All sessions and programme materials.
 
-•  Evening reception on Monday.
+•  Welcome reception.
 
-•  Banquet Dinner.
+•  Conference dinner.
 
 •  Daily refreshment breaks.
 
-•  Option to participate in lab tours/excursions on Wednesday.
+•  Option to take part in the Wednesday afternoon activities.
 
 
 ### Code of Conduct
-People who register agree to abide by the <a href="/code-of-conduct">conference code of conduct</a>.
+People who register agree to abide by the <a href="/2027/code-of-conduct">conference code of conduct</a>.
 
-### VISA
-A visa letter can be requested during the registration process. Completion of the registration is required to issue a VISA letter. Visa letter requests can be made directly at the email address {{< button-link label="2027@qec-conference.org" url="mailto:2027@qec-conference.org" icon="email" >}} -->
+### Visas
+Depending on your nationality you may need a visa to enter France. A visa letter can be requested during the registration process; completion of the registration is required before a letter can be issued. Requests can be made at {{< button-link label="admin@qec-conference.org" url="mailto:admin@qec-conference.org" icon="email" >}}
 
-<!--If you wish to participate in person, please check with the Taiwan Embassy near your region for VISA application process (<a target="_blank" href="https://www.boca.gov.tw/lp-206-2.html">https://www.boca.gov.tw/lp-206-2.html</a>). After your VISA application is approved, please write to us at {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}} , we will send you a link to pay for the balance of the registration fee.
+### Student Fee Waiver
+A limited amount of funding may be available to support students who would otherwise be unable to attend. Details of how and when to apply will be published here.
 
-P.S. If you need an invitation letter for the VISA application, please reply to the registration confirmation letter. -->
-
-<!--### Student Fee Waiver
-A limited amount of funding is available to support students who need assistance and would not be able to attend without it. Students seeking a fee waiver should write to the conference organisers at {{< button-link label="2024@QCRYPT.NET" url="mailto:2024@QCRYPT.NET?subject=QCrypt 2024 Student Fee Waiver" icon="email" >}}
- with the subject line “QCrypt 2024 Student Fee Waiver” <strong> by July 15<sup>th</sup> </strong> to receive further instructions. -->
-
-<!-- **You can still register for the conference, but participation links will only be sent out twice a day.** In the meanwhile, you can watch the live stream on our QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
-
-In case of questions or technical difficulties, please contact: {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}}-->
+-->
