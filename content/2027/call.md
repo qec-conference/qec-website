@@ -12,61 +12,48 @@ menu:
 
 The call for papers will be published here.
 
-<!-- ## Key Dates QEC 2027
+<!-- Draft call, to be reviewed by the PC chairs before publication.
+     Dates below are provisional apart from the conference dates themselves.
+
+## Key Dates QEC 2027
 <strong>(all times 23:59 AoE)</strong>
 
 |Date |Event|
 |:----|:----|
 | 20 February 2027 | Opening of submission server |
-| Sat, 1 March 2027 |  Talk/Poster submission deadline |
-| Fri, 25 April 2027 | Talk acceptance notification |
-| Wed, 30 April 2027 | Poster-only submission deadline |
-| Mon, 5 May 2027 | Poster-only acceptance notification |
-| Mon, 15 - Fri, 19 Sept 2027 | QEC 2027 |
+| Mon, 1 March 2027 | Talk/Poster submission deadline |
+| Fri, 23 April 2027 | Talk acceptance notification |
+| Fri, 30 April 2027 | Poster-only submission deadline |
+| Fri, 7 May 2027 | Poster-only acceptance notification |
+| Sun, 6 - Fri, 11 June 2027 | QEC 2027 |
 
 
 **Note:** Talk submissions that are not retained will automatically be considered for the poster session.
 
 ## Topics
-The Theory of Quantum Computation, Communication and Cryptography (QEC) is a leading annual international conference for students and researchers working in the theoretical aspects of quantum information science. The scientific objective of QEC is to bring together the theoretical quantum information science community to present and discuss the latest advances in the field.
+The International Conference on Quantum Error Correction (QEC) is the leading annual international conference for students and researchers working on quantum error correction, covering both theoretical and experimental research and advances. The scientific objective of QEC is to bring the community together to present and discuss the latest progress towards fault-tolerant quantum computation.
 
 Areas of interest for QEC include, but are not restricted to:
-- quantum algorithms
-- models of quantum computation
-- quantum complexity theory
-- simulation of quantum systems
-- quantum cryptography
-- quantum communication
-- quantum information theory
-- quantum estimation and measurement
-- quantum error correction and fault-tolerant quantum computing
-- intersection of quantum information and condensed-matter theory
-- intersection of quantum information and machine learning
-
+- quantum error correcting codes, including topological, LDPC and subsystem codes
+- bosonic and hardware-efficient codes
+- fault-tolerant protocols, gadgets and architectures
+- decoders, decoding algorithms and real-time classical processing
+- resource estimation for fault-tolerant quantum computing
+- characterisation, verification and benchmarking of quantum error correction
+- experimental demonstrations of quantum error correction and fault tolerance
+- control systems and hardware for quantum error correction
+- error mitigation and its interplay with error correction
+- connections between quantum error correction and condensed-matter physics, quantum information theory and computer science
 
 ## Submission Guidelines
 
-As the goal of QEC is to bring together researchers on all aspects of quantum information, submissions are solicited for two tracks.
+Submissions are solicited for contributed talks and for posters. Accepted talks will be presented orally at the conference. In line with the <a href="/2027/charter">QEC charter</a>, **the conference has no published proceedings**, so submitting to QEC does not preclude publication elsewhere, and already published material is welcome provided it is still current and of interest to the community.
 
-### With Proceedings Track
-Submissions to this track must be original manuscripts that **have not previously appeared in published form and are not simultaneously submitted to another publishing venue**. Accepted papers will be presented orally at the conference and will be published in the conference proceedings.
+It is possible to present a poster if a submission is not accepted for a talk, and poster-only submissions are also possible. Poster submissions are generally accepted unless they are off-topic or clearly wrong, so that participants can obtain travel funding.
 
-### Without Proceedings Track (Talk Only) 
-Accepted submissions will be presented orally at the conference but will not appear in the proceedings. This track allows authors to publish their work elsewhere and accepts already published material. Previously published submissions must still be current to be competitive for acceptance.
+Conference talks are recorded and made publicly available soon after the conference.
 
-It is possible to present a poster if a submission is not accepted for a talk in either track, and poster-only submissions are also possible.
-
-In recent years, the overall **acceptance rate** for all papers submitted to QEC has been approximately 25%. The Programme Committee will target a minimum of 10 articles to be published in the proceedings; therefore, the acceptance rates could differ between the two tracks.
-
-### Best Paper Prize
-The Best Paper prize will be awarded to the best paper accepted to the conference (both tracks combined). The Programme Committee may decide to split the prize between multiple papers or to decline to make an award.
-
-### Best Student Paper Prize
-The Best Student Paper prize will be awarded to the best student paper accepted at the conference (both tracks combined). The Programme Committee may decide to split the prize between multiple papers or to decline to make an award.
-
-A submission is eligible for the Best Student Paper prize if and only if the main author(s) is/are a student(s) at the time of submission and will present the work at QEC. Additionally, a significant portion of the work (at least 60%) must have been done by the student(s), including contributing the majority of the key ideas. Eligibility can only be indicated at the time of submission. The Programme Committee Chair may request clarifications regarding the students' contributions at any time. If a paper qualifies for both the Best Student Paper prize and the Best Paper prize, it should be considered for both; a paper meriting both prizes should receive both.
-
-### Submission Format (applies to both With and Without Proceedings tracks)
+### Submission Format
 
 All submissions should include *both* an extended abstract and a technical version, submitted as two separate PDF files.
 
@@ -75,34 +62,27 @@ All submissions should include *both* an extended abstract and a technical versi
 - This extended abstract will be used to evaluate the originality and importance of the results.
 - The submission should begin with a title and a list of authors.
 - The text must be in a single-column format, use at least 11-point fonts, and have reasonable margins.
-- If the work is currently under submission to, has been accepted at, or has been presented at any other conference(s) or workshop(s) (without proceedings), this should be indicated on the first page of the submission.
+- If the work is currently under submission to, has been accepted at, or has been presented at any other conference(s) or workshop(s), this should be indicated on the first page of the submission.
 
 #### Technical Manuscript
 - No page limit. Authors are encouraged to use the "full version" of their paper.
 - The submission should begin with a title, a list of authors, and a short abstract.
 - This manuscript will be used to verify the correctness of the submission if necessary.
 - Even if the manuscript is available in an online repository, a PDF copy must be uploaded. If the submission consists of multiple papers, they should be merged into a single file.
-- See the Proceedings section below for further instructions that apply to the With Proceedings track.
 
 The Programme Committee reserves the right to decide how to treat submissions that deviate from the above format, including rejection of submissions solely on the basis of their format.
 
-### Proceedings
-Accepted manuscripts in the With Proceedings track will be published in late 2027 in the QEC 2027 proceedings, as part of the well-known open-access LIPIcs–Leibniz International Proceedings in Informatics series.  Only the first 15 pages of the technical version of the manuscript will be published, due to LIPIcs-Leibniz formatting requirements (references are not included in this page limit).  If available, a link to a longer version of the paper in an on-line repository can be included as a footnote or a reference within these 15 pages.  While technical manuscripts need not use the LIPIcs-Leibniz template for the submission, the Programme Committee will make their decisions based on the first 15 pages of the technical manuscript and  authors are strongly encouraged to make these first 15 pages self-contained.
-
-### Final version
-If your manuscript is accepted for publication in the proceedings, you will receive instructions on how to prepare the final revised version together with the notification.
-
 ### Poster submissions
-Talk submissions that are not retained will automatically be considered for the poster session (in both tracks). In addition, you can submit your work for a poster-only presentation.
+Talk submissions that are not retained will automatically be considered for the poster session. In addition, you can submit your work for a poster-only presentation.
 
-Poster-only submissions must either consist of a short summary (2 pages) of the work, or follow the guidelines from either of the tracks above.
+Poster-only submissions must either consist of a short summary (2 pages) of the work, or follow the guidelines above.
 
 ### Important note: talk submission to multiple conferences
-As a research community, our goal is that contributed talks at quantum information conferences reflect the breadth of our field. We therefore discourage the parallel submission of works that were previously accepted or presented as talks at a conference with a similar scope, such as [QIP](https://qipconference.org/).
+As a research community, our goal is that contributed talks at quantum information conferences reflect the breadth of our field. We therefore discourage the parallel submission of works that were previously accepted or presented as talks at a conference with a similar scope.
 
-On the first page of your submission, indicate if your work is currently under submission to, has been accepted at, or has been presented at any other conference or workshop, as a talk. If that is the case, quickly discuss the reason for the multiple submissions as well as significant differences relative to these submissions or venues.  The assessment of this information is at the Programme Committee’s discretion.
+On the first page of your submission, indicate if your work is currently under submission to, has been accepted at, or has been presented at any other conference or workshop, as a talk. If that is the case, quickly discuss the reason for the multiple submissions as well as significant differences relative to these submissions or venues. The assessment of this information is at the Programme Committee's discretion.
 
 ## Programme Committee
-The programme committee list can be found <a href="/team/#programme-committee">here</a>.
+The programme committee list can be found <a href="/2027/team/#programme-committee">here</a>.
 
 Please direct any questions or comments to the PC chairs via email to {{< button-link label="pcchairs2027@qec-conference.org" url="mailto:pcchairs2027@qec-conference.org" icon="email" >}}. -->
