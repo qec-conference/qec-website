@@ -25,6 +25,12 @@ enableMissingTranslationPlaceholders = true
 [params]
     title = "QEC Conference Website"
     date = "2025-09-15"
+        # To launch the 2027 site, four things must change together:
+        #   1. currentYear below                     -> 2027
+        #   2. date below                            -> 2027-06-06
+        #   3. netlify.toml [[redirects]]            -> to = "/2027/"
+        #   4. netlify.toml [build.environment] TZ   -> "Europe/Paris"
+        # ([server.redirects] already points at /2027/ for local preview.)
         currentYear = 2026
         description = "International Conference on Quantum Error Correction (QEC)"
         images = ["/images/social-share.jpg"]
@@ -54,7 +60,7 @@ enableMissingTranslationPlaceholders = true
     [server]
       [[server.redirects]]
           from = "/"
-          to = "/2026/"
+          to = "/2027/"
           status = 302
           force = true 
 
@@ -175,3 +181,53 @@ unsafe = true
     identifier = "code-of-conduct-2"
     parent = "organization"
     pageRef = "/2026/code-of-conduct"
+
+[params.2027]
+  city = "Paris, France"
+  timeanddate_cityid = 195 ## Placeholder ID, update as needed!
+  themeColor = "#64b5f6"
+  [params.2027.logos]
+    jumbo = "/images/2027/background-2027.jpg"
+    header = "/images/2027/logo-2027.png"
+    banner = "/images/2027/banner-2027.jpg"
+
+  [[menu.2027]]
+    name = "Home"
+    weight = 10
+    identifier = "home"
+    pageRef = '/2027'
+  [[menu.2027]]
+    name = "Technical Program"
+    weight = 20
+    identifier = "technical-program"
+  [[menu.2027]]
+    name = "Attend"
+    weight = 30
+    identifier = "attend"
+  [[menu.2027]]
+    name = "Sponsors"
+    weight = 40
+    identifier = "sponsors"
+    pageRef = "/2027/partners"
+  [[menu.2027]]
+    name = "Organisation"
+    weight = 50
+    identifier = "organisation"
+  [[menu.2027]]
+    name = "Committees"
+    weight = 51
+    identifier = "committees"
+    parent = "organisation"
+    pageRef = "/2027/team"
+  [[menu.2027]]
+    name = "Charter"
+    weight = 52
+    identifier = "charter"
+    parent = "organisation"
+    pageRef = "/2027/charter"
+  [[menu.2027]]
+    name = "History"
+    weight = 53
+    identifier = "history"
+    parent = "organisation"
+    pageRef = "/2027/history"

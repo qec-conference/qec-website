@@ -1,7 +1,9 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 <section class="location">
 
-	<div class="map" style="background-image: url('{{ .Get "image" }}');"></div>
+	<div class="map" style="background-image: url('{{ .Get "image" }}');"{{ if .Get "embed" }} onclick="this.querySelector('iframe').style.pointerEvents='auto'" onmouseleave="this.querySelector('iframe').style.pointerEvents='none'"{{ end }}>
+		{{ with .Get "embed" }}<iframe src="{{ . }}" title="Map" loading="lazy" style="width: 100%; height: 100%; border: 0; pointer-events: none;"></iframe>{{ end }}
+	</div>
 
 	<div class="description">
 		<div class="inner">

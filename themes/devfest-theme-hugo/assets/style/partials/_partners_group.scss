@@ -43,17 +43,20 @@
   flex-basis: 360px;
 }
 
-.partners-group.partner-gold ul li {
+.partners-group.partner-gold ul li,
+.partners-group.partner-circuit ul li {
   height: var(--partner-gold-height);
   flex-basis: 320px;
 }
 
-.partners-group.partner-silver ul li {
+.partners-group.partner-silver ul li,
+.partners-group.partner-pheno ul li {
   height: var(--partner-silver-height);
   flex-basis: 280px;
 }
 
-.partners-group.partner-bronze ul li {
+.partners-group.partner-bronze ul li,
+.partners-group.partner-codecap ul li {
   height: var(--partner-bronze-height);
   flex-basis: 240px;
 }
@@ -117,7 +120,8 @@
   }
 }
 
-.partners-group.partner-gold .fancy {
+.partners-group.partner-gold .fancy,
+.partners-group.partner-circuit .fancy {
   font-size: 1.9em;
   color: var(--color-gold);
 
@@ -127,7 +131,8 @@
   }
 }
 
-.partners-group.partner-silver .fancy {
+.partners-group.partner-silver .fancy,
+.partners-group.partner-pheno .fancy {
   font-size: 1.8em;
   color: var(--color-silver);
 
@@ -137,7 +142,8 @@
   }
 }
 
-.partners-group.partner-bronze .fancy {
+.partners-group.partner-bronze .fancy,
+.partners-group.partner-codecap .fancy {
   font-size: 1.5em;
   color: var(--color-bronze);
 
