@@ -24,14 +24,14 @@ enableMissingTranslationPlaceholders = true
 
 [params]
     title = "QEC Conference Website"
-    date = "2025-09-15"
+    date = "2027-06-06"
         # To launch the 2027 site, four things must change together:
         #   1. currentYear below                     -> 2027
         #   2. date below                            -> 2027-06-06
         #   3. netlify.toml [[redirects]]            -> to = "/2027/"
         #   4. netlify.toml [build.environment] TZ   -> "Europe/Paris"
         # ([server.redirects] already points at /2027/ for local preview.)
-        currentYear = 2026
+        currentYear = 2027
         description = "International Conference on Quantum Error Correction (QEC)"
         images = ["/images/social-share.jpg"]
         email = "admin@qec-conference.org"
@@ -184,7 +184,7 @@ unsafe = true
 
 [params.2027]
   city = "Paris, France"
-  timeanddate_cityid = 195 ## Placeholder ID, update as needed!
+  timeanddate_cityid = 195
   themeColor = "#64b5f6"
   [params.2027.logos]
     jumbo = "/images/2027/background-2027.jpg"
